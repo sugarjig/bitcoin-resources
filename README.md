@@ -7,12 +7,19 @@ A list of links and other resources about Bitcoin
 * [Blockstream](https://blockstream.info)
 * [OXT](https://oxt.me)
 
+## Information
+
+* [Bitcoin Wiki](https://en.bitcoin.it)
+* [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
+
 ## Markets
 
 * [CoinMarketBook](https://coinmarketbook.cc)
+* [CoinMarketCap](https://coinmarketcap.com)
 
 ## Network
 
+* [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
 
 ## News
