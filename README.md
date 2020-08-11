@@ -16,6 +16,7 @@ A list of links and other resources about Bitcoin
 
 * [CoinMarketBook](https://coinmarketbook.cc)
 * [CoinMarketCap](https://coinmarketcap.com)
+* [McAfee Tracker](https://fnordprefekt.de)
 
 ## Network
 
