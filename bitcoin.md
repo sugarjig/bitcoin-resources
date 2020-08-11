@@ -2,13 +2,9 @@
 
 ## Block Explorers
 
+* [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
 * [OXT](https://oxt.me)
-
-## Information
-
-* [Bitcoin Wiki](https://en.bitcoin.it)
-* [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 
 ## Markets
 
@@ -20,7 +16,15 @@
 
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
+* [Coin Dance](https://coin.dance)
+* [Statoshi](https://statoshi.info)
 
 ## News
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
+
+## Reference
+
+* [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
+* [Bitcoin Wiki](https://en.bitcoin.it)
+* [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
