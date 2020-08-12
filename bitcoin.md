@@ -9,6 +9,7 @@
 
 * [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
+* [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
 
 ## Charts
@@ -26,13 +27,19 @@
 
 ## Mining
 
+* [HashrateIndex](https://hashrateindex.com)
 * [PoW 51% Attack Cost](https://www.crypto51.app)
+
+## Miscellaneous
+
+* [Bitcoin Donation Portal](https://bitcoindevlist.com)
 
 ## Network
 
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
 * [Coin Dance](https://coin.dance)
+* [Fork Monitor](https://forkmonitor.info)
 * [Statoshi](https://statoshi.info)
 * [txstats](https://txstats.com)
 
@@ -40,15 +47,24 @@
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
 * [Bitcoin Optech](https://bitcoinops.org)
-  * [Bech32 Sending Support](https://bitcoinops.org/en/bech32-sending-support/)
 
 ## Reference
 
+* Bitcoin Optech
+  * [Bech32 Sending Support](https://bitcoinops.org/en/bech32-sending-support/)
+  * [Compatibility Matrix](https://bitcoinops.org/en/compatibility/)
+  * [Topics](https://bitcoinops.org/en/topics/)
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 
 ## Resources
 
+* [Bitcoin Only](https://bitcoin-only.com)
+* [Bitcoin Resources](https://bitcoin-resources.com)
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 
+## Statistics
+
+* [BitInfoCharts](https://bitinfocharts.com)
+  * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
