@@ -2,6 +2,9 @@
 
 ## Books
 
+* [Bitcoin Programming with BitcoinJS, Bitcoin Core and LND](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
+* [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
+* [Learning Bitcoin (and Lightning) from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 
