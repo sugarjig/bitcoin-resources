@@ -55,6 +55,16 @@
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
 * [Bitcoin Optech](https://bitcoinops.org)
 
+## Nodes
+
+* [bcoin](https://bitcore.io)
+* [Bitcore](https://bitcore.io)
+* [btcd](https://github.com/btcsuite/btcd)
+* [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
+* [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
+* [myNode](https://github.com/mynodebtc/mynode)
+* [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
+
 ## Reference
 
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
