@@ -22,6 +22,10 @@
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/)
 * [OP_RETURN](https://opreturn.org)
 
+## Exchanges
+
+* [Bisq](https://bisq.network)
+
 ## Markets
 
 * [CoinMarketBook](https://coinmarketbook.cc)
@@ -53,10 +57,13 @@
 
 ## Reference
 
+* [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
+* [Bitcoin Developer](https://developer.bitcoin.org)
 * Bitcoin Optech
   * [Bech32 Sending Support](https://bitcoinops.org/en/bech32-sending-support/)
   * [Compatibility Matrix](https://bitcoinops.org/en/compatibility/)
   * [Topics](https://bitcoinops.org/en/topics/)
+* [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
@@ -71,3 +78,9 @@
 
 * [BitInfoCharts](https://bitinfocharts.com)
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
+
+## Training
+
+* [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
+* [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+* [Mooniversity](https://mooniversity.io)
