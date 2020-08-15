@@ -31,6 +31,23 @@
 
 * [Bisq](https://bisq.network)
 
+## Layer 2
+
+* [Counterparty](https://counterparty.io)
+* [Drivechain](https://www.drivechain.info)
+* [Elements](https://elementsproject.org)
+* [Factom](https://www.factom.com)
+* [ION](https://github.com/decentralized-identity/ion)
+* [Liquid](https://github.com/ElementsProject/elements)
+* [Omni Layer](https://www.omnilayer.org)
+* [OpenTimestamps](https://opentimestamps.org)
+* [OriginStamp](https://originstamp.com)
+* [Proof of Existence](https://proofofexistence.com)
+* [RGB](https://github.com/rgb-org/spec)
+* [rsk](https://www.rsk.co)
+* [Storm](https://github.com/storm-org/storm-spec)
+* [ZeroNet](https://zeronet.io)
+
 ## Libraries
 
 * [bitcoinj](https://bitcoinj.github.io)
