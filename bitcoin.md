@@ -102,6 +102,11 @@
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
 
+## Payments
+
+* [BTCPay Server](https://btcpayserver.org)
+* [OpenNode](https://www.opennode.com)
+
 ## Reference
 
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
@@ -127,6 +132,7 @@
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc)
+* [Simplicity](https://github.com/ElementsProject/simplicity)
 
 ## Statistics
 
@@ -136,15 +142,35 @@
 ## Tools
 
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
+* [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
 * [bitcointools](https://github.com/jnewbery/bitcointools)
+* [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
-* [BTCPay Server](https://btcpayserver.org)
+* [Caravan](https://unchained-capital.github.io/caravan/) - coordination software for multisig addresses
 * [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
+* [Electrum Server in Rust](https://github.com/romanz/electrs)
+* [ElectrumX](https://github.com/kyuupichan/electrumx)
+* [Esplora Block Explorer](https://github.com/blockstream/esplora)
+* [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
+* [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
+* [Magical Bitcoin Playground](https://magicalbitcoin.org/repl/playground/)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
+* [reserves](https://github.com/ElementsProject/reserves)
+* [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
+* [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
+* [txTenna](https://github.com/MuleTools/txTenna)
 
 ## Training
 
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Mooniversity](https://mooniversity.io)
+
+## Wallets
+
+* [Blockstream Green](https://blockstream.com/green/)
+* [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
+* [GreenAddress](https://greenaddress.it/en/)
+* [Lily Wallet](http://lily.kevinmulcrone.com)
+* [Wasabi](https://www.wasabiwallet.io)
