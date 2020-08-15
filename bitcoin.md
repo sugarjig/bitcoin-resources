@@ -23,6 +23,10 @@
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/)
 * [OP_RETURN](https://opreturn.org)
 
+## Essays
+
+* [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
+
 ## Exchanges
 
 * [Bisq](https://bisq.network)
@@ -49,6 +53,7 @@
 
 * [HashrateIndex](https://hashrateindex.com)
 * [PoW 51% Attack Cost](https://www.crypto51.app)
+* [Stratum](https://www.stratumprotocol.org)
 
 ## Miscellaneous
 
@@ -77,6 +82,11 @@
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [myNode](https://github.com/mynodebtc/mynode)
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
+
+## Protocol
+
+* [Miniscript](http://bitcoin.sipa.be/miniscript/)
+* [Minsc](https://min.sc)
 
 ## Reference
 
