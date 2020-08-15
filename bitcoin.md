@@ -9,13 +9,6 @@
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 * [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
 
-## Block Explorers
-
-* [Blockchair](https://blockchair.com)
-* [Blockstream](https://blockstream.info)
-* [mempool](https://mempool.space)
-* [OXT](https://oxt.me)
-
 ## Charts
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
@@ -30,6 +23,13 @@
 ## Exchanges
 
 * [Bisq](https://bisq.network)
+
+## Explorers
+
+* [Blockchair](https://blockchair.com)
+* [Blockstream](https://blockstream.info)
+* [mempool](https://mempool.space)
+* [OXT](https://oxt.me)
 
 ## Layer 2
 
@@ -100,11 +100,7 @@
 * [myNode](https://github.com/mynodebtc/mynode)
 * [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
-
-## Protocol
-
-* [Miniscript](http://bitcoin.sipa.be/miniscript/)
-* [Minsc](https://min.sc)
+* [Statoshi](https://jlopp.github.io/statoshi/)
 
 ## Reference
 
@@ -125,10 +121,27 @@
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 
+## Script
+
+* [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
+* [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
+* [Miniscript](http://bitcoin.sipa.be/miniscript/)
+* [Minsc](https://min.sc)
+
 ## Statistics
 
 * [BitInfoCharts](https://bitinfocharts.com)
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
+
+## Tools
+
+* [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
+* [bitcointools](https://github.com/jnewbery/bitcointools)
+* [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
+* [BTCPay Server](https://btcpayserver.org)
+* [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
+* [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
+* [Mule Tools](https://github.com/MuleTools/MuleTools)
 
 ## Training
 
