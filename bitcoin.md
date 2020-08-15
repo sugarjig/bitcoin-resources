@@ -81,6 +81,7 @@
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [myNode](https://github.com/mynodebtc/mynode)
+* [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 
 ## Protocol
