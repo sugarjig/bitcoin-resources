@@ -7,6 +7,7 @@
 * [Learning Bitcoin (and Lightning) from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
+* [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
 
 ## Block Explorers
 
@@ -25,6 +26,18 @@
 ## Exchanges
 
 * [Bisq](https://bisq.network)
+
+## Libraries
+
+* [bitcoinj](https://bitcoinj.github.io)
+* [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
+* [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
+* [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk)
+* [libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Bitcoin library for the .NET framework
+* [pycoin](https://github.com/richardkiss/pycoin)
+* [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
+* [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
 
 ## Markets
 
