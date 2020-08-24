@@ -1,48 +1,48 @@
-# Lightning
+## Lightning
 
-## Apps
+### Apps
 
 * [Juggernaut](https://www.getjuggernaut.com)
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
 * [Lightning Service Authentication Token](https://lsat.tech)
 * [Whatsat](https://github.com/joostjager/whatsat)
 
-## Books
+### Books
 
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
 
-## Network
+### Network
 
 * [1ML](https://1ml.com)
 * [Lightning Network Explorer](https://explorer.acinq.co)
 
-## Nodes
+### Nodes
 
 * [c-lightning](https://github.com/ElementsProject/lightning)
   * [Plugins](https://github.com/lightningd/plugins/)
 * [Eclair](https://github.com/ACINQ/eclair)
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 
-## Payments
+### Payments
 
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge)
 * [Strike](https://strike.acinq.co)
 
-## Protocol
+### Protocol
 
 * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
 
-## Reference
+### Reference
 
 * [lightning wiki](https://lightningwiki.net)
 * [Lightning Network Developers](https://dev.lightning.community)
 
-## Services
+### Services
 
 * [Lightning Loops](https://lightning.engineering/loop/)
 * [Submarine Swaps](https://submarineswaps.org)
 
-## Tools
+### Tools
 
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
@@ -53,11 +53,11 @@
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 
-## Training
+### Training
 
 * [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
 
-## Wallets
+### Wallets
 
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Joule](https://lightningjoule.com)

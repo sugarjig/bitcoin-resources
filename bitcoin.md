@@ -1,6 +1,6 @@
-# Bitcoin
+## Bitcoin
 
-## Books
+### Books
 
 * [Bitcoin Programming with BitcoinJS, Bitcoin Core and LND](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
 * [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
@@ -9,29 +9,29 @@
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 * [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
 
-## Charts
+### Charts
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/)
 * [OP_RETURN](https://opreturn.org)
 
-## Essays
+### Essays
 
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 
-## Exchanges
+### Exchanges
 
 * [Bisq](https://bisq.network)
 
-## Explorers
+### Explorers
 
 * [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
 
-## Layer 2
+### Layer 2
 
 * [Counterparty](https://counterparty.io)
 * [Drivechain](https://www.drivechain.info)
@@ -48,7 +48,7 @@
 * [Storm](https://github.com/storm-org/storm-spec)
 * [ZeroNet](https://zeronet.io)
 
-## Libraries
+### Libraries
 
 * [bitcoinj](https://bitcoinj.github.io)
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
@@ -60,23 +60,23 @@
 * [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
 
-## Markets
+### Markets
 
 * [CoinMarketBook](https://coinmarketbook.cc)
 * [CoinMarketCap](https://coinmarketcap.com)
 * [McAfee Tracker](https://fnordprefekt.de)
 
-## Mining
+### Mining
 
 * [HashrateIndex](https://hashrateindex.com)
 * [PoW 51% Attack Cost](https://www.crypto51.app)
 * [Stratum](https://www.stratumprotocol.org)
 
-## Miscellaneous
+### Miscellaneous
 
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 
-## Network
+### Network
 
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
@@ -85,12 +85,12 @@
 * [Statoshi](https://statoshi.info)
 * [txstats](https://txstats.com)
 
-## News
+### News
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
 * [Bitcoin Optech](https://bitcoinops.org)
 
-## Nodes
+### Nodes
 
 * [bcoin](https://bitcore.io)
 * [Bitcore](https://bitcore.io)
@@ -102,12 +102,12 @@
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
 
-## Payments
+### Payments
 
 * [BTCPay Server](https://btcpayserver.org)
 * [OpenNode](https://www.opennode.com)
 
-## Reference
+### Reference
 
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
 * [Bitcoin Developer](https://developer.bitcoin.org)
@@ -120,13 +120,13 @@
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 
-## Resources
+### Resources
 
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 
-## Script
+### Script
 
 * [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
@@ -134,12 +134,12 @@
 * [Minsc](https://min.sc)
 * [Simplicity](https://github.com/ElementsProject/simplicity)
 
-## Statistics
+### Statistics
 
 * [BitInfoCharts](https://bitinfocharts.com)
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
 
-## Tools
+### Tools
 
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
@@ -161,13 +161,13 @@
 * [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
 
-## Training
+### Training
 
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Mooniversity](https://mooniversity.io)
 
-## Wallets
+### Wallets
 
 * [Blockstream Green](https://blockstream.com/green/)
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
