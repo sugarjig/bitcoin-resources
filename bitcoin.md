@@ -118,6 +118,7 @@
 * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
+* [Blockstream Docs](https://docs.blockstream.com)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 
 ### Resources
