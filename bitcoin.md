@@ -176,3 +176,13 @@
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
 * [Wasabi](https://www.wasabiwallet.io)
+
+#### Hardware Wallets
+
+* [Trezor](https://wiki.trezor.io/Welcome)
+  * [FIDO2](https://wiki.trezor.io/FIDO2)
+  * [Monero](https://wiki.trezor.io/Monero_(XMR))
+  * [Passphrase](https://wiki.trezor.io/Passphrase)
+  * [Password Manager](https://trezor.io/passwords/)
+  * [trezorctl](https://wiki.trezor.io/Using_trezorctl_commands_with_Trezor)
+  * [U2F](https://wiki.trezor.io/U2F)
