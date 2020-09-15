@@ -96,6 +96,7 @@
 * [bcoin](https://bitcore.io)
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd)
+* [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [myNode](https://github.com/mynodebtc/mynode)
@@ -172,6 +173,7 @@
 ### Wallets
 
 * [Blockstream Green](https://blockstream.com/green/)
+* [Blue Wallet](https://bluewallet.io)
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
