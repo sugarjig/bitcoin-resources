@@ -177,6 +177,7 @@
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
+* [Specter Desktop](https://github.com/cryptoadvance/specter-desktop)
 * [Wasabi](https://www.wasabiwallet.io)
 
 #### Hardware Wallets
