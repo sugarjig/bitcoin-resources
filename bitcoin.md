@@ -174,6 +174,7 @@
 
 ### Wallets
 
+* [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io)
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
