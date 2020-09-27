@@ -19,6 +19,7 @@
 ### Essays
 
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+* [Gradually, Then Suddenly](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 
 ### Exchanges
