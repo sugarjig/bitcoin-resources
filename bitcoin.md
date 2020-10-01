@@ -1,6 +1,8 @@
-## Bitcoin
-
-### Books
+---
+layout: single
+title: Bitcoin
+---
+## Books
 
 * [Bitcoin Programming with BitcoinJS, Bitcoin Core and LND](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
 * [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
@@ -10,7 +12,7 @@
 * [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
 * [Q/A about Bitcoin](https://github.com/theDavidCoen/Q-A-about-Bitcoin)
 
-### Charts
+## Charts
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
@@ -18,7 +20,7 @@
 * [OP_RETURN](https://opreturn.org)
 * [UTXO.live](https://utxo.live) - current UTXO set[
 
-### Essays
+## Essays
 
 * [Bitcoin Astronomy](https://unchained-capital.com/blog/law-of-hash-horizons/)
 * [Bitcoin Astronomy: Part II](https://unchained-capital.com/blog/bitcoin-astronomy-part-ii/)
@@ -30,7 +32,7 @@
 * [Nobody Understands Bitcoin (And That’s OK)](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/)
 * [The Number Zero and Bitcoin](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
 
-### Exchanges
+## Exchanges
 
 * [Bisq](https://bisq.network) - decentralized exchange
 * [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
@@ -39,14 +41,14 @@
 
 * [Keys.lol](https://keys.lol) - list of all private keys
 
-### Explorers
+## Explorers
 
 * [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
 
-### Layer 2
+## Layer 2
 
 * [Counterparty](https://counterparty.io)
 * [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
@@ -66,7 +68,7 @@
 * [Storm](https://github.com/storm-org/storm-spec)
 * [ZeroNet](https://zeronet.io)
 
-### Libraries
+## Libraries
 
 * [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
 * [bitcoinj](https://bitcoinj.github.io)
@@ -80,7 +82,7 @@
 * [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
 
-### Markets
+## Markets
 
 * [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
 * [CoinMarketBook](https://coinmarketbook.cc)
@@ -88,7 +90,7 @@
 * [McAfee Tracker](https://fnordprefekt.de)
 * [WhatTheFee.io](https://whatthefee.io) - Bitcoin feerate estimation
 
-### Mining
+## Mining
 
 * [HashrateIndex](https://hashrateindex.com)
 * [Honeyminer](https://honeyminer.com)
@@ -96,11 +98,11 @@
 * [PoW 51% Attack Cost](https://www.crypto51.app)
 * [Stratum](https://www.stratumprotocol.org)
 
-### Miscellaneous
+## Miscellaneous
 
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 
-### Network
+## Network
 
 * [Bitbo](https://bitbo.io)
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
@@ -111,12 +113,12 @@
 * [Statoshi](https://statoshi.info)
 * [txstats](https://txstats.com)
 
-### News
+## News
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
 * [Bitcoin Optech](https://bitcoinops.org)
 
-### Nodes
+## Nodes
 
 * [bcoin](https://bitcore.io)
 * [Bitcore](https://bitcore.io)
@@ -135,12 +137,12 @@
 * [Statoshi](https://jlopp.github.io/statoshi/)
 * [Umbrel](https://getumbrel.com)
 
-### Payments
+## Payments
 
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
 * [OpenNode](https://www.opennode.com)
 
-### Reference
+## Reference
 
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
 * [Bitcoin Developer](https://developer.bitcoin.org)
@@ -155,7 +157,7 @@
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 * [Wallets Recovery](https://walletsrecovery.org)
 
-### Resources
+## Resources
 
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
 * [Bitcoin Only](https://bitcoin-only.com)
@@ -163,7 +165,7 @@
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [River Learn](https://river.com/learn/)
 
-### Script
+## Script
 
 * [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
@@ -171,7 +173,7 @@
 * [Minsc](https://min.sc)
 * [Simplicity](https://github.com/ElementsProject/simplicity)
 
-### Statistics
+## Statistics
 
 * [Bitcoin Protocol Layer Statistics](https://transactionfee.info)
 * [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
@@ -179,7 +181,7 @@
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
 * [Glassnode](https://glassnode.com)
 
-### Tools
+## Tools
 
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
@@ -208,13 +210,13 @@
 * [txTenna](https://github.com/MuleTools/txTenna)
 * [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
 
-### Training
+## Training
 
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Mooniversity](https://mooniversity.io)
 
-### Wallets
+## Wallets
 
 * [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
@@ -228,7 +230,7 @@
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
 
-#### Hardware Wallets
+### Hardware Wallets
 
 * [Coldcard](https://coldcardwallet.com)
 * [Trezor](https://wiki.trezor.io/Welcome)

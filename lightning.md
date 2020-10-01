@@ -1,6 +1,8 @@
-## Lightning
-
-### Apps
+---
+layout: single
+title: Lightning
+---
+## Apps
 
 * [Juggernaut](https://www.getjuggernaut.com)
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
@@ -8,53 +10,57 @@
 * [Sphinx](https://sphinx.chat) - chat and podcasting
 * [Whatsat](https://github.com/joostjager/whatsat)
 
-### Books
+## Books
 
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
 
-### Network
+## Network
 
 * [1ML](https://1ml.com)
 * [Lightning Network Explorer](https://explorer.acinq.co)
 
-### Nodes
+## Nodes
 
 * [c-lightning](https://github.com/ElementsProject/lightning)
   * [Plugins](https://github.com/lightningd/plugins/)
 * [Eclair](https://github.com/ACINQ/eclair)
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 
+<<<<<<< HEAD
 #### All-In-One
 
 * [Lightning In A Box](https://lightninginabox.co/product/lightning-in-a-box/)
 * [RaspiBolt](https://stadicus.github.io/RaspiBolt/)
 
 ### Payments
+=======
+## Payments
+>>>>>>> Use theme layouts
 
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge)
 * [Strike](https://strike.acinq.co)
 * [Strike by Zap](https://beta.strike.me)
 
-### Protocol
+## Protocol
 
 * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
 
-### Reference
+## Reference
 
 * [lightning wiki](https://lightningwiki.net)
 * [Lightning Network Developers](https://dev.lightning.community)
 
-### Resources
+## Resources
 
 * [Lightning Network Resources](https://www.lopp.net/lightning-information.html) - Jameson Lopp
 
-### Services
+## Services
 
 * [Lightning Loops](https://lightning.engineering/loop/)
 * [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
 * [Submarine Swaps](https://submarineswaps.org)
 
-### Tools
+## Tools
 
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
@@ -65,11 +71,11 @@
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 
-### Training
+## Training
 
 * [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
 
-### Wallets
+## Wallets
 
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Joule](https://lightningjoule.com)
