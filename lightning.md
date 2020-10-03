@@ -27,6 +27,7 @@
 
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge)
 * [Strike](https://strike.acinq.co)
+* [Strike by Zap](https://beta.strike.me)
 
 ### Protocol
 
