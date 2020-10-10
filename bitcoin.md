@@ -146,6 +146,7 @@
 
 ### Tools
 
+* [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
 * [bitcointools](https://github.com/jnewbery/bitcointools)
@@ -159,7 +160,6 @@
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
-* [Magical Bitcoin Playground](https://magicalbitcoin.org/repl/playground/)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [reserves](https://github.com/ElementsProject/reserves)
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
