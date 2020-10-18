@@ -8,6 +8,7 @@
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 * [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
+* [Q/A about Bitcoin](https://github.com/theDavidCoen/Q-A-about-Bitcoin)
 
 ### Charts
 
