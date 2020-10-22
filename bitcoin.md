@@ -132,6 +132,7 @@
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
+* [River Learn](https://river.com/learn/)
 
 ### Script
 
