@@ -150,6 +150,7 @@
 ### Tools
 
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
+* [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
 * [bitcointools](https://github.com/jnewbery/bitcointools)
