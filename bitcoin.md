@@ -45,6 +45,7 @@
 * [Omni Layer](https://www.omnilayer.org)
 * [OpenTimestamps](https://opentimestamps.org)
 * [OriginStamp](https://originstamp.com)
+* [P2PDerivatives](https://github.com/p2pderivatives/p2pderivatives-client) - Discreet Log Contracts
 * [Proof of Existence](https://proofofexistence.com)
 * [RGB](https://github.com/rgb-org/spec)
 * [rsk](https://www.rsk.co)
@@ -57,6 +58,7 @@
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
 * [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk)
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
 * [libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Bitcoin library for the .NET framework
 * [pycoin](https://github.com/richardkiss/pycoin)
@@ -184,7 +186,7 @@
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
-* [Specter Desktop](https://github.com/cryptoadvance/specter-desktop)
+* [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Wasabi](https://www.wasabiwallet.io)
 
 #### Hardware Wallets
