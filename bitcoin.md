@@ -105,6 +105,7 @@
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [myNode](https://github.com/mynodebtc/mynode)
 * [Nigiri Bitcoin](https://nigiri.vulpem.com) - A delicious docker box for special Bitcoin and Liquid cookings
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security
 * [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
