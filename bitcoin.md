@@ -167,6 +167,7 @@
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
+* [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [reserves](https://github.com/ElementsProject/reserves)
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
