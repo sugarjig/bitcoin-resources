@@ -37,6 +37,7 @@
 ### Layer 2
 
 * [Counterparty](https://counterparty.io)
+* [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
 * [Drivechain](https://www.drivechain.info)
 * [Elements](https://elementsproject.org)
 * [Factom](https://www.factom.com)
