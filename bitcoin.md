@@ -194,6 +194,7 @@
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
+* [Nunchuk](https://nunchuk.io) - Multisig
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Wasabi](https://www.wasabiwallet.io)
