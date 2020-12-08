@@ -113,6 +113,7 @@
 * [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
+* [Umbrel](https://getumbrel.com)
 
 ### Payments
 
