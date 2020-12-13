@@ -5,6 +5,7 @@
 * [Juggernaut](https://www.getjuggernaut.com)
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
 * [Lightning Service Authentication Token](https://lsat.tech)
+* [Sphinx](https://sphinx.chat) - chat and podcasting
 * [Whatsat](https://github.com/joostjager/whatsat)
 
 ### Books

@@ -28,7 +28,8 @@
 
 ### Exchanges
 
-* [Bisq](https://bisq.network)
+* [Bisq](https://bisq.network) - decentralized exchange
+* [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
 
 ### Explorers
 
@@ -107,17 +108,18 @@
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
-* [myNode](https://github.com/mynodebtc/mynode)
+* [myNode](https://mynodebtc.com)
 * [Nigiri Bitcoin](https://nigiri.vulpem.com) - A delicious docker box for special Bitcoin and Liquid cookings
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security
-* [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
+* [nodl one](https://www.nodl.it)
+* [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Raspberry Pi node
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
 * [Umbrel](https://getumbrel.com)
 
 ### Payments
 
-* [BTCPay Server](https://btcpayserver.org)
+* [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
 * [OpenNode](https://www.opennode.com)
 
 ### Reference
@@ -191,17 +193,19 @@
 
 * [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
-* [Blue Wallet](https://bluewallet.io)
+* [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
 * [Nunchuk](https://nunchuk.io) - Multisig
+* [Samourai](https://samouraiwallet.com) 
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
-* [Wasabi](https://www.wasabiwallet.io)
+* [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
 
 #### Hardware Wallets
 
+* [Coldcard](https://coldcardwallet.com)
 * [Trezor](https://wiki.trezor.io/Welcome)
   * [FIDO2](https://wiki.trezor.io/FIDO2)
   * [Monero](https://wiki.trezor.io/Monero_(XMR))
