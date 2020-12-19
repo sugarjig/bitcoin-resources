@@ -72,6 +72,7 @@
 
 ### Markets
 
+* [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
 * [CoinMarketBook](https://coinmarketbook.cc)
 * [CoinMarketCap](https://coinmarketcap.com)
 * [McAfee Tracker](https://fnordprefekt.de)
@@ -91,6 +92,7 @@
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
 * [Coin Dance](https://coin.dance)
+* [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 * [Fork Monitor](https://forkmonitor.info)
 * [Statoshi](https://statoshi.info)
 * [txstats](https://txstats.com)
