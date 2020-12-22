@@ -24,6 +24,7 @@
 * [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)
 * [Gradually, Then Suddenly](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
+* [Nobody Understands Bitcoin (And That’s OK)](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/)
 * [The Number Zero and Bitcoin](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
 
 ### Exchanges
@@ -138,6 +139,7 @@
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [Blockstream Docs](https://docs.blockstream.com)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
+* [Wallets Recovery](https://walletsrecovery.org)
 
 ### Resources
 
