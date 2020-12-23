@@ -108,6 +108,7 @@
 * [bcoin](https://bitcore.io)
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd)
+* [Embassy](https://start9labs.com)
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
 * [Ledget SatStack](https://github.com/LedgerHQ/satstack) - Bitcoin full node with Ledger Live

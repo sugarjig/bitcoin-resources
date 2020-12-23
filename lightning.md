@@ -24,6 +24,11 @@
 * [Eclair](https://github.com/ACINQ/eclair)
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 
+#### All-In-One
+
+* [Lightning In A Box](https://lightninginabox.co/product/lightning-in-a-box/)
+* [RaspiBolt](https://stadicus.github.io/RaspiBolt/)
+
 ### Payments
 
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge)
