@@ -160,6 +160,8 @@
 
 ### Statistics
 
+* [Bitcoin Protocol Layer Statistics](https://transactionfee.info)
+* [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
 * [BitInfoCharts](https://bitinfocharts.com)
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
 * [Glassnode](https://glassnode.com)
