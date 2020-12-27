@@ -19,6 +19,8 @@
 
 ### Essays
 
+* [Bitcoin Astronomy](https://unchained-capital.com/blog/law-of-hash-horizons/)
+* [Bitcoin Astronomy: Part II](https://unchained-capital.com/blog/bitcoin-astronomy-part-ii/)
 * [Bitcoin is The Mycelium of Money](https://www.brandonquittem.com/bitcoin-is-the-mycelium-of-money/)
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)
