@@ -62,6 +62,7 @@
 
 ### Libraries
 
+* [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
 * [bitcoinj](https://bitcoinj.github.io)
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
