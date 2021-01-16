@@ -16,6 +16,7 @@
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/)
 * [OP_RETURN](https://opreturn.org)
+* [UTXO.live](https://utxo.live) - current UTXO set[
 
 ### Essays
 
