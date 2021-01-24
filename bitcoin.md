@@ -58,6 +58,7 @@
 * [Proof of Existence](https://proofofexistence.com)
 * [RGB](https://github.com/rgb-org/spec)
 * [rsk](https://www.rsk.co)
+* [Stacks](https://docs.blockstack.org)
 * [Storm](https://github.com/storm-org/storm-spec)
 * [ZeroNet](https://zeronet.io)
 
@@ -85,6 +86,8 @@
 ### Mining
 
 * [HashrateIndex](https://hashrateindex.com)
+* [Honeyminer](https://honeyminer.com)
+* [NiceHash Miner](https://www.nicehash.com)
 * [PoW 51% Attack Cost](https://www.crypto51.app)
 * [Stratum](https://www.stratumprotocol.org)
 
@@ -186,6 +189,7 @@
 * [ElectrumX](https://github.com/kyuupichan/electrumx)
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
+* [Ian Coleman)[https://iancoleman.io]
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Mempool](https://github.com/mempool/mempool)
