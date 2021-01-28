@@ -35,6 +35,10 @@
 * [Bisq](https://bisq.network) - decentralized exchange
 * [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
 
+### Fun
+
+* [Keys.lol](https://keys.lol) - list of all private keys
+
 ### Explorers
 
 * [Blockchair](https://blockchair.com)
