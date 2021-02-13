@@ -86,6 +86,7 @@
 * [CoinMarketBook](https://coinmarketbook.cc)
 * [CoinMarketCap](https://coinmarketcap.com)
 * [McAfee Tracker](https://fnordprefekt.de)
+* [WhatTheFee.io](https://whatthefee.io) - Bitcoin feerate estimation
 
 ### Mining
 
