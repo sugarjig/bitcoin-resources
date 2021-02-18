@@ -102,6 +102,7 @@
 
 ### Network
 
+* [Bitbo](https://bitbo.io)
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
 * [Coin Dance](https://coin.dance)
@@ -182,6 +183,7 @@
 
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
+* [Bitcoin Satellite](https://github.com/Blockstream/bitcoinsatellite) - version of the bitcoind application with support for satellite-optimized one-way transport of blocks sent over UDP with multicast addressing
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
 * [bitcointools](https://github.com/jnewbery/bitcointools)
