@@ -44,6 +44,10 @@
 * [lightning wiki](https://lightningwiki.net)
 * [Lightning Network Developers](https://dev.lightning.community)
 
+### Resources
+
+* [Lightning Network Resources](https://www.lopp.net/lightning-information.html) - Jameson Lopp
+
 ### Services
 
 * [Lightning Loops](https://lightning.engineering/loop/)
@@ -70,5 +74,6 @@
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Joule](https://lightningjoule.com)
 * [Lightning](https://github.com/lightninglabs/lightning-app)
+* [LNbits](https://lnbits.org) - wallet/accounts system
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)
 * [Zap](https://github.com/LN-Zap/zap-desktop)
