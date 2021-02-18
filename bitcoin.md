@@ -206,6 +206,7 @@
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
+* [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
 
 ### Training
 
