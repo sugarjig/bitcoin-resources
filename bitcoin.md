@@ -200,6 +200,7 @@ title: Bitcoin
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [Ian Coleman)[https://iancoleman.io]
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
+* [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
@@ -224,6 +225,8 @@ title: Bitcoin
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
+* [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
+* [nakamoto](https://github.com/cloudhead/nakamoto) - light-client implementation in Rust
 * [Nunchuk](https://nunchuk.io) - Multisig
 * [Samourai](https://samouraiwallet.com) 
 * [Sparrow Wallet](https://www.sparrowwallet.com)
