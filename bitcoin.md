@@ -16,7 +16,7 @@ title: Bitcoin
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
-* [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/)
+* [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) - Bitcoin Mempool Statistics
 * [OP_RETURN](https://opreturn.org)
 * [UTXO.live](https://utxo.live) - current UTXO set[
 
@@ -179,6 +179,7 @@ title: Bitcoin
 * [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
 * [BitInfoCharts](https://bitinfocharts.com)
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
+* [fork.lol](https://fork.lol)
 * [Glassnode](https://glassnode.com)
 
 ## Tools
