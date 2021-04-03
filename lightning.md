@@ -83,3 +83,4 @@ title: Lightning
 * [LNbits](https://lnbits.org) - wallet/accounts system
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)
 * [Zap](https://github.com/LN-Zap/zap-desktop)
+* [Zeus](https://github.com/ZeusLN/zeus) - mobile Bitcoin/Lightning app for lnd, c-lightning, and Eclair node operators

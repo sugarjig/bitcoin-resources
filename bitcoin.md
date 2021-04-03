@@ -102,6 +102,7 @@ title: Bitcoin
 ## Miscellaneous
 
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
+* [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
 
 ## Network
 
