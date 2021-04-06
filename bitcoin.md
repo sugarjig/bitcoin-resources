@@ -22,8 +22,10 @@ title: Bitcoin
 
 ## Essays
 
-* [Bitcoin Astronomy](https://unchained-capital.com/blog/law-of-hash-horizons/)
-* [Bitcoin Astronomy: Part II](https://unchained-capital.com/blog/bitcoin-astronomy-part-ii/)
+* Bitcoin Astronomy
+  * [Bitcoin Astronomy](https://unchained-capital.com/blog/law-of-hash-horizons/)
+  * [Bitcoin Astronomy: Part II](https://unchained-capital.com/blog/bitcoin-astronomy-part-ii/)
+  * [Bitcoin Astronomy: Part III](https://unchained-capital.com/blog/bitcoin-astronomy-part-iii/)[
 * [Bitcoin is The Mycelium of Money](https://www.brandonquittem.com/bitcoin-is-the-mycelium-of-money/)
 * [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
@@ -32,6 +34,9 @@ title: Bitcoin
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 * [Nobody Understands Bitcoin (And That’s OK)](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/)
 * [The Number Zero and Bitcoin](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
+* Sovereignism Series
+  * [Sovereignism Part 1: Digital Creative Destruction](https://www.swanbitcoin.com/sovereignism-part-i-digital-creative-destruction/)
+  * [Sovereignism Part 2: Bitcoin, The Ultimate Offshore Bank](https://www.swanbitcoin.com/sovereignism-part-2-bitcoin-the-ultimate-offshore-bank/)
 
 ## Exchanges
 
@@ -183,6 +188,7 @@ title: Bitcoin
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
 * [fork.lol](https://fork.lol)
 * [Glassnode](https://glassnode.com)
+* [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
 
 ## Tools
 
@@ -225,6 +231,7 @@ title: Bitcoin
 * [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
+* [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
