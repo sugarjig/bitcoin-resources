@@ -34,6 +34,7 @@ title: Bitcoin
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 * [Nobody Understands Bitcoin (And That’s OK)](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/)
 * [The Number Zero and Bitcoin](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
+* [Proof-of-Work, The Fundamental Laws of Physics And Nature](https://medium.com/the-bitcoin-times/proof-of-work-the-fundamental-laws-of-physics-and-nature-33d95167c57a)
 * Sovereignism Series
   * [Sovereignism Part 1: Digital Creative Destruction](https://www.swanbitcoin.com/sovereignism-part-i-digital-creative-destruction/)
   * [Sovereignism Part 2: Bitcoin, The Ultimate Offshore Bank](https://www.swanbitcoin.com/sovereignism-part-2-bitcoin-the-ultimate-offshore-bank/)
