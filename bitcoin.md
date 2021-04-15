@@ -44,10 +44,6 @@ title: Bitcoin
 * [Bisq](https://bisq.network) - decentralized exchange
 * [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
 
-### Fun
-
-* [Keys.lol](https://keys.lol) - list of all private keys
-
 ## Explorers
 
 * [Blockchair](https://blockchair.com)
@@ -110,6 +106,8 @@ title: Bitcoin
 
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
+* [BitcoinsPerPerson](http://bitcoinsperperson.com)
+* [Keys.lol](https://keys.lol) - list of all private keys
 
 ## Network
 
