@@ -95,6 +95,7 @@ title: Bitcoin
 * [CoinMarketBook](https://coinmarketbook.cc)
 * [CoinMarketCap](https://coinmarketcap.com)
 * [McAfee Tracker](https://fnordprefekt.de)
+* [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
 * [WhatTheFee.io](https://whatthefee.io) - Bitcoin feerate estimation
 
 ## Mining
