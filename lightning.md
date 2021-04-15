@@ -26,16 +26,12 @@ title: Lightning
 * [Eclair](https://github.com/ACINQ/eclair)
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 
-<<<<<<< HEAD
-#### All-In-One
+### All-In-One
 
 * [Lightning In A Box](https://lightninginabox.co/product/lightning-in-a-box/)
 * [RaspiBolt](https://stadicus.github.io/RaspiBolt/)
 
-### Payments
-=======
 ## Payments
->>>>>>> Use theme layouts
 
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge)
 * [Strike](https://strike.acinq.co)
@@ -63,6 +59,7 @@ title: Lightning
 ## Tools
 
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
+* [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Tool for working with the balance of your satoshis on LND
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
