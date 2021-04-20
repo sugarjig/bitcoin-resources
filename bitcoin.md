@@ -18,14 +18,14 @@ title: Bitcoin
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) - Bitcoin Mempool Statistics
 * [OP_RETURN](https://opreturn.org)
-* [UTXO.live](https://utxo.live) - current UTXO set[
+* [UTXO.live](https://utxo.live) - current UTXO set
 
 ## Essays
 
 * Bitcoin Astronomy
   * [Bitcoin Astronomy](https://unchained-capital.com/blog/law-of-hash-horizons/)
   * [Bitcoin Astronomy: Part II](https://unchained-capital.com/blog/bitcoin-astronomy-part-ii/)
-  * [Bitcoin Astronomy: Part III](https://unchained-capital.com/blog/bitcoin-astronomy-part-iii/)[
+  * [Bitcoin Astronomy: Part III](https://unchained-capital.com/blog/bitcoin-astronomy-part-iii/)
 * [Bitcoin is The Mycelium of Money](https://www.brandonquittem.com/bitcoin-is-the-mycelium-of-money/)
 * [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
