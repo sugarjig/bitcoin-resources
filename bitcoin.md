@@ -218,6 +218,7 @@ title: Bitcoin
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
+* [vbc-desktop](https://github.com/fidelity/vbc-desktop) - vaulted bitcoin custody project
 * [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
 
 ## Training
