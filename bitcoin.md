@@ -11,7 +11,6 @@ title: Bitcoin
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 * [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
 * [Q/A about Bitcoin](https://github.com/theDavidCoen/Q-A-about-Bitcoin)
-* [The Sapio Language](https://learn.sapio-lang.org) - Designing Bitcoin Contracts with Sapio[
 
 ## Charts
 
@@ -216,6 +215,8 @@ title: Bitcoin
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [reserves](https://github.com/ElementsProject/reserves)
+* [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
+  * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
