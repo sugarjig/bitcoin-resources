@@ -84,6 +84,7 @@ title: Bitcoin
 * [pycoin](https://github.com/richardkiss/pycoin)
 * [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
+* [Unchained Capital Bitcoin Utilities](https://github.com/unchained-capital/unchained-bitcoin) - Javascript library for working with bitcoin, esp. validation & multisig
 
 ## Markets
 
@@ -217,6 +218,7 @@ title: Bitcoin
 * [reserves](https://github.com/ElementsProject/reserves)
 * [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
   * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
+* [Swan's Address Derivation Tool](https://github.com/swan-bitcoin/xpub-tool) - JavaScript library to derive bitcoin addresses from extended public keys
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
