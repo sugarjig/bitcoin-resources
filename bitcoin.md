@@ -193,6 +193,7 @@ title: Bitcoin
 
 ## Tools
 
+* [Bitcoin Core RPC Auth Config Generator](https://jlopp.github.io/bitcoin-core-rpc-auth-generator/)
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
 * [Bitcoin Satellite](https://github.com/Blockstream/bitcoinsatellite) - version of the bitcoind application with support for satellite-optimized one-way transport of blocks sent over UDP with multicast addressing
@@ -252,6 +253,7 @@ title: Bitcoin
 ### Hardware Wallets
 
 * [Coldcard](https://coldcardwallet.com)
+* [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host
 * [Trezor](https://wiki.trezor.io/Welcome)
   * [FIDO2](https://wiki.trezor.io/FIDO2)
   * [Monero](https://wiki.trezor.io/Monero_(XMR))
