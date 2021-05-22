@@ -108,6 +108,7 @@ title: Bitcoin
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
+* [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
 
 ## Network
