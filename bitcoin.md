@@ -88,15 +88,17 @@ title: Bitcoin
 
 ## Markets
 
+* [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
 * [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
 * [CoinMarketBook](https://coinmarketbook.cc)
 * [CoinMarketCap](https://coinmarketcap.com)
 * [McAfee Tracker](https://fnordprefekt.de)
-* [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
+* [USDSat](https://usdsat.com)
 * [WhatTheFee.io](https://whatthefee.io) - Bitcoin feerate estimation
 
 ## Mining
 
+* [Bitcoin Block Reward Halving Countdown](https://www.bitcoinblockhalf.com)
 * [HashrateIndex](https://hashrateindex.com)
 * [Honeyminer](https://honeyminer.com)
 * [NiceHash Miner](https://www.nicehash.com)
@@ -107,6 +109,8 @@ title: Bitcoin
 
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
+* [Bitcoin Treasuries](https://bitcointreasuries.net)
+  * [Countries](https://bitcointreasuries.net/countries)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
@@ -168,9 +172,14 @@ title: Bitcoin
 
 ## Resources
 
+* [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
+* [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of 
+recommended books 
+by Bitcoiners
+* [End the FUD](https://endthefud.org) - The best links to articles debunking Bitcoin FUD
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [River Learn](https://river.com/learn/)
 
@@ -181,6 +190,10 @@ title: Bitcoin
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc)
 * [Simplicity](https://github.com/ElementsProject/simplicity)
+
+## Services
+
+* [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
 
 ## Statistics
 
@@ -238,6 +251,7 @@ title: Bitcoin
 * [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
+* [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
 * [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
