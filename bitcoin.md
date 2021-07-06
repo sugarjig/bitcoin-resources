@@ -15,6 +15,7 @@ title: Bitcoin
 ## Charts
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
+* [Bitcoin network graphs](http://bitcoin.sipa.be)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) - Bitcoin Mempool Statistics
 * [OP_RETURN](https://opreturn.org)
