@@ -175,6 +175,7 @@ title: Bitcoin
 
 * [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
+* [Bitcoin minds](https://bitcoinminds.org) - The most comprehensive list of Bitcoin resources online
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of 
