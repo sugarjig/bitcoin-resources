@@ -69,6 +69,7 @@ title: Lightning
 * [lndmon](https://github.com/lightninglabs/lndmon)
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
+* [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 
 ## Training
