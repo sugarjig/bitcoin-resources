@@ -14,6 +14,10 @@ title: Lightning
 
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
 
+## Layer 3
+
+* [Impervious](https://www.impervious.ai)
+
 ## Network
 
 * [1ML](https://1ml.com)
@@ -26,6 +30,7 @@ title: Lightning
   * [Plugins](https://github.com/lightningd/plugins/)
 * [Eclair](https://github.com/ACINQ/eclair)
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
+* [rn-ldk](https://github.com/BlueWallet/rn-ldk) - Lightweight lightning node for React Native
 
 ### All-In-One
 
@@ -83,5 +88,6 @@ title: Lightning
 * [Lightning](https://github.com/lightninglabs/lightning-app)
 * [LNbits](https://lnbits.org) - wallet/accounts system
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)
+* [Striga](https://gl.striga.com/login) - Built on Blockstream's Greenlight
 * [Zap](https://github.com/LN-Zap/zap-desktop)
 * [Zeus](https://github.com/ZeusLN/zeus) - mobile Bitcoin/Lightning app for lnd, c-lightning, and Eclair node operators
