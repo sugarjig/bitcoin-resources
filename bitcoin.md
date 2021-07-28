@@ -233,6 +233,7 @@ by Bitcoiners
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [reserves](https://github.com/ElementsProject/reserves)
+* [Rusty-Paper-Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates descriptor-based bitcoin paper wallet offline
 * [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
   * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
 * [Swan's Address Derivation Tool](https://github.com/swan-bitcoin/xpub-tool) - JavaScript library to derive bitcoin addresses from extended public keys
