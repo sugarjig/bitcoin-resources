@@ -49,6 +49,7 @@ title: Lightning
 
 ## Reference
 
+* [Builder's Guide to the LND Galaxy](https://docs.lightning.engineering)
 * [lightning wiki](https://lightningwiki.net)
 * [Lightning Network Developers](https://dev.lightning.community)
 
@@ -72,6 +73,7 @@ title: Lightning
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
 * [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
 * [lndmon](https://github.com/lightninglabs/lndmon)
+* [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
