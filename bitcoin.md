@@ -169,6 +169,7 @@ title: Bitcoin
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [Blockstream Docs](https://docs.blockstream.com)
+* [Preparing for taproot](https://bitcoinops.org/en/preparing-for-taproot/)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 * [Wallets Recovery](https://walletsrecovery.org)
 
