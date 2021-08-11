@@ -39,6 +39,7 @@ title: Bitcoin
 * Sovereignism Series
   * [Sovereignism Part 1: Digital Creative Destruction](https://www.swanbitcoin.com/sovereignism-part-i-digital-creative-destruction/)
   * [Sovereignism Part 2: Bitcoin, The Ultimate Offshore Bank](https://www.swanbitcoin.com/sovereignism-part-2-bitcoin-the-ultimate-offshore-bank/)
+  * [Sovereignism Part 3: Mega-Politics, The History and Logic of Violence](https://breedlove22.medium.com/sovereignism-part-3-mega-politics-the-history-and-logic-of-violence-6a96b4282b91)
 
 ## Exchanges
 
@@ -178,9 +179,9 @@ title: Bitcoin
 * [Bitcoin minds](https://bitcoinminds.org) - The most comprehensive list of Bitcoin resources online
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
-* [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of 
-recommended books 
-by Bitcoiners
+* [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
+* [Bitcoiner.Guide](https://bitcoiner.guide)
+  * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
 * [End the FUD](https://endthefud.org) - The best links to articles debunking Bitcoin FUD
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [River Learn](https://river.com/learn/)
