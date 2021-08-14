@@ -32,6 +32,7 @@ title: Bitcoin
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)
 * [Gradually, Then Suddenly](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
+* [Guess My Bitcoin Private Key](https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781)
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 * [Nobody Understands Bitcoin (And That’s OK)](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/)
 * [The Number Zero and Bitcoin](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
