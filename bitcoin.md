@@ -53,6 +53,7 @@ title: Bitcoin
 * [Blockstream](https://blockstream.info)
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
+* [TxStreet](https://txstreet.com) - blockchain transaction visualizer
 
 ## Layer 2
 
