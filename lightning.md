@@ -2,6 +2,11 @@
 layout: single
 title: Lightning
 ---
+
+## APIs
+
+* [LNPay](https://lnpay.co)
+
 ## Apps
 
 * [Juggernaut](https://www.getjuggernaut.com)
