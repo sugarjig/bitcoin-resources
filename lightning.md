@@ -50,6 +50,7 @@ title: Lightning
 
 ## Protocol
 
+* [BOLT12](https://bolt12.org)
 * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
 
 ## Reference
