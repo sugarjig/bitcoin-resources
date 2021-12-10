@@ -51,6 +51,7 @@ title: Bitcoin
 
 * [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
+* [Chaingraph](https://chaingraph.cash)
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
 * [TxStreet](https://txstreet.com) - blockchain transaction visualizer
@@ -180,6 +181,7 @@ title: Bitcoin
 
 * [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
+* [Bitcoin.TV](https://bitcointv.com)
 * [Bitcoin minds](https://bitcoinminds.org) - The most comprehensive list of Bitcoin resources online
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
@@ -214,6 +216,7 @@ title: Bitcoin
 
 ## Tools
 
+* [Bitauth IDE](https://ide.bitauth.com)
 * [Bitcoin Core RPC Auth Config Generator](https://jlopp.github.io/bitcoin-core-rpc-auth-generator/)
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
