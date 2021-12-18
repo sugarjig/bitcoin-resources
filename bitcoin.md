@@ -120,6 +120,8 @@ title: Bitcoin
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
+* [stacker news](https://stacker.news)
+* [Store of Time](https://storeoftime.com)
 
 ## Network
 
