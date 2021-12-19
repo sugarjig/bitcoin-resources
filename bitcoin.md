@@ -114,7 +114,7 @@ title: Bitcoin
 
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
-* [Bitcoin Holidays](https://bitcoin.holiday)[
+* [Bitcoin Holidays](https://bitcoin.holiday)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
   * [Countries](https://bitcointreasuries.net/countries)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
@@ -214,6 +214,7 @@ title: Bitcoin
   * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
 * [fork.lol](https://fork.lol)
 * [Glassnode](https://glassnode.com)
+* [Hashrate Index](https://hashrateindex.com)
 * [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
 
 ## Tools
