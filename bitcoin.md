@@ -177,6 +177,7 @@ title: Bitcoin
 * [Blockstream Docs](https://docs.blockstream.com)
 * [Preparing for taproot](https://bitcoinops.org/en/preparing-for-taproot/)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
+  * [The Complete Satoshi](https://satoshi.nakamotoinstitute.org)
 * [Wallets Recovery](https://walletsrecovery.org)
 
 ## Resources
