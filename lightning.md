@@ -78,6 +78,7 @@ title: Lightning
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
 * [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
+* [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon)
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
