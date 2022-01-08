@@ -194,6 +194,7 @@ title: Bitcoin
   * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
 * [End the FUD](https://endthefud.org) - The best links to articles debunking Bitcoin FUD
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
+* [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
 
 ## Script
