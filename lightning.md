@@ -22,6 +22,7 @@ title: Lightning
 ## Layer 3
 
 * [Impervious](https://www.impervious.ai)
+* [OmniBOLT Daemon](https://omnilaboratory.github.io/obd/)
 
 ## Network
 
