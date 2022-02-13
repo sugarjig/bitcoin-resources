@@ -166,6 +166,7 @@ title: Bitcoin
 
 ## Reference
 
+* [BIPs](https://bips.xyz)
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
 * [Bitcoin Developer](https://developer.bitcoin.org)
 * Bitcoin Optech
