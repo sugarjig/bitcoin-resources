@@ -121,6 +121,7 @@ title: Bitcoin
 * [BitcoinTV.com](https://bitcointv.com)
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
+* [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [stacker news](https://stacker.news)
 * [Store of Time](https://storeoftime.com)
 
