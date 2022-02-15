@@ -41,6 +41,8 @@ title: Bitcoin
   * [Sovereignism Part 1: Digital Creative Destruction](https://www.swanbitcoin.com/sovereignism-part-i-digital-creative-destruction/)
   * [Sovereignism Part 2: Bitcoin, The Ultimate Offshore Bank](https://www.swanbitcoin.com/sovereignism-part-2-bitcoin-the-ultimate-offshore-bank/)
   * [Sovereignism Part 3: Mega-Politics, The History and Logic of Violence](https://breedlove22.medium.com/sovereignism-part-3-mega-politics-the-history-and-logic-of-violence-6a96b4282b91)
+  * [Sovereignism Part 4: The Rise of Property and Organized Crime](https://breedlove22.medium.com/sovereignism-part-4-the-rise-of-property-and-organized-crime-a825c31f931a)
+* [Who Controls Bitcoin Core?](https://medium.com/@lopp/who-controls-bitcoin-core-c55c0af91b8a)
 
 ## Exchanges
 
