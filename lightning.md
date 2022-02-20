@@ -94,6 +94,7 @@ title: Lightning
 
 ## Wallets
 
+* [Blixt Wallet](https://blixtwallet.github.io)
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Joule](https://lightningjoule.com)
 * [Lightning](https://github.com/lightninglabs/lightning-app)
