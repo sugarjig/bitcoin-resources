@@ -51,6 +51,7 @@ title: Lightning
 
 ## Protocol
 
+* [Bitcoin Lightning Improvement Proposal](https://github.com/lightning/blips)
 * [BOLT12](https://bolt12.org)
 * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
 
