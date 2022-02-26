@@ -54,6 +54,7 @@ title: Lightning
 * [Bitcoin Lightning Improvement Proposal](https://github.com/lightning/blips)
 * [BOLT12](https://bolt12.org)
 * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
+* [LNP/BP Specifications](https://github.com/LNP-BP/LNPBPs)
 
 ## Reference
 
@@ -63,6 +64,7 @@ title: Lightning
 
 ## Resources
 
+* [BOLT.FUN](https://bolt.fun)
 * [Lightning Network Resources](https://www.lopp.net/lightning-information.html) - Jameson Lopp
 
 ## Services

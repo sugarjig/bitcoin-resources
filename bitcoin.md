@@ -65,6 +65,7 @@ title: Bitcoin
 * [Drivechain](https://www.drivechain.info)
 * [Elements](https://elementsproject.org)
 * [Factom](https://www.factom.com)
+* [FediMint](https://fedimint.org) - federated chaumian mints
 * [ION](https://github.com/decentralized-identity/ion)
 * [Liquid](https://github.com/ElementsProject/elements)
 * [Omni Layer](https://www.omnilayer.org)
@@ -197,6 +198,7 @@ title: Bitcoin
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
 * [Bitcoiner.Guide](https://bitcoiner.guide)
   * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
+* [BitcoinPy](https://bitcoinpy.dev) - living documentation of Bitcoin related Python libraries and tools
 * [End the FUD](https://endthefud.org) - The best links to articles debunking Bitcoin FUD
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
@@ -231,6 +233,7 @@ title: Bitcoin
 * [Bitcoin Core RPC Auth Config Generator](https://jlopp.github.io/bitcoin-core-rpc-auth-generator/)
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
+* [Bitcoin PSBT Explorer](https://bip174.org)
 * [Bitcoin Satellite](https://github.com/Blockstream/bitcoinsatellite) - version of the bitcoind application with support for satellite-optimized one-way transport of blocks sent over UDP with multicast addressing
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
@@ -275,6 +278,7 @@ title: Bitcoin
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
 * [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
+* [Go Up Number](https://gun.fun) - command line wallet
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
