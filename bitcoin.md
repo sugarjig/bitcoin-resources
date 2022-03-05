@@ -127,6 +127,7 @@ title: Bitcoin
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [stacker news](https://stacker.news)
 * [Store of Time](https://storeoftime.com)
+* [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time]
 
 ## Network
 
