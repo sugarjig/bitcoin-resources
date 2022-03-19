@@ -28,6 +28,7 @@ title: Lightning
 
 * [1ML](https://1ml.com)
 * [Amboss](https://amboss.space)
+* [Lighthouse](https://lnlighthouse.online) - Lightning network explorer
 * [Lightning Network Explorer](https://explorer.acinq.co)
 
 ## Nodes
