@@ -54,6 +54,7 @@ title: Lightning
 
 * [Bitcoin Lightning Improvement Proposal](https://github.com/lightning/blips)
 * [BOLT12](https://bolt12.org)
+* [Lightning Address](https://lightningaddress.com) - like an email address, but for your Bitcoin!
 * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
 * [LNP/BP Specifications](https://github.com/LNP-BP/LNPBPs)
 
@@ -78,6 +79,7 @@ title: Lightning
 
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
 * [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Tool for working with the balance of your satoshis on LND
+* [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
@@ -98,6 +100,7 @@ title: Lightning
 
 ## Wallets
 
+* [Alby](https://getalby.com) - in-browser wallet
 * [Blixt Wallet](https://blixtwallet.github.io)
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Joule](https://lightningjoule.com)
