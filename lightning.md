@@ -88,6 +88,7 @@ title: Lightning
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon)
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
+* [Node Launcher](https://github.com/lightning-power-users/node-launcher)
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)

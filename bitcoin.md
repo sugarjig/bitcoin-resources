@@ -257,6 +257,7 @@ title: Bitcoin
 * [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
+* [pyblock](https://curly60e.github.io/pyblock/) - dashboard
 * [reserves](https://github.com/ElementsProject/reserves)
 * [Rusty-Paper-Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates descriptor-based bitcoin paper wallet offline
 * [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
@@ -290,6 +291,7 @@ title: Bitcoin
 * [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client
 * [Nunchuk](https://nunchuk.io) - Multisig
 * [Samourai](https://samouraiwallet.com) 
+* [Simple Bitcoin Wallet](https://sbw.app)
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Unstoppable Wallet](https://unstoppable.money)
