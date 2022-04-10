@@ -116,6 +116,7 @@ title: Bitcoin
 
 ## Miscellaneous
 
+* [Bitcoin Bounties](https://bitcoinbounties.org)
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
 * [Bitcoin Holidays](https://bitcoin.holiday)
