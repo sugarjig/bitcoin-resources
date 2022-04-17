@@ -246,6 +246,7 @@ title: Bitcoin
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
 * [Caravan](https://unchained-capital.github.io/caravan/) - coordination software for multisig addresses
+* [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
 * [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
 * [Electrum Server in Rust](https://github.com/romanz/electrs)
 * [ElectrumX](https://github.com/kyuupichan/electrumx)
