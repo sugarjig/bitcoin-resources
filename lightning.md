@@ -38,6 +38,7 @@ title: Lightning
   * [Plugins](https://github.com/lightningd/plugins/)
 * [Eclair](https://github.com/ACINQ/eclair)
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
+* [LNP Node](https://github.com/LNP-WG/lnp-node)
 * [rn-ldk](https://github.com/BlueWallet/rn-ldk) - Lightweight lightning node for React Native
 
 ### All-In-One

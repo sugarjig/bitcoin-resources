@@ -61,6 +61,7 @@ title: Bitcoin
 
 ## Layer 2
 
+* [CoinPool](https://coinpool.dev/v0.1.pdf)
 * [Counterparty](https://counterparty.io)
 * [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
 * [Drivechain](https://www.drivechain.info)
