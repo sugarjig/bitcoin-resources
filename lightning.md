@@ -73,6 +73,7 @@ title: Lightning
 
 ## Services
 
+* [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
 * [Lightning Loops](https://lightning.engineering/loop/)
 * [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
 * [Submarine Swaps](https://submarineswaps.org)

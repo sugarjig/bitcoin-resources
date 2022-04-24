@@ -23,6 +23,7 @@ title: Bitcoin
 
 ## Essays
 
+* [Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 * Bitcoin Astronomy
   * [Bitcoin Astronomy](https://unchained-capital.com/blog/law-of-hash-horizons/)
   * [Bitcoin Astronomy: Part II](https://unchained-capital.com/blog/bitcoin-astronomy-part-ii/)
@@ -49,6 +50,7 @@ title: Bitcoin
 
 * [Bisq](https://bisq.network) - decentralized exchange
 * [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
+* [RoboSats](https://github.com/Reckless-Satoshi/robosats) - simple and private bitcoin exchange
 
 ## Explorers
 
@@ -70,6 +72,7 @@ title: Bitcoin
 * [FediMint](https://fedimint.org) - federated chaumian mints
 * [ION](https://github.com/decentralized-identity/ion)
 * [Liquid](https://github.com/ElementsProject/elements)
+* [Minimint](https://github.com/fedimint/minimint) - federated mint prototype
 * [Omni Layer](https://www.omnilayer.org)
 * [OpenTimestamps](https://opentimestamps.org)
 * [OriginStamp](https://originstamp.com)
@@ -77,6 +80,7 @@ title: Bitcoin
 * [Proof of Existence](https://proofofexistence.com)
 * [RGB](https://github.com/rgb-org/spec)
 * [rsk](https://www.rsk.co)
+* [nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 * [Stacks](https://docs.blockstack.org)
 * [Storm](https://github.com/storm-org/storm-spec)
 * [ZeroNet](https://zeronet.io)
