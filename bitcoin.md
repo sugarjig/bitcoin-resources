@@ -258,6 +258,7 @@ title: Bitcoin
 * [Electrum Server in Rust](https://github.com/romanz/electrs)
 * [ElectrumX](https://github.com/kyuupichan/electrumx)
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
+* [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [Ian Coleman](https://iancoleman.io)
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)

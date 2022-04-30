@@ -41,6 +41,7 @@ title: Lightning
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 * [LNP Node](https://github.com/LNP-WG/lnp-node)
 * [rn-ldk](https://github.com/BlueWallet/rn-ldk) - Lightweight lightning node for React Native
+* [Sensei](https://l2.technology/sensei)
 
 ### All-In-One
 
