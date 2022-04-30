@@ -31,6 +31,7 @@ title: Lightning
 * [Amboss](https://amboss.space)
 * [Lighthouse](https://lnlighthouse.online) - Lightning network explorer
 * [Lightning Network Explorer](https://explorer.acinq.co)
+* [Penalty Transactions](https://forkmonitor.info/lightning)
 
 ## Nodes
 
@@ -73,6 +74,7 @@ title: Lightning
 
 ## Services
 
+* [Blocktank](https://synonym.to/blocktank/) - Full-service Lightning Service Provider
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
 * [Lightning Loops](https://lightning.engineering/loop/)
 * [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace

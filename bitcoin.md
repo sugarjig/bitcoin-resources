@@ -129,6 +129,7 @@ title: Bitcoin
   * [Countries](https://bitcointreasuries.net/countries)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [BitcoinTV.com](https://bitcointv.com)
+* [The Little HODLer](https://thelittlehodler.com) - comics
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
@@ -200,6 +201,7 @@ title: Bitcoin
 * [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
 * [Bitcoin.TV](https://bitcointv.com)
+* [bitcoin-tutorials](https://openoms.github.io/bitcoin-tutorials/) - Documenting Bitcoin related setups using LND, JoinMarket, RaspiBlitz, Debian and Ubuntu
 * [Bitcoin Canon](https://www.swanbitcoin.com/canon/)
 * [Bitcoin minds](https://bitcoinminds.org) - The most comprehensive list of Bitcoin resources online
 * [Bitcoin Only](https://bitcoin-only.com)
