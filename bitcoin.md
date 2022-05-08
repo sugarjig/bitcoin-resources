@@ -132,6 +132,7 @@ title: Bitcoin
 * [The Little HODLer](https://thelittlehodler.com) - comics
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
+* [SatoshisPerPerson.com](https://satoshisperperson.com) - How many satoshis are there per person in the world?
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [stacker news](https://stacker.news)
 * [Store of Time](https://storeoftime.com)
