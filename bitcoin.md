@@ -266,6 +266,7 @@ title: Bitcoin
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
+* [Know Your Coin Privacy](https://kycp.org) - privacy explorer
 * [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
