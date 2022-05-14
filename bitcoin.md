@@ -137,6 +137,7 @@ title: Bitcoin
 * [stacker news](https://stacker.news)
 * [Store of Time](https://storeoftime.com)
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time]
+* [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
 
 ## Network
 
