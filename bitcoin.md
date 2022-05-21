@@ -72,6 +72,7 @@ title: Bitcoin
 * [FediMint](https://fedimint.org) - federated chaumian mints
 * [ION](https://github.com/decentralized-identity/ion)
 * [Liquid](https://github.com/ElementsProject/elements)
+* [Mercury Wallet](https://mercurywallet.com) - send and swap Bitcoin privately
 * [Minimint](https://github.com/fedimint/minimint) - federated mint prototype
 * [Omni Layer](https://www.omnilayer.org)
 * [OpenTimestamps](https://opentimestamps.org)
@@ -132,6 +133,7 @@ title: Bitcoin
 * [The Little HODLer](https://thelittlehodler.com) - comics
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
+* [Myths](https://en.bitcoin.it/wiki/Myths)
 * [SatoshisPerPerson.com](https://satoshisperperson.com) - How many satoshis are there per person in the world?
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [stacker news](https://stacker.news)
@@ -298,6 +300,7 @@ title: Bitcoin
 * [Go Up Number](https://gun.fun) - command line wallet
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
+* [Hexa Wallet](https://github.com/bithyve/hexa)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
 * [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
 * [nakamoto](https://github.com/cloudhead/nakamoto) - light-client implementation in Rust
