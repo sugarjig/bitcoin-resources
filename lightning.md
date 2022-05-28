@@ -85,6 +85,7 @@ title: Lightning
 
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
 * [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Tool for working with the balance of your satoshis on LND
+* [bolt.observer](https://bolt.observer) - Monitoring and management of Lightning Network nodes in one platform
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
@@ -99,6 +100,7 @@ title: Lightning
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
+* [Satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning Address Server
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 

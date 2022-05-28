@@ -30,7 +30,9 @@ title: Bitcoin
   * [Bitcoin Astronomy: Part III](https://unchained-capital.com/blog/bitcoin-astronomy-part-iii/)
 * [Bitcoin is The Mycelium of Money](https://www.brandonquittem.com/bitcoin-is-the-mycelium-of-money/)
 * [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
+* [Bitcoin Is Venice](https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070)
 * [Bitcoin Is Worse Is Better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)
+* [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)
 * [Gradually, Then Suddenly](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
@@ -116,8 +118,10 @@ title: Bitcoin
 * [Bitcoin Block Reward Halving Countdown](https://www.bitcoinblockhalf.com)
 * [HashrateIndex](https://hashrateindex.com)
 * [Honeyminer](https://honeyminer.com)
+* [Mining Insights](https://insights.braiins.com/en/)
 * [NiceHash Miner](https://www.nicehash.com)
 * [PoW 51% Attack Cost](https://www.crypto51.app)
+* [Profitibility Calculator](https://insights.braiins.com/en/profitability-calculator/)
 * [Stratum](https://www.stratumprotocol.org)
 
 ## Miscellaneous
@@ -126,6 +130,7 @@ title: Bitcoin
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
 * [Bitcoin Holidays](https://bitcoin.holiday)
+* [Bitcoin Problems](https://bitcoinproblems.org)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
   * [Countries](https://bitcointreasuries.net/countries)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
@@ -144,6 +149,7 @@ title: Bitcoin
 ## Network
 
 * [Bitbo](https://bitbo.io)
+* [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
 * [Bitnodes](https://bitnodes.io)
 * [Coin Dance](https://coin.dance)
@@ -169,7 +175,7 @@ title: Bitcoin
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [myNode](https://mynodebtc.com)
 * [Nigiri Bitcoin](https://nigiri.vulpem.com) - A delicious docker box for special Bitcoin and Liquid cookings
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security
+* [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [nodl one](https://www.nodl.it)
 * [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Raspberry Pi node
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
@@ -258,6 +264,7 @@ title: Bitcoin
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
 * [Caravan](https://unchained-capital.github.io/caravan/) - coordination software for multisig addresses
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
+* [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Modular Bitcoin full-node microservices API server architecture and utilities toolkit
 * [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
 * [Electrum Server in Rust](https://github.com/romanz/electrs)
 * [ElectrumX](https://github.com/kyuupichan/electrumx)
