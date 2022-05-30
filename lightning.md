@@ -31,6 +31,7 @@ title: Lightning
 * [Amboss](https://amboss.space)
 * [Lighthouse](https://lnlighthouse.online) - Lightning network explorer
 * [Lightning Network Explorer](https://explorer.acinq.co)
+* [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
 * [Penalty Transactions](https://forkmonitor.info/lightning)
 
 ## Nodes
@@ -103,6 +104,7 @@ title: Lightning
 * [Satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning Address Server
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
+* [Torq](https://github.com/lncapital/torq) - capital management tool for routing nodes
 
 ## Training
 
