@@ -25,6 +25,10 @@ title: Lightning
 * [Impervious](https://www.impervious.ai)
 * [OmniBOLT Daemon](https://omnilaboratory.github.io/obd/)
 
+## Libraries
+
+* [Lightning Multiplexer](https://github.com/bottlepay/lnmux)
+
 ## Network
 
 * [1ML](https://1ml.com)

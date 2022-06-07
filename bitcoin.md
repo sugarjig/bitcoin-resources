@@ -224,6 +224,7 @@ title: Bitcoin
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
+* [x21.tools](https://x21.tools)
 
 ## Script
 
@@ -310,6 +311,7 @@ title: Bitcoin
 * [Hexa Wallet](https://github.com/bithyve/hexa)
 * [Lily Wallet](http://lily.kevinmulcrone.com)
 * [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
+* [MyCitadel Desktop](https://github.com/mycitadel/mycitadel-desktop) - Bitcoin, Lightning and RGB wallet
 * [nakamoto](https://github.com/cloudhead/nakamoto) - light-client implementation in Rust
 * [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client
 * [Nunchuk](https://nunchuk.io) - Multisig
