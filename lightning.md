@@ -118,10 +118,14 @@ title: Lightning
 
 * [Alby](https://getalby.com) - in-browser wallet
 * [Blixt Wallet](https://blixtwallet.github.io)
+* [BlueWallet](https://bluewallet.io)
+* [Breez](https://breez.technology)
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Joule](https://lightningjoule.com)
 * [Lightning](https://github.com/lightninglabs/lightning-app)
 * [LNbits](https://lnbits.org) - wallet/accounts system
+* [Muun](https://muun.com)
+* [Phoenix Wallet](https://phoenix.acinq.co)
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)
 * [Striga](https://gl.striga.com/login) - Built on Blockstream's Greenlight
 * [Zap](https://github.com/LN-Zap/zap-desktop)
