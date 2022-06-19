@@ -33,6 +33,7 @@ title: Lightning
 
 * [1ML](https://1ml.com)
 * [Amboss](https://amboss.space)
+* [bolt.observer](https://bolt.observer/explorer)
 * [Lighthouse](https://lnlighthouse.online) - Lightning network explorer
 * [Lightning Network Explorer](https://explorer.acinq.co)
 * [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
@@ -80,11 +81,17 @@ title: Lightning
 
 ## Services
 
+* [bolt.observer](https://bolt.observer) - monitoring and management of Lightning Network nodes
 * [Blocktank](https://synonym.to/blocktank/) - Full-service Lightning Service Provider
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
 * [Lightning Loops](https://lightning.engineering/loop/)
 * [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
+* [LN Markets](https://lnmarkets.com)
+* [LN Uptime](https://www.lnuptime.com)
+* [PeerSwap](https://www.peerswap.dev) - P2P BTC LN Balancing Protocol
 * [Submarine Swaps](https://submarineswaps.org)
+* [zero fee routing](https://zerofeerouting.com)
+* [zero fee routing private channel](https://zerofeerouting.com/mobile-wallets/)
 
 ## Tools
 
@@ -100,6 +107,7 @@ title: Lightning
 * [LNDg](https://github.com/cryptosharks131/lndg) - Lite GUI web interface to analyze lnd data and manage your node with automation
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon)
+* [LNLink for iOS](https://lnlink.app) - allows you to control a c-lightning node over the lightning network itself
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [Node Launcher](https://github.com/lightning-power-users/node-launcher)
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account

@@ -86,6 +86,7 @@ title: Bitcoin
 * [nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 * [Stacks](https://docs.blockstack.org)
 * [Storm](https://github.com/storm-org/storm-spec)
+* [Web5](https://developer.tbd.website/projects/web5/) - an extra decentralized web platform
 * [ZeroNet](https://zeronet.io)
 
 ## Libraries
@@ -151,6 +152,7 @@ title: Bitcoin
 * [Bitbo](https://bitbo.io)
 * [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
+* [Bitcoin Uptime](https://bitcoinuptime.org)
 * [Bitnodes](https://bitnodes.io)
 * [Coin Dance](https://coin.dance)
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
