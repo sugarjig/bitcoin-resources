@@ -211,6 +211,7 @@ title: Bitcoin
 ## Resources
 
 * [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
+* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
 * [Bitcoin.TV](https://bitcointv.com)
 * [bitcoin-tutorials](https://openoms.github.io/bitcoin-tutorials/) - Documenting Bitcoin related setups using LND, JoinMarket, RaspiBlitz, Debian and Ubuntu
@@ -238,6 +239,7 @@ title: Bitcoin
 
 ## Services
 
+* [Strike API](https://developer.strike.me)
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
 
 ## Statistics

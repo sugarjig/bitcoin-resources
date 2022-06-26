@@ -9,6 +9,7 @@ title: Lightning
 
 ## Apps
 
+* [Explore Lightning Products](https://makers.bolt.fun/products)
 * [Juggernaut](https://www.getjuggernaut.com)
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
 * [Lightning Service Authentication Token](https://lsat.tech)
