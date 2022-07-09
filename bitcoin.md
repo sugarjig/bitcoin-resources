@@ -302,6 +302,7 @@ title: Bitcoin
 
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+* [Learning @ Chaincode](https://learning.chaincode.com)
 * [Mooniversity](https://mooniversity.io)
 
 ## Wallets
