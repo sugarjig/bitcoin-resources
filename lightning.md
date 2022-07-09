@@ -111,6 +111,7 @@ title: Lightning
 * [LNLink for iOS](https://lnlink.app) - allows you to control a c-lightning node over the lightning network itself
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [Node Launcher](https://github.com/lightning-power-users/node-launcher)
+* [PeerSwap](https://github.com/ElementsProject/peerswap) - enables Lightning Network nodes to balance their channels by facilitating atomic swaps with direct peers
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
