@@ -89,6 +89,7 @@ title: Lightning
 * [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
 * [LN Markets](https://lnmarkets.com)
 * [LN Uptime](https://www.lnuptime.com)
+* [Magma](https://amboss.space/magma) - Lightning channel marketplace
 * [PeerSwap](https://www.peerswap.dev) - P2P BTC LN Balancing Protocol
 * [Submarine Swaps](https://submarineswaps.org)
 * [zero fee routing](https://zerofeerouting.com)
