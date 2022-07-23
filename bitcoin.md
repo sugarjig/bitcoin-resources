@@ -137,6 +137,7 @@ title: Bitcoin
   * [Countries](https://bitcointreasuries.net/countries)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [BitcoinTV.com](https://bitcointv.com)
+* [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
 * [The Little HODLer](https://thelittlehodler.com) - comics
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
