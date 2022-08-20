@@ -33,6 +33,7 @@ title: Bitcoin
 * [Bitcoin Is Venice](https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070)
 * [Bitcoin Is Worse Is Better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)
 * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
+* [Bitcoiners are Not Toxic - They Have Integrity](https://tomerstrolight.medium.com/bitcoiners-are-not-toxic-they-have-integrity-bd866d2773e9)
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)
 * [Gradually, Then Suddenly](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
@@ -290,6 +291,7 @@ title: Bitcoin
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
 * [reserves](https://github.com/ElementsProject/reserves)
 * [Rusty-Paper-Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates descriptor-based bitcoin paper wallet offline
+* [Seed Tool](https://bitcoiner.guide/seed/) - experiment and learn how bitcoin wallets are generated using different sources of entropy
 * [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
   * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
 * [Swan's Address Derivation Tool](https://github.com/swan-bitcoin/xpub-tool) - JavaScript library to derive bitcoin addresses from extended public keys
