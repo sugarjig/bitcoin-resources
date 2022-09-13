@@ -38,6 +38,7 @@ title: Lightning
 * [Lighthouse](https://lnlighthouse.online) - Lightning network explorer
 * [Lightning Network Explorer](https://explorer.acinq.co)
 * [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
+* [mempool](https://mempool.space/lightning)
 * [Penalty Transactions](https://forkmonitor.info/lightning)
 
 ## Nodes
@@ -54,6 +55,10 @@ title: Lightning
 
 * [Lightning In A Box](https://lightninginabox.co/product/lightning-in-a-box/)
 * [RaspiBolt](https://stadicus.github.io/RaspiBolt/)
+
+## Papers
+
+* [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 
 ## Payments
 
@@ -106,6 +111,7 @@ title: Lightning
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
 * [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
+* [lightning-dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze communication between Lightning Network nodes
 * [LNDg](https://github.com/cryptosharks131/lndg) - Lite GUI web interface to analyze lnd data and manage your node with automation
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon)

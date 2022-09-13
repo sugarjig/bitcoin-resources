@@ -136,6 +136,7 @@ title: Bitcoin
 * [Bitcoin Problems](https://bitcoinproblems.org)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
   * [Countries](https://bitcointreasuries.net/countries)
+* [bitcoin.sucks](https://bitcoin.sucks)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [BitcoinTV.com](https://bitcointv.com)
 * [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
@@ -187,6 +188,10 @@ title: Bitcoin
 * [Statoshi](https://jlopp.github.io/statoshi/)
 * [Umbrel](https://getumbrel.com)
 
+## Papers
+
+* [Bitcoin: Cryptopayments Energy Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499)
+
 ## Payments
 
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
@@ -221,6 +226,7 @@ title: Bitcoin
 * [Bitcoin Canon](https://www.swanbitcoin.com/canon/)
 * [Bitcoin minds](https://bitcoinminds.org) - The most comprehensive list of Bitcoin resources online
 * [Bitcoin Only](https://bitcoin-only.com)
+* [Bitcoin Privacy](https://www.lopp.net/bitcoin-information/privacy.html)
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
 * [Bitcoiner.Guide](https://bitcoiner.guide)
