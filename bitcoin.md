@@ -62,6 +62,7 @@ title: Bitcoin
 * [Chaingraph](https://chaingraph.cash)
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
+* [SpiralBTC](https://btc.usespiral.com) - Look up any BTC address balance, without revealing the address to anyone – not even us
 * [TxStreet](https://txstreet.com) - blockchain transaction visualizer
 
 ## Layer 2
