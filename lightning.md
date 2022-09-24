@@ -116,6 +116,7 @@ title: Lightning
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon)
 * [LNLink for iOS](https://lnlink.app) - allows you to control a c-lightning node over the lightning network itself
+* [lnproxy](https://github.com/lnproxy/lnproxy) - takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [Node Launcher](https://github.com/lightning-power-users/node-launcher)
 * [PeerSwap](https://github.com/ElementsProject/peerswap) - enables Lightning Network nodes to balance their channels by facilitating atomic swaps with direct peers
