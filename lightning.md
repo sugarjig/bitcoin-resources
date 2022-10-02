@@ -107,6 +107,7 @@ title: Lightning
 * [bolt.observer](https://bolt.observer) - Monitoring and management of Lightning Network nodes in one platform
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
+* [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
