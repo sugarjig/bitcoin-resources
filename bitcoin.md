@@ -239,6 +239,7 @@ title: Bitcoin
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
+* [Try Bitcoin](https://trybitcoin.satsie.dev) - by satsie
 * [x21.tools](https://x21.tools)
 
 ## Script
