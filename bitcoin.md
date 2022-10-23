@@ -274,6 +274,7 @@ title: Bitcoin
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
 * [Bitcoin PSBT Explorer](https://bip174.org)
+* [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind
 * [Bitcoin Satellite](https://github.com/Blockstream/bitcoinsatellite) - version of the bitcoind application with support for satellite-optimized one-way transport of blocks sent over UDP with multicast addressing
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
@@ -292,6 +293,7 @@ title: Bitcoin
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [Ian Coleman](https://iancoleman.io)
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
+* [Jam](https://jamapp.org) - a modern interface for JoinMarket
 * [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Know Your Coin Privacy](https://kycp.org) - privacy explorer
@@ -309,10 +311,12 @@ title: Bitcoin
 * [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
 * [vbc-desktop](https://github.com/fidelity/vbc-desktop) - vaulted bitcoin custody project
+* [Vortex](https://lnvortex.com) - Lightning and Taproot enabled collaborative transactions
 * [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
 
 ## Training
 
+* [Bitcoin Classes](https://www.lopp.net/bitcoin-information/online-offline-classes.html)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Learning @ Chaincode](https://learning.chaincode.com)
