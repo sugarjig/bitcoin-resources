@@ -83,6 +83,7 @@ title: Lightning
 ## Resources
 
 * [BOLT.FUN](https://bolt.fun)
+* [Lightning Landscape](https://www.lightning-landscape.net/) - Everything lightning network in one place
 * [Lightning Network Resources](https://www.lopp.net/lightning-information.html) - Jameson Lopp
 
 ## Services
@@ -124,6 +125,7 @@ title: Lightning
 * [PeerSwap](https://github.com/ElementsProject/peerswap) - enables Lightning Network nodes to balance their channels by facilitating atomic swaps with direct peers
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
+* [preimage-stealer](https://github.com/dark-ln/preimage-stealer) - A utility to automatically claim Lightning Network HTLCs with revealed preimages
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
 * [Satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning Address Server
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
