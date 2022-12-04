@@ -85,6 +85,7 @@ title: Lightning
 * [BOLT.FUN](https://bolt.fun)
 * [Lightning Landscape](https://www.lightning-landscape.net/) - Everything lightning network in one place
 * [Lightning Network Resources](https://www.lopp.net/lightning-information.html) - Jameson Lopp
+* [Lightning Privacy Research](https://lightningprivacy.com/en/introduction)
 
 ## Services
 

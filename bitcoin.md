@@ -345,6 +345,7 @@ title: Bitcoin
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Unstoppable Wallet](https://unstoppable.money)
+* [Void](https://brilliancebitcoin.github.io/void/) - only sends and receives coinjoins
 * [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
 
 ### Hardware Wallets
