@@ -113,6 +113,7 @@ title: Lightning
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
+* [Lightning Loop](https://github.com/lightninglabs/loop) - A Non-Custodial Off/On Chain Bridge
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
 * [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
