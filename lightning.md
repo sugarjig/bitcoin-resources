@@ -41,6 +41,7 @@ title: Lightning
 * [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
 * [mempool](https://mempool.space/lightning)
 * [Penalty Transactions](https://forkmonitor.info/lightning)
+* [Zero Base Fee graph](https://lnrouter.app/graph/zero-base-fee) - Visualize all nodes with their channels that support #zeroBaseFee
 
 ## Nodes
 
@@ -149,6 +150,7 @@ title: Lightning
 * [Joule](https://lightningjoule.com)
 * [Lightning](https://github.com/lightninglabs/lightning-app)
 * [LNbits](https://lnbits.org) - wallet/accounts system
+* [Mutiny Wallet](https://mutinywallet.com)
 * [Muun](https://muun.com)
 * [Phoenix Wallet](https://phoenix.acinq.co)
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)

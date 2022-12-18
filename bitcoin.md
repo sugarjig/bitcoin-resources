@@ -40,6 +40,7 @@ title: Bitcoin
 * [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/)
 * [Gradually, Then Suddenly](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
 * [Guess My Bitcoin Private Key](https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781)
+* [Implications of Outlawing Bitcoin](https://dergigi.com/2021/08/02/implications-of-outlawing-bitcoin/)
 * [A most peaceful revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 * [Nobody Understands Bitcoin (And That’s OK)](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok/)
 * [The Number Zero and Bitcoin](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
@@ -55,6 +56,8 @@ title: Bitcoin
 
 * [Bisq](https://bisq.network) - decentralized exchange
 * [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
+* [P2P-Trading-Exchanges](https://cointastical.github.io/P2P-Trading-Exchanges/)
+* [Peach App](https://peachbitcoin.com)
 * [RoboSats](https://github.com/Reckless-Satoshi/robosats) - simple and private bitcoin exchange
 
 ## Explorers
@@ -69,6 +72,7 @@ title: Bitcoin
 
 ## Layer 2
 
+* [cashu](https://github.com/cashubtc/cashu) - Chaumian Ecash wallet and mint with Bitcoin Lightning support
 * [CoinPool](https://coinpool.dev/v0.1.pdf)
 * [Counterparty](https://counterparty.io)
 * [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
@@ -271,6 +275,7 @@ title: Bitcoin
 
 ## Tools
 
+* [BIP32 Deterministic Key Generator](https://bip32jp.github.io/english/)
 * [Bitauth IDE](https://ide.bitauth.com)
 * [Bitcoin Core RPC Auth Config Generator](https://jlopp.github.io/bitcoin-core-rpc-auth-generator/)
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
@@ -331,6 +336,7 @@ title: Bitcoin
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
 * [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
+* [Emoji Bitcoin Wallet](https://stepansnigirev.github.io/emoji-wallet/)
 * [Go Up Number](https://gun.fun) - command line wallet
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
@@ -353,6 +359,7 @@ title: Bitcoin
 
 * [Coldcard](https://coldcardwallet.com)
 * [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host
+* [SeedSigner](https://github.com/SeedSigner/seedsigner) - air-gapped Raspberry Pi Zero to sign for Bitcoin transactions
 * [Trezor](https://wiki.trezor.io/Welcome)
   * [FIDO2](https://wiki.trezor.io/FIDO2)
   * [Monero](https://wiki.trezor.io/Monero_(XMR))
