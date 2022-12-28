@@ -18,6 +18,7 @@ title: Bitcoin
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin network graphs](http://bitcoin.sipa.be)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
+* [Glassnode Studio](https://studio.glassnode.com)
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) - Bitcoin Mempool Statistics
 * [OP_RETURN](https://opreturn.org)
 * [UTXO.live](https://utxo.live) - current UTXO set
@@ -55,6 +56,7 @@ title: Bitcoin
 ## Exchanges
 
 * [Bisq](https://bisq.network) - decentralized exchange
+* [Boltz](https://boltz.exchange) - Privacy first, account-free crypto exchange
 * [Hodl Hodl](https://hodlhodl.com) - global P2P Bitcoin trading platform
 * [P2P-Trading-Exchanges](https://cointastical.github.io/P2P-Trading-Exchanges/)
 * [Peach App](https://peachbitcoin.com)
@@ -295,6 +297,7 @@ title: Bitcoin
 * [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
 * [Electrum Server in Rust](https://github.com/romanz/electrs)
 * [ElectrumX](https://github.com/kyuupichan/electrumx)
+* [Elephant](https://elephant.bitcoindevkit.org) - wallet creator
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
 * [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
