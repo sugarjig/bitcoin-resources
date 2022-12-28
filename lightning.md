@@ -94,16 +94,18 @@ title: Lightning
 * [bolt.observer](https://bolt.observer) - monitoring and management of Lightning Network nodes
 * [Blocktank](https://synonym.to/blocktank/) - Full-service Lightning Service Provider
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
+* [Lightning Conductor](https://lightningconductor.net/channels) - liquidity provider
 * [Lightning Loops](https://lightning.engineering/loop/)
 * [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
 * [LN Markets](https://lnmarkets.com)
 * [LN Uptime](https://www.lnuptime.com)
-* [ln2me.com](https://lightningto.me) - balances channels
+* [LNBig](https://lnbig.com/) - liquidity provider
+* [ln2me.com](https://lightningto.me) - liquidity provider
 * [Magma](https://amboss.space/magma) - Lightning channel marketplace
 * [PeerSwap](https://www.peerswap.dev) - P2P BTC LN Balancing Protocol
 * [River Lightning Services](https://www.rls.dev)
 * [Submarine Swaps](https://submarineswaps.org)
-* [Thor Channels](https://www.bitrefill.com/thor-lightning-network-channels/?hl=en) - Lightning Network Channel-Opening Service
+* [Thor Channels](https://www.bitrefill.com/thor-lightning-network-channels/?hl=en) - liquidity provider
 * [zero fee routing](https://zerofeerouting.com)
 * [zero fee routing private channel](https://zerofeerouting.com/mobile-wallets/)
 
@@ -121,6 +123,7 @@ title: Lightning
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
 * [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
+* [Lightning Watch](https://lightning.watch) - node monitor
 * [lightning-dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze communication between Lightning Network nodes
 * [LNDg](https://github.com/cryptosharks131/lndg) - Lite GUI web interface to analyze lnd data and manage your node with automation
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
