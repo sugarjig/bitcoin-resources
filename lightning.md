@@ -13,6 +13,8 @@ title: Lightning
 * [Juggernaut](https://www.getjuggernaut.com)
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
 * [Lightning Service Authentication Token](https://lsat.tech)
+  * [LSAT Playground](https://lsat-playground.vercel.app)
+  * [lsat-js](https://github.com/Tierion/lsat-js)
 * [Sphinx](https://sphinx.chat) - chat and podcasting
 * [Whatsat](https://github.com/joostjager/whatsat)
 
@@ -114,6 +116,7 @@ title: Lightning
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
 * [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Tool for working with the balance of your satoshis on LND
 * [bolt.observer](https://bolt.observer) - Monitoring and management of Lightning Network nodes in one platform
+* [Boltwall](https://tierion.github.io/boltwall/) - Bitcoin Lightning paywall and authentication using LSATs
 * [Circuit Breaker](https://github.com/lightningequipment/circuitbreaker) - is to Lightning what firewalls are to the internet
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
@@ -121,10 +124,12 @@ title: Lightning
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Loop](https://github.com/lightninglabs/loop) - A Non-Custodial Off/On Chain Bridge
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
+* [Lightning Node Connect](https://github.com/lightninglabs/lightning-node-connect) - Secure, private access to a Lightning node over an untrusted web server
 * [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
 * [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
 * [Lightning Watch](https://lightning.watch) - node monitor
 * [lightning-dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze communication between Lightning Network nodes
+* [lnc-web](https://github.com/lightninglabs/lnc-web) - Lightning Node Connect npm module for web
 * [LNDg](https://github.com/cryptosharks131/lndg) - Lite GUI web interface to analyze lnd data and manage your node with automation
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon) - drop-in monitoring solution for your lnd node
