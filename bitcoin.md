@@ -256,7 +256,9 @@ title: Bitcoin
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc)
-* [Simplicity](https://github.com/ElementsProject/simplicity)
+* [Simplicity](https://github.com/ElementsProject/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
+  * [Script Wiz](https://ide.scriptwiz.app)
+  * [Simplicity Playground](https://simplicity.scriptwiz.app)
 
 ## Services
 
