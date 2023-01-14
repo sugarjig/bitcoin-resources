@@ -15,6 +15,7 @@ title: Lightning
 * [Lightning Service Authentication Token](https://lsat.tech)
   * [LSAT Playground](https://lsat-playground.vercel.app)
   * [lsat-js](https://github.com/Tierion/lsat-js)
+* [Market](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/market) - A movable market stand
 * [Sphinx](https://sphinx.chat) - chat and podcasting
 * [Whatsat](https://github.com/joostjager/whatsat)
 
