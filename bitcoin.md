@@ -328,6 +328,7 @@ title: Bitcoin
 
 ## Training
 
+* [Base58](https://www.base58.info) - developer-oriented bitcoin fundamentals courses
 * [Bitcoin Classes](https://www.lopp.net/bitcoin-information/online-offline-classes.html)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
