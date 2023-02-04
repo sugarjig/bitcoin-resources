@@ -88,6 +88,7 @@ title: Bitcoin
 * [Minimint](https://github.com/fedimint/minimint) - federated mint prototype
 * [Omni Layer](https://www.omnilayer.org)
 * [OpenTimestamps](https://opentimestamps.org)
+* [Ordinals](https://ordinals.com)
 * [OriginStamp](https://originstamp.com)
 * [P2PDerivatives](https://github.com/p2pderivatives/p2pderivatives-client) - Discreet Log Contracts
 * [Proof of Existence](https://proofofexistence.com)
@@ -141,6 +142,7 @@ title: Bitcoin
 * [Bitcoin Bounties](https://bitcoinbounties.org)
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
+* [Bitcoin Events and Conferences](https://river.com/learn/bitcoin-events-and-conferences/)
 * [Bitcoin Holidays](https://bitcoin.holiday)
 * [Bitcoin Problems](https://bitcoinproblems.org)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
@@ -247,6 +249,7 @@ title: Bitcoin
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
+* [Technical Bitcoin Search](https://bitcoinsearch.xyz)
 * [Try Bitcoin](https://trybitcoin.satsie.dev) - by satsie
 * [x21.tools](https://x21.tools)
 
@@ -347,6 +350,7 @@ title: Bitcoin
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Hexa Wallet](https://github.com/bithyve/hexa)
+* [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
 * [Lily Wallet](http://lily.kevinmulcrone.com)
 * [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
 * [MyCitadel Desktop](https://github.com/mycitadel/mycitadel-desktop) - Bitcoin, Lightning and RGB wallet
