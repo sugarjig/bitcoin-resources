@@ -16,6 +16,7 @@ title: Lightning
   * [LSAT Playground](https://lsat-playground.vercel.app)
   * [lsat-js](https://github.com/Tierion/lsat-js)
 * [Market](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/market) - A movable market stand
+* [Scrib](https://scribsat.com) - Independent payments for your Ghost site
 * [Sphinx](https://sphinx.chat) - chat and podcasting
 * [Whatsat](https://github.com/joostjager/whatsat)
 
