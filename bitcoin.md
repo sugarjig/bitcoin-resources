@@ -173,6 +173,9 @@ title: Bitcoin
 * [Coin Dance](https://coin.dance)
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 * [Fork Monitor](https://forkmonitor.info)
+* [fork-observer](https://fork.observer)
+* [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
+* [peer-observer](https://demo.peer.observer)
 * [Statoshi](https://statoshi.info)
 * [Timechain Calendar](https://timechaincalendar.com)
 * [txstats](https://txstats.com)

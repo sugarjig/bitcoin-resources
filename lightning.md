@@ -32,6 +32,7 @@ title: Lightning
 
 ## Libraries
 
+* [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
 * [Lightning Multiplexer](https://github.com/bottlepay/lnmux)
 
 ## Network
