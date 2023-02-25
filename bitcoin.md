@@ -150,6 +150,7 @@ title: Bitcoin
 * [bitcoin.sucks](https://bitcoin.sucks)
 * [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [BitcoinTV.com](https://bitcointv.com)
+* [Blockstream Research](https://research.blockstream.com) - A Bitcoin-focused cryptography team
 * [blocktime.site](https://blocktime.site)
 * [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
 * [The Little HODLer](https://thelittlehodler.com) - comics
@@ -287,6 +288,7 @@ title: Bitcoin
 
 * [BIP32 Deterministic Key Generator](https://bip32jp.github.io/english/)
 * [Bitauth IDE](https://ide.bitauth.com)
+* [Bitcoin Confirmation Risk Calculator](https://jlopp.github.io/bitcoin-confirmation-risk-calculator/)
 * [Bitcoin Core RPC Auth Config Generator](https://jlopp.github.io/bitcoin-core-rpc-auth-generator/)
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
@@ -347,6 +349,7 @@ title: Bitcoin
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
+* [current](https://app.getcurrent.io) - The power of nostr + bitcoin at your hands
 * [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
 * [Emoji Bitcoin Wallet](https://stepansnigirev.github.io/emoji-wallet/)
 * [Go Up Number](https://gun.fun) - command line wallet
