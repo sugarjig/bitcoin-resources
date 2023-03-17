@@ -348,6 +348,7 @@ title: Bitcoin
 * [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
+* [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
 * [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
 * [current](https://app.getcurrent.io) - The power of nostr + bitcoin at your hands
 * [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
