@@ -128,6 +128,7 @@ title: Bitcoin
 
 ## Mining
 
+* [bitaxe](https://github.com/skot/bitaxe) - Open source Bitcoin miner hardware using BM1397 ASICs
 * [Bitcoin Block Reward Halving Countdown](https://www.bitcoinblockhalf.com)
 * [HashrateIndex](https://hashrateindex.com)
 * [Honeyminer](https://honeyminer.com)
@@ -145,6 +146,7 @@ title: Bitcoin
 * [Bitcoin Events and Conferences](https://river.com/learn/bitcoin-events-and-conferences/)
 * [Bitcoin Holidays](https://bitcoin.holiday)
 * [Bitcoin Problems](https://bitcoinproblems.org)
+* [Bitcoin Product Community](https://bitcoin-product.org)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
   * [Countries](https://bitcointreasuries.net/countries)
 * [bitcoin.sucks](https://bitcoin.sucks)
