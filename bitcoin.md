@@ -238,6 +238,7 @@ title: Bitcoin
 ## Resources
 
 * [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
+* [All About BIPs Zine](https://satsie.dev/bips/)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
 * [Bitcoin.TV](https://bitcointv.com)
@@ -265,7 +266,7 @@ title: Bitcoin
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc)
-* [Simplicity](https://github.com/ElementsProject/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
+* [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
   * [Script Wiz](https://ide.scriptwiz.app)
   * [Simplicity Playground](https://simplicity.scriptwiz.app)
 
@@ -335,6 +336,7 @@ title: Bitcoin
 * [vbc-desktop](https://github.com/fidelity/vbc-desktop) - vaulted bitcoin custody project
 * [Vortex](https://lnvortex.com) - Lightning and Taproot enabled collaborative transactions
 * [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
+* [ZeroSync](https://zerosync.org/)
 
 ## Training
 
