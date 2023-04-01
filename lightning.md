@@ -121,6 +121,7 @@ title: Lightning
 * [bolt.observer](https://bolt.observer) - Monitoring and management of Lightning Network nodes in one platform
 * [Boltwall](https://tierion.github.io/boltwall/) - Bitcoin Lightning paywall and authentication using LSATs
 * [Circuit Breaker](https://github.com/lightningequipment/circuitbreaker) - is to Lightning what firewalls are to the internet
+* [Clams](http://clams.tech) - Browser UI for Core Lightning nodes
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
