@@ -92,7 +92,6 @@ title: Bitcoin
 * [OriginStamp](https://originstamp.com)
 * [P2PDerivatives](https://github.com/p2pderivatives/p2pderivatives-client) - Discreet Log Contracts
 * [Proof of Existence](https://proofofexistence.com)
-* [RGB](https://github.com/rgb-org/spec)
 * [rsk](https://www.rsk.co)
 * [nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 * [Stacks](https://docs.blockstack.org)
