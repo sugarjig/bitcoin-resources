@@ -99,6 +99,8 @@ title: Lightning
 
 * [bolt.observer](https://bolt.observer) - monitoring and management of Lightning Network nodes
 * [Blocktank](https://synonym.to/blocktank/) - Full-service Lightning Service Provider
+* [Encrypted Energy](https://encryptedenergy.com) - Automate Your Lightning Node Operations
+* [Lightspark](https://www.lightspark.com)
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
 * [Lightning Conductor](https://lightningconductor.net/channels) - liquidity provider
 * [Lightning Loops](https://lightning.engineering/loop/)
