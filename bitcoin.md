@@ -74,7 +74,7 @@ title: Bitcoin
 
 ## Layer 2
 
-* [cashu](https://github.com/cashubtc/cashu) - Chaumian Ecash wallet and mint with Bitcoin Lightning support
+* [cashu](https://cashu.space) - Chaumian ecash system built for Bitcoin
 * [CoinPool](https://coinpool.dev/v0.1.pdf)
 * [Counterparty](https://counterparty.io)
 * [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
@@ -86,6 +86,7 @@ title: Bitcoin
 * [Liquid](https://github.com/ElementsProject/elements)
 * [Mercury Wallet](https://mercurywallet.com) - send and swap Bitcoin privately
 * [Minimint](https://github.com/fedimint/minimint) - federated mint prototype
+* [nutstash](https://nutstash.app) - Cashu wallet for your browser
 * [Omni Layer](https://www.omnilayer.org)
 * [OpenTimestamps](https://opentimestamps.org)
 * [Ordinals](https://ordinals.com)
@@ -320,6 +321,7 @@ title: Bitcoin
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Know Your Coin Privacy](https://kycp.org) - privacy explorer
 * [Mempool](https://github.com/mempool/mempool)
+* [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
