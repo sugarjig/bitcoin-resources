@@ -123,6 +123,7 @@ title: Lightning
 * [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Tool for working with the balance of your satoshis on LND
 * [bolt.observer](https://bolt.observer) - Monitoring and management of Lightning Network nodes in one platform
 * [Boltwall](https://tierion.github.io/boltwall/) - Bitcoin Lightning paywall and authentication using LSATs
+* [Channel tools](https://github.com/guggero/chantools) - A loose collection of tools all somehow related to lnd and Lightning Network channels
 * [Circuit Breaker](https://github.com/lightningequipment/circuitbreaker) - is to Lightning what firewalls are to the internet
 * [Clams](http://clams.tech) - Browser UI for Core Lightning nodes
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager

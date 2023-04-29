@@ -323,6 +323,7 @@ title: Bitcoin
 * [Mempool](https://github.com/mempool/mempool)
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
+* [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
 * [reserves](https://github.com/ElementsProject/reserves)
@@ -355,6 +356,7 @@ title: Bitcoin
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
 * [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
+* [Coinstr](https://coinstr.io) - uses the Nostr protocol to orchestrate signature requests and approvals
 * [current](https://app.getcurrent.io) - The power of nostr + bitcoin at your hands
 * [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
 * [Emoji Bitcoin Wallet](https://stepansnigirev.github.io/emoji-wallet/)
