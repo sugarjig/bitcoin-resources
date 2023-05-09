@@ -210,6 +210,7 @@ title: Bitcoin
 ## Papers
 
 * [Bitcoin: Cryptopayments Energy Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499)
+* [bitcoin-paper-errata-and-details.md](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) - A description of known problems in Satoshi Nakamoto's paper
 
 ## Payments
 
