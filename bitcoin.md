@@ -102,6 +102,7 @@ title: Bitcoin
 
 ## Libraries
 
+* [Bitcoin Descriptors Library](https://github.com/bitcoinerlab/descriptors) - A JavaScript library for parsing and signing Bitcoin descriptors, including those based on the Miniscript language
 * [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
 * [bitcoinj](https://bitcoinj.github.io)
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
