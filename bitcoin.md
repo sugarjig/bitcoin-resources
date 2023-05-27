@@ -107,6 +107,7 @@ title: Bitcoin
 * [bitcoinj](https://bitcoinj.github.io)
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
+* [descriptor-wallet](https://github.com/BP-WG/descriptor-wallet) - Library for building descriptor-based bitcoin wallets using rust-bitcoin
 * [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk)
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
 * [libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
