@@ -147,6 +147,7 @@ title: Bitcoin
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
 * [Bitcoin Events and Conferences](https://river.com/learn/bitcoin-events-and-conferences/)
 * [Bitcoin Holidays](https://bitcoin.holiday)
+* [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org) - interactive timeline
 * [Bitcoin Problems](https://bitcoinproblems.org)
 * [Bitcoin Product Community](https://bitcoin-product.org)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)

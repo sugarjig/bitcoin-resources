@@ -151,6 +151,7 @@ title: Lightning
 * [preimage-stealer](https://github.com/dark-ln/preimage-stealer) - A utility to automatically claim Lightning Network HTLCs with revealed preimages
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL) - full function web browser app for LND, C-Lightning and Eclair
 * [Satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning Address Server
+* [Scaling Lightning](https://github.com/scaling-lightning/scaling-lightning) - A Testing Toolkit for the Lightning Network
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 * [The Eye of Satoshi (rust-teos)](https://github.com/talaia-labs/rust-teos) - Lightning watchtower compliant with BOLT13, written in Rust
