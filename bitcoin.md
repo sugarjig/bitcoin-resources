@@ -325,6 +325,7 @@ title: Bitcoin
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Know Your Coin Privacy](https://kycp.org) - privacy explorer
 * [Mempool](https://github.com/mempool/mempool)
+* [Musig playground](https://supertestnet.github.io/musig-playground/)
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
