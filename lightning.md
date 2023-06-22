@@ -100,6 +100,7 @@ title: Lightning
 * [bolt.observer](https://bolt.observer) - monitoring and management of Lightning Network nodes
 * [Blocktank](https://synonym.to/blocktank/) - Full-service Lightning Service Provider
 * [Encrypted Energy](https://encryptedenergy.com) - Automate Your Lightning Node Operations
+* [Greenlight](https://blockstream.com/lightning/greenlight/) - Your personal Core Lightning node, without the technical fuss
 * [Lightspark](https://www.lightspark.com)
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
 * [Lightning Conductor](https://lightningconductor.net/channels) - liquidity provider
@@ -157,6 +158,7 @@ title: Lightning
 * [The Eye of Satoshi (rust-teos)](https://github.com/talaia-labs/rust-teos) - Lightning watchtower compliant with BOLT13, written in Rust
 * [ThunderHub](https://thunderhub.io) - Monitor and manage your node from any browser and any device
 * [Torq](https://github.com/lncapital/torq) - capital management tool for routing nodes
+* [Validating Lightning Signer](https://gitlab.com/lightning-signer/validating-lightning-signer) - a library and reference implementation for a signer module to secure Lightning nodes
 * [Vortex](https://lnvortex.com) - Lightning and Taproot enabled collaborative transactions
 
 ## Training
