@@ -112,6 +112,7 @@ title: Bitcoin
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
 * [libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Bitcoin library for the .NET framework
+* [Payjoin Dev Kit](https://payjoindevkit.org) - Scale Bitcoin, save fees, and preserve privacy with one tiny library
 * [pycoin](https://github.com/richardkiss/pycoin)
 * [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
@@ -352,7 +353,9 @@ title: Bitcoin
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Learning @ Chaincode](https://learning.chaincode.com)
+* [Onboarding to Bitcoin Core](https://bitcoincore.wtf)
 * [Mooniversity](https://mooniversity.io)
+* [Saving Satoshi](https://savingsatoshi.com) - Code your way through the mysteries of bitcoin
 
 ## Wallets
 
