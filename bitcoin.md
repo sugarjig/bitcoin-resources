@@ -326,9 +326,10 @@ title: Bitcoin
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Know Your Coin Privacy](https://kycp.org) - privacy explorer
 * [Mempool](https://github.com/mempool/mempool)
+* [Mule Tools](https://github.com/MuleTools/MuleTools)
+* [Munstr](https://github.com/0xBEEFCAF3/munstr) - MuSig + Nostr
 * [Musig playground](https://supertestnet.github.io/musig-playground/)
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
-* [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
