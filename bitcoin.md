@@ -2,19 +2,18 @@
 layout: single
 title: Bitcoin
 ---
+
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
 ## Books
 
-* [Bitcoin Programming with BitcoinJS, Bitcoin Core and LND](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
 * [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
 * [Learning Bitcoin (and Lightning) from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
-* [Programming the Blockchain in C#](https://github.com/ProgrammingBlockchain/ProgrammingBlockchain)
-* [Q/A about Bitcoin](https://github.com/theDavidCoen/Q-A-about-Bitcoin)
 
 ## Charts
 
-* [\_checkonchain](https://checkonchain.com) - presents the latest and greatest in on-chain analysis and the sexiest charts on the internet for Bitcoin and Decred
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin network graphs](http://bitcoin.sipa.be)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
@@ -304,6 +303,7 @@ title: Bitcoin
 * [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind
 * [Bitcoin Satellite](https://github.com/Blockstream/bitcoinsatellite) - version of the bitcoind application with support for satellite-optimized one-way transport of blocks sent over UDP with multicast addressing
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
+* [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
 * [bitcointools](https://github.com/jnewbery/bitcointools)
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
@@ -340,7 +340,7 @@ title: Bitcoin
   * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
 * [Swan's Address Derivation Tool](https://github.com/swan-bitcoin/xpub-tool) - JavaScript library to derive bitcoin addresses from extended public keys
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
-* [Transaction size calculator (Bitcoin Optech)](https://bitcoinops.org/en/tools/calc-size/)
+* [Transaction size calculator | Bitcoin Optech](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
 * [vbc-desktop](https://github.com/fidelity/vbc-desktop) - vaulted bitcoin custody project
 * [Vortex](https://lnvortex.com) - Lightning and Taproot enabled collaborative transactions

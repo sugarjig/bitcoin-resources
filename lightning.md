@@ -35,6 +35,8 @@ title: Lightning
 ## Libraries
 
 * [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
+* [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK
+* [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Multiplexer](https://github.com/bottlepay/lnmux)
 
 ## Network
@@ -87,6 +89,7 @@ title: Lightning
 * [Builder's Guide to the LND Galaxy](https://docs.lightning.engineering)
 * [lightning wiki](https://lightningwiki.net)
 * [Lightning Network Developers](https://dev.lightning.community)
+* [Lightning Service Provider Spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp) - API specifications for Lightning Service Providers
 
 ## Resources
 
@@ -128,8 +131,8 @@ title: Lightning
 * [Clams](http://clams.tech) - Browser UI for Core Lightning nodes
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
+* [L402: Lightning HTTP 402 Protocol](https://docs.lightning.engineering/the-lightning-network/l402) - Lightning API keys cleverly combine the capabilities of macaroons with that of a Lightning payment
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
-* [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Loop](https://github.com/lightninglabs/loop) - A Non-Custodial Off/On Chain Bridge
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning Node Connect](https://github.com/lightninglabs/lightning-node-connect) - Secure, private access to a Lightning node over an untrusted web server
