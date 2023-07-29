@@ -67,6 +67,7 @@ title: Bitcoin
 * [Blockstream](https://blockstream.info)
 * [Chaingraph](https://chaingraph.cash)
 * [mempool](https://mempool.space)
+  * [clock](https://mempool.space/clock/mempool/0)
 * [OXT](https://oxt.me)
 * [SpiralBTC](https://btc.usespiral.com) - Look up any BTC address balance, without revealing the address to anyone – not even us
 * [TxStreet](https://txstreet.com) - blockchain transaction visualizer
@@ -326,6 +327,7 @@ title: Bitcoin
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 * [Know Your Coin Privacy](https://kycp.org) - privacy explorer
 * [Mempool](https://github.com/mempool/mempool)
+* [Mempool Calculator](https://mempool.space/tools/calculator)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [Munstr](https://github.com/0xBEEFCAF3/munstr) - MuSig + Nostr
 * [Musig playground](https://supertestnet.github.io/musig-playground/)
@@ -386,6 +388,7 @@ title: Bitcoin
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Unstoppable Wallet](https://unstoppable.money)
 * [Void](https://brilliancebitcoin.github.io/void/) - only sends and receives coinjoins
+* [Wallby](https://wallby.app) - the only place where you can access Bitcoin and all its layer 2 networks and side-chain protocols
 * [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
 
 ### Hardware Wallets
