@@ -15,6 +15,8 @@ title: Lightning
 * [Lightning Service Authentication Token](https://lsat.tech)
   * [LSAT Playground](https://lsat-playground.vercel.app)
   * [lsat-js](https://github.com/Tierion/lsat-js)
+* [LN VPN]( https://lnvpn.com)
+  * [LN SMS](https://lnvpn.com/phone-numbers) - Bitcoin Lightning-powered disposable phone numbers
 * [Market](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/market) - A movable market stand
 * [Scrib](https://scribsat.com) - Independent payments for your Ghost site
 * [Sphinx](https://sphinx.chat) - chat and podcasting
@@ -23,6 +25,10 @@ title: Lightning
 ## Books
 
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+
+## Community
+
+* [LND PR Review Club](https://lnd.reviews)
 
 ## Layer 3
 
@@ -114,6 +120,7 @@ title: Lightning
 * [LNBig](https://lnbig.com/) - liquidity provider
 * [ln2me.com](https://lightningto.me) - liquidity provider
 * [Magma](https://amboss.space/magma) - Lightning channel marketplace
+* [Nodeless](https://nodeless.io) - Accept Bitcoin payments
 * [PeerSwap](https://www.peerswap.dev) - P2P BTC LN Balancing Protocol
 * [River Lightning Services](https://www.rls.dev)
 * [Submarine Swaps](https://submarineswaps.org)

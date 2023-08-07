@@ -197,7 +197,7 @@ title: Bitcoin
 * [bcoin](https://bitcore.io)
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd)
-* [Embassy](https://start9labs.com)
+* [Floresta](https://github.com/Davidson-Souza/Floresta) - fully-validating Bitcoin node powered by Utreexo
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
 * [Ledget SatStack](https://github.com/LedgerHQ/satstack) - Bitcoin full node with Ledger Live
@@ -261,6 +261,7 @@ title: Bitcoin
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
+* [Swan Bitcoin Canon](https://www.swanbitcoin.com/canon/)
 * [Technical Bitcoin Search](https://bitcoinsearch.xyz)
 * [Try Bitcoin](https://trybitcoin.satsie.dev) - by satsie
 * [x21.tools](https://x21.tools)
