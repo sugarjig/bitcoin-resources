@@ -22,6 +22,10 @@ title: Bitcoin
 * [OP_RETURN](https://opreturn.org)
 * [UTXO.live](https://utxo.live) - current UTXO set
 
+## Development
+
+* [GitHub Metadata Backup and Mirror](https://b10c.me/projects/021-github-backups-mirror/)
+
 ## Essays
 
 * [Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
