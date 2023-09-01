@@ -167,11 +167,13 @@ title: Bitcoin
 * [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
 * [Myths](https://en.bitcoin.it/wiki/Myths)
+* [The Nakamoto Repository](https://repository.spiritofsatoshi.ai) - collective knowledge-base of the Bitcoin community
 * [SatoshisPerPerson.com](https://satoshisperperson.com) - How many satoshis are there per person in the world?
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
+* [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai) - Bitcoin LLM
 * [stacker news](https://stacker.news)
 * [Store of Time](https://storeoftime.com)
-* [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time]
+* [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
 
 ## Network
@@ -346,6 +348,7 @@ title: Bitcoin
 * [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
   * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
 * [Swan's Address Derivation Tool](https://github.com/swan-bitcoin/xpub-tool) - JavaScript library to derive bitcoin addresses from extended public keys
+* [Tapsim](https://github.com/halseth/tapsim) - Bitcoin Tapscript Debugger
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator | Bitcoin Optech](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
