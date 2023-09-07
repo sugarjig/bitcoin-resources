@@ -152,6 +152,7 @@ title: Lightning
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon) - drop-in monitoring solution for your lnd node
 * [LNLink for iOS](https://lnlink.app) - allows you to control a c-lightning node over the lightning network itself
+* [lnprototest](https://github.com/rustyrussell/lnprototest) - Lightning BOLT Protocol Test Framework
 * [lnproxy](https://github.com/lnproxy/lnproxy) - takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [LNsploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit) - A Lightning Network exploit toolkit built with LDK
@@ -182,6 +183,7 @@ title: Lightning
 * [BlueWallet](https://bluewallet.io)
 * [Breez](https://breez.technology)
 * [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
+* [Etta](https://github.com/EttaWallet/EttaWallet) - Simple open-source non-custodial bitcoin/lightning wallet with a strong bias towards usability, accessibility and good UX
 * [Joule](https://lightningjoule.com)
 * [Lightning](https://github.com/lightninglabs/lightning-app)
 * [LNbits](https://lnbits.org) - wallet/accounts system

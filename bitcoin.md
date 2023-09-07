@@ -22,6 +22,10 @@ title: Bitcoin
 * [OP_RETURN](https://opreturn.org)
 * [UTXO.live](https://utxo.live) - current UTXO set
 
+## Community
+
+* [Delving Bitcoin](https://delvingbitcoin.org)
+
 ## Development
 
 * [GitHub Metadata Backup and Mirror](https://b10c.me/projects/021-github-backups-mirror/)
@@ -120,6 +124,7 @@ title: Bitcoin
 * [pycoin](https://github.com/richardkiss/pycoin)
 * [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
+* [secp256kfun](https://github.com/LLFourn/secp256kfun) - pure-rust secp256k1 library optimised for fun
 * [Unchained Capital Bitcoin Utilities](https://github.com/unchained-capital/unchained-bitcoin) - Javascript library for working with bitcoin, esp. validation & multisig
 
 ## Markets
@@ -144,12 +149,14 @@ title: Bitcoin
 * [PoW 51% Attack Cost](https://www.crypto51.app)
 * [Profitibility Calculator](https://insights.braiins.com/en/profitability-calculator/)
 * [Stratum](https://www.stratumprotocol.org)
+* [Templates and Blocks](https://miningpool.observer/template-and-block) - Comparing Block Templates to Mining Pool Blocks
 
 ## Miscellaneous
 
 * [Bitcoin Bounties](https://bitcoinbounties.org)
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
+* [Bitcoin Events](https://bitcoin.review/bitcoin-events/)
 * [Bitcoin Events and Conferences](https://river.com/learn/bitcoin-events-and-conferences/)
 * [Bitcoin Holidays](https://bitcoin.holiday)
 * [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org) - interactive timeline
@@ -318,6 +325,7 @@ title: Bitcoin
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
 * [Caravan](https://unchained-capital.github.io/caravan/) - coordination software for multisig addresses
+* [Codex](https://secretcodex32.com/index.html) - error-correcting code designed to be computable without the use of electronic computers
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
 * [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Modular Bitcoin full-node microservices API server architecture and utilities toolkit
 * [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
@@ -342,7 +350,7 @@ title: Bitcoin
 * [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
-* [reserves](https://github.com/ElementsProject/reserves)
+* [reserves](https://github.com/ElementsProject/reserves) - Proof-of-Reserves tool for Bitcoin
 * [Rusty-Paper-Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates descriptor-based bitcoin paper wallet offline
 * [Seed Tool](https://bitcoiner.guide/seed/) - experiment and learn how bitcoin wallets are generated using different sources of entropy
 * [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
@@ -383,6 +391,7 @@ title: Bitcoin
 * [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
 * [GreenAddress](https://greenaddress.it/en/)
 * [Hexa Wallet](https://github.com/bithyve/hexa)
+* [Keeper](https://bitcoinkeeper.app)
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
 * [Lily Wallet](http://lily.kevinmulcrone.com)
 * [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
