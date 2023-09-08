@@ -105,6 +105,7 @@ title: Bitcoin
 * [nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 * [Stacks](https://docs.blockstack.org)
 * [Storm](https://github.com/storm-org/storm-spec)
+* [Taproot Assets](https://github.com/lightninglabs/taproot-assets) - A layer 1 daemon, for the Taproot Assets Protocol specification
 * [Web5](https://developer.tbd.website/projects/web5/) - an extra decentralized web platform
 * [ZeroNet](https://zeronet.io)
 
@@ -284,7 +285,7 @@ title: Bitcoin
 * [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
-* [Minsc](https://min.sc)
+* [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
 * [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
   * [Script Wiz](https://ide.scriptwiz.app)
   * [Simplicity Playground](https://simplicity.scriptwiz.app)
