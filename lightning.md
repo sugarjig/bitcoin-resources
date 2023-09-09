@@ -125,6 +125,7 @@ title: Lightning
 * [River Lightning Services](https://www.rls.dev)
 * [Submarine Swaps](https://submarineswaps.org)
 * [Thor Channels](https://www.bitrefill.com/thor-lightning-network-channels/?hl=en) - liquidity provider
+* [ZEBEDEE](https://zebedee.io) - lets developers make financial transactions a native part of their apps and games
 * [zero fee routing](https://zerofeerouting.com)
 * [zero fee routing private channel](https://zerofeerouting.com/mobile-wallets/)
 
