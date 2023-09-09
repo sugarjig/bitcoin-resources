@@ -137,6 +137,7 @@ title: Lightning
 * [Circuit Breaker](https://github.com/lightningequipment/circuitbreaker) - is to Lightning what firewalls are to the internet
 * [Clams](http://clams.tech) - Browser UI for Core Lightning nodes
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
+* [doppler](https://github.com/tee8z/doppler) - tool for building out a local regtest environment
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [L402: Lightning HTTP 402 Protocol](https://docs.lightning.engineering/the-lightning-network/l402) - Lightning API keys cleverly combine the capabilities of macaroons with that of a Lightning payment
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
@@ -164,6 +165,7 @@ title: Lightning
 * [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL) - full function web browser app for LND, C-Lightning and Eclair
 * [Satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning Address Server
 * [Scaling Lightning](https://github.com/scaling-lightning/scaling-lightning) - A Testing Toolkit for the Lightning Network
+* [SimLN](https://github.com/bitcoin-dev-project/sim-ln) - Payment activity generator for the lightning network
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 * [The Eye of Satoshi (rust-teos)](https://github.com/talaia-labs/rust-teos) - Lightning watchtower compliant with BOLT13, written in Rust

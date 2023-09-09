@@ -25,6 +25,7 @@ title: Bitcoin
 ## Community
 
 * [Delving Bitcoin](https://delvingbitcoin.org)
+* [PLEBNET.DEV](https://plebnet.dev)
 
 ## Development
 
