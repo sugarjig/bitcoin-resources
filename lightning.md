@@ -110,6 +110,7 @@ title: Lightning
 * [Blocktank](https://synonym.to/blocktank/) - Full-service Lightning Service Provider
 * [Encrypted Energy](https://encryptedenergy.com) - Automate Your Lightning Node Operations
 * [Greenlight](https://blockstream.com/lightning/greenlight/) - Your personal Core Lightning node, without the technical fuss
+* [Hydro](https://amboss.space/hydro/intro) - liquidity automation
 * [Lightspark](https://www.lightspark.com)
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
 * [Lightning Conductor](https://lightningconductor.net/channels) - liquidity provider
@@ -137,7 +138,7 @@ title: Lightning
 * [Channel tools](https://github.com/guggero/chantools) - A loose collection of tools all somehow related to lnd and Lightning Network channels
 * [Circuit Breaker](https://github.com/lightningequipment/circuitbreaker) - is to Lightning what firewalls are to the internet
 * [Clams](http://clams.tech) - Browser UI for Core Lightning nodes
-* [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated C-Lightning Node Manager
+* [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated Core Lightning Node Manager
 * [doppler](https://github.com/tee8z/doppler) - tool for building out a local regtest environment
 * [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [L402: Lightning HTTP 402 Protocol](https://docs.lightning.engineering/the-lightning-network/l402) - Lightning API keys cleverly combine the capabilities of macaroons with that of a Lightning payment
@@ -159,6 +160,7 @@ title: Lightning
 * [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
 * [LNsploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit) - A Lightning Network exploit toolkit built with LDK
 * [Node Launcher](https://github.com/lightning-power-users/node-launcher)
+* [Payment Widgets](https://widgets.twentyuno.net) - Start accepting bitcoin payments on your website in minutes
 * [PeerSwap](https://github.com/ElementsProject/peerswap) - enables Lightning Network nodes to balance their channels by facilitating atomic swaps with direct peers
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
