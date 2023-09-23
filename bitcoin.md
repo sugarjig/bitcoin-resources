@@ -261,6 +261,7 @@ title: Bitcoin
 * [All About BIPs Zine](https://satsie.dev/bips/)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
+* [Bitcoin Glossary](https://glossary.blockstream.com)
 * [Bitcoin.TV](https://bitcointv.com)
 * [bitcoin-tutorials](https://openoms.github.io/bitcoin-tutorials/) - Documenting Bitcoin related setups using LND, JoinMarket, RaspiBlitz, Debian and Ubuntu
 * [Bitcoin Canon](https://www.swanbitcoin.com/canon/)
@@ -310,6 +311,9 @@ title: Bitcoin
 
 ## Tools
 
+* [asmap-rs](https://github.com/rrybarczyk/asmap-rs) - A tool to assist the asmap project read and parse RIS raw data from the RIPE NCC
+* [B'SST](https://github.com/dgpv/bsst) - Bitcoin-like Script Symbolic Tracer
+* [Bails](https://github.com/BenWestgate/Bails) - installs Bitcoin Core to the Persistent Storage in Tails with the provided script and creates and recovers Bitcoin Core wallets from paper Codex32 (BIP93) seed backups
 * [BIP32 Deterministic Key Generator](https://bip32jp.github.io/english/)
 * [Bitauth IDE](https://ide.bitauth.com)
 * [Bitcoin Confirmation Risk Calculator](https://jlopp.github.io/bitcoin-confirmation-risk-calculator/)
@@ -362,6 +366,7 @@ title: Bitcoin
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator | Bitcoin Optech](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
+* [UTXOracle](https://github.com/Unbesteveable/UTXOracle)
 * [vbc-desktop](https://github.com/fidelity/vbc-desktop) - vaulted bitcoin custody project
 * [Vortex](https://lnvortex.com) - Lightning and Taproot enabled collaborative transactions
 * [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
@@ -371,6 +376,7 @@ title: Bitcoin
 
 * [Base58](https://www.base58.info) - developer-oriented bitcoin fundamentals courses
 * [Bitcoin Classes](https://www.lopp.net/bitcoin-information/online-offline-classes.html)
+* [The Bitcoin Dev Project](https://bitcoindevs.xyz)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Learning @ Chaincode](https://learning.chaincode.com)
