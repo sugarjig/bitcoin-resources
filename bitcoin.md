@@ -27,6 +27,10 @@ title: Bitcoin
 * [Delving Bitcoin](https://delvingbitcoin.org)
 * [PLEBNET.DEV](https://plebnet.dev)
 
+## Cryptography
+
+* [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
+
 ## Development
 
 * [GitHub Metadata Backup and Mirror](https://b10c.me/projects/021-github-backups-mirror/)
@@ -354,6 +358,7 @@ title: Bitcoin
 * [Musig playground](https://supertestnet.github.io/musig-playground/)
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
+* [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
 * [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
 * [reserves](https://github.com/ElementsProject/reserves) - Proof-of-Reserves tool for Bitcoin
