@@ -76,6 +76,7 @@ title: Bitcoin
 
 ## Explorers
 
+* [Bitfeed](https://bitfeed.live)
 * [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
 * [Chaingraph](https://chaingraph.cash)
