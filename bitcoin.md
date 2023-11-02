@@ -86,6 +86,11 @@ title: Bitcoin
 * [SpiralBTC](https://btc.usespiral.com) - Look up any BTC address balance, without revealing the address to anyone – not even us
 * [TxStreet](https://txstreet.com) - blockchain transaction visualizer
 
+## Investing
+
+* [Bitcoin First](bitcoin-first.pdf) - Fidelity Digital Assets
+* [Bitcoin First Revisited](bitcoin-first-revisited.pdf) - Fidelity Digital Assets
+
 ## Layer 2
 
 * [cashu](https://cashu.space) - Chaumian ecash system built for Bitcoin
