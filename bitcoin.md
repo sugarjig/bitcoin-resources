@@ -91,6 +91,7 @@ title: Bitcoin
 * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms) - Fidelity Digital Assets
 * [Bitcoin First](bitcoin-first.pdf) - Fidelity Digital Assets
 * [Bitcoin First Revisited](bitcoin-first-revisited.pdf) - Fidelity Digital Assets
+* [Bitcoin Investment Thesis: An Aspirational Store of Value](https://www.fidelitydigitalassets.com/sites/default/files/documents/bitinvthessisstoreofvalue.pdf) - Fidelity Digital Assets
 
 ## Layer 2
 
