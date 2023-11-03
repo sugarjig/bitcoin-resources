@@ -281,6 +281,7 @@ title: Bitcoin
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Privacy](https://www.lopp.net/bitcoin-information/privacy.html)
 * [Bitcoin Resources](https://bitcoin-resources.com)
+* [BitcoinDev.org](https://bitcoindev.org) - Grab the latest Libraries, SDKs, and APIs in your favorite programming languages
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
 * [Bitcoiner.Guide](https://bitcoiner.guide)
   * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
