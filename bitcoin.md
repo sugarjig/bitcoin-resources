@@ -88,6 +88,7 @@ title: Bitcoin
 
 ## Investing
 
+* [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms) - Fidelity Digital Assets
 * [Bitcoin First](bitcoin-first.pdf) - Fidelity Digital Assets
 * [Bitcoin First Revisited](bitcoin-first-revisited.pdf) - Fidelity Digital Assets
 
