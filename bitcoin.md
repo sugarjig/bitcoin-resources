@@ -95,6 +95,7 @@ title: Bitcoin
 
 ## Layer 2
 
+* [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
 * [cashu](https://cashu.space) - Chaumian ecash system built for Bitcoin
 * [CoinPool](https://coinpool.dev/v0.1.pdf)
 * [Counterparty](https://counterparty.io)
@@ -124,6 +125,7 @@ title: Bitcoin
 
 ## Libraries
 
+* [BIP-329 Python Library](https://github.com/Labelbase/python-bip329) - a set of tools for working with BIP-329 compliant label files
 * [Bitcoin Descriptors Library](https://github.com/bitcoinerlab/descriptors) - A JavaScript library for parsing and signing Bitcoin descriptors, including those based on the Miniscript language
 * [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
 * [bitcoinj](https://bitcoinj.github.io)
@@ -433,6 +435,7 @@ title: Bitcoin
 ### Hardware Wallets
 
 * [Coldcard](https://coldcardwallet.com)
+* [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin
 * [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host
 * [SeedSigner](https://github.com/SeedSigner/seedsigner) - air-gapped Raspberry Pi Zero to sign for Bitcoin transactions
 * [Trezor](https://wiki.trezor.io/Welcome)
