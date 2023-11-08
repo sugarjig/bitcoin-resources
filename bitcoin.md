@@ -260,6 +260,7 @@ title: Bitcoin
   * [Compatibility Matrix](https://bitcoinops.org/en/compatibility/)
   * [Topics](https://bitcoinops.org/en/topics/)
 * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
+* [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [Blockstream Docs](https://docs.blockstream.com)
