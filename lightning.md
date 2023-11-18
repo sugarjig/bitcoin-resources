@@ -74,6 +74,7 @@ title: Lightning
 
 ## Papers
 
+* [eltoo: A Simple Layer2 Protocol for Bitcoin](https://blockstream.com/eltoo.pdf)
 * [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 
 ## Payments

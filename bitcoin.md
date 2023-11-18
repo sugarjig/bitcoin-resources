@@ -102,10 +102,10 @@ title: Bitcoin
 * [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
 * [Drivechain](https://www.drivechain.info)
 * [Elements](https://elementsproject.org)
+* [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
 * [Factom](https://www.factom.com)
 * [FediMint](https://fedimint.org) - federated chaumian mints
 * [ION](https://github.com/decentralized-identity/ion)
-* [Liquid](https://github.com/ElementsProject/elements)
 * [Mercury Wallet](https://mercurywallet.com) - send and swap Bitcoin privately
 * [Minimint](https://github.com/fedimint/minimint) - federated mint prototype
 * [nutstash](https://nutstash.app) - Cashu wallet for your browser
@@ -304,6 +304,7 @@ title: Bitcoin
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
+* [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
 * [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
   * [Script Wiz](https://ide.scriptwiz.app)
   * [Simplicity Playground](https://simplicity.scriptwiz.app)
@@ -342,6 +343,7 @@ title: Bitcoin
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
+* [bitcoin-scriptexec](https://github.com/BitVM/rust-bitcoin-scriptexec) - A work-in-progress Bitcoin Script execution utility
 * [bitcointools](https://github.com/jnewbery/bitcointools)
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
@@ -424,7 +426,8 @@ title: Bitcoin
 * [nakamoto](https://github.com/cloudhead/nakamoto) - light-client implementation in Rust
 * [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client
 * [Nunchuk](https://nunchuk.io) - Multisig
-* [Samourai](https://samouraiwallet.com) 
+* [Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet) - A testnet-only bitcoin wallet full of tutorials on how to use bitcoin wallets
+* [Samourai](https://samouraiwallet.com)
 * [Simple Bitcoin Wallet](https://sbw.app)
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
