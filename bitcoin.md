@@ -15,14 +15,19 @@ title: Bitcoin
 * [Bitbo](https://bitbo.io)
 * [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
+* [Bitcoin Protocol Layer Statistics](https://transactionfee.info)
 * [Bitcoin Uptime](https://bitcoinuptime.org)
 * [Bitnodes](https://bitnodes.io) - Reachable Bitcoin Nodes
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 * [Fork Monitor](https://forkmonitor.info)
 * [fork-observer](https://fork.observer)
+* [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
+* [mempool.observer](https://mempool.observer)
+  * [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
 * [mempool clock](https://mempool.space/clock)
 * [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
 * [Statoshi](https://statoshi.info)
+* [TimechainStats](https://timechainstats.com)
 * [Timechain Calendar](https://timechaincalendar.com)
 * [txstats](https://txstats.com)
 
@@ -148,6 +153,7 @@ title: Bitcoin
 * [Bitcoin Events](https://bitcoin.review/bitcoin-events/)
 * [Bitcoin Events and Conferences](https://river.com/learn/bitcoin-events-and-conferences/)
 * [Bitcoin Holidays](https://bitcoin.holiday)
+* [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
 * [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org) - interactive timeline
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
 * [BitcoinTV.com](https://bitcointv.com)
@@ -162,11 +168,6 @@ title: Bitcoin
 * [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai) - Bitcoin LLM
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
-
-## News
-
-* [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
-* [Bitcoin Optech](https://bitcoinops.org)
 
 ## Nodes
 
@@ -193,47 +194,36 @@ title: Bitcoin
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
 * [Bitcoin Developer](https://developer.bitcoin.org)
 * Bitcoin Optech
-  * [Bech32 Sending Support](https://bitcoinops.org/en/bech32-sending-support/)
   * [Compatibility Matrix](https://bitcoinops.org/en/compatibility/)
   * [Topics](https://bitcoinops.org/en/topics/)
 * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
 * [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
-* [Blockstream Docs](https://docs.blockstream.com)
-* [Preparing for taproot](https://bitcoinops.org/en/preparing-for-taproot/)
+* [Liquid developer documentation](https://docs.liquid.net/)
 * [Protocol documentation](https://en.bitcoin.it/wiki/Protocol_documentation)
-* [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
-  * [The Complete Satoshi](https://satoshi.nakamotoinstitute.org)
-* [Wallets Recovery](https://walletsrecovery.org)
 
 ## Resources
 
-* [10 Hours of Bitcoin](https://10hoursofbitcoin.com)
-* [All About BIPs Zine](https://satsie.dev/bips/)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 * [Best of Bitcoin Magazine](https://bitcoinmagazine.com/best-of-bitcoin-magazine)
 * [Bitcoin Glossary](https://glossary.blockstream.com)
 * [Bitcoin.TV](https://bitcointv.com)
-* [bitcoin-tutorials](https://openoms.github.io/bitcoin-tutorials/) - Documenting Bitcoin related setups using LND, JoinMarket, RaspiBlitz, Debian and Ubuntu
-* [Bitcoin Canon](https://www.swanbitcoin.com/canon/)
-* [Bitcoin minds](https://bitcoinminds.org) - The most comprehensive list of Bitcoin resources online
+* [Bitcoin Canon](https://www.swanbitcoin.com/canon/) - Swan
 * [Bitcoin Only](https://bitcoin-only.com)
-* [Bitcoin Privacy](https://www.lopp.net/bitcoin-information/privacy.html)
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [BitcoinDev.org](https://bitcoindev.org) - Grab the latest Libraries, SDKs, and APIs in your favorite programming languages
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
 * [Bitcoiner.Guide](https://bitcoiner.guide)
   * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
-* [BitcoinPy](https://bitcoinpy.dev) - living documentation of Bitcoin related Python libraries and tools
 * [End the FUD](https://endthefud.org) - The best links to articles debunking Bitcoin FUD
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
-* [Swan Bitcoin Canon](https://www.swanbitcoin.com/canon/)
+* [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
+  * [The Complete Satoshi](https://satoshi.nakamotoinstitute.org)
 * [Technical Bitcoin Search](https://bitcoinsearch.xyz)
 * [Try Bitcoin](https://trybitcoin.satsie.dev) - by satsie
-* [x21.tools](https://x21.tools)
 
 ## Script
 
@@ -242,26 +232,15 @@ title: Bitcoin
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
 * [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
+* [Script](https://en.bitcoin.it/wiki/Script)
+* [Script Wiz](https://ide.scriptwiz.app)
 * [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
-  * [Script Wiz](https://ide.scriptwiz.app)
-  * [Simplicity Playground](https://simplicity.scriptwiz.app)
+* [Simplicity Playground](https://simplicity.scriptwiz.app)
 
 ## Services
 
 * [Strike API](https://developer.strike.me)
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
-
-## Statistics
-
-* [Bitcoin Protocol Layer Statistics](https://transactionfee.info)
-* [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
-* [BitInfoCharts](https://bitinfocharts.com)
-  * [Bitcoin Rich List](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html)
-* [fork.lol](https://fork.lol)
-* [Glassnode](https://glassnode.com)
-* [Hashrate Index](https://hashrateindex.com)
-* [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
-* [TimechainStats](https://timechainstats.com)
 
 ## Tools
 
