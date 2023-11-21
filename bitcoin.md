@@ -227,8 +227,12 @@ title: Bitcoin
 
 ## Script
 
+* [Bitauth IDE](https://ide.bitauth.com)
+* [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
+* [bitcoin-scriptexec](https://github.com/BitVM/rust-bitcoin-scriptexec) - A work-in-progress Bitcoin Script execution utility
 * [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
+* [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
 * [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
@@ -236,6 +240,7 @@ title: Bitcoin
 * [Script Wiz](https://ide.scriptwiz.app)
 * [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
 * [Simplicity Playground](https://simplicity.scriptwiz.app)
+* [Tapsim](https://github.com/halseth/tapsim) - Bitcoin Tapscript Debugger
 
 ## Services
 
@@ -244,101 +249,62 @@ title: Bitcoin
 
 ## Tools
 
-* [asmap-rs](https://github.com/rrybarczyk/asmap-rs) - A tool to assist the asmap project read and parse RIS raw data from the RIPE NCC
-* [B'SST](https://github.com/dgpv/bsst) - Bitcoin-like Script Symbolic Tracer
-* [Bails](https://github.com/BenWestgate/Bails) - installs Bitcoin Core to the Persistent Storage in Tails with the provided script and creates and recovers Bitcoin Core wallets from paper Codex32 (BIP93) seed backups
-* [BIP32 Deterministic Key Generator](https://bip32jp.github.io/english/)
-* [Bitauth IDE](https://ide.bitauth.com)
-* [Bitcoin Confirmation Risk Calculator](https://jlopp.github.io/bitcoin-confirmation-risk-calculator/)
-* [Bitcoin Core RPC Auth Config Generator](https://jlopp.github.io/bitcoin-core-rpc-auth-generator/)
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
-* [Bitcoin PSBT Explorer](https://bip174.org)
-* [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind
-* [Bitcoin Satellite](https://github.com/Blockstream/bitcoinsatellite) - version of the bitcoind application with support for satellite-optimized one-way transport of blocks sent over UDP with multicast addressing
-* [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
-* [Bitcoin Wallet Tracker](https://github.com/shesek/bwt)
-* [bitcoin-scriptexec](https://github.com/BitVM/rust-bitcoin-scriptexec) - A work-in-progress Bitcoin Script execution utility
-* [bitcointools](https://github.com/jnewbery/bitcointools)
+* [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
+* [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
-* [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
+* [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
-* [Caravan](https://unchained-capital.github.io/caravan/) - coordination software for multisig addresses
-* [Codex](https://secretcodex32.com/index.html) - error-correcting code designed to be computable without the use of electronic computers
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
 * [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Modular Bitcoin full-node microservices API server architecture and utilities toolkit
-* [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
-* [Electrum Server in Rust](https://github.com/romanz/electrs)
-* [ElectrumX](https://github.com/kyuupichan/electrumx)
+* [electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
+* [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server) - Maximally lightweight electrum server for a single user
+* [ElectrumX](https://github.com/kyuupichan/electrumx) - Alternative implementation of spesmilo/electrum-server
 * [Elephant](https://elephant.bitcoindevkit.org) - wallet creator
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
 * [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
-* [Ian Coleman](https://iancoleman.io)
-* [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [Jam](https://jamapp.org) - a modern interface for JoinMarket
 * [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
-* [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
-* [Know Your Coin Privacy](https://kycp.org) - privacy explorer
+* [joinmarket-clientserver](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Bitcoin CoinJoin implementation with incentive structure to convince people to take part
 * [Mempool](https://github.com/mempool/mempool)
-* [Mempool Calculator](https://mempool.space/tools/calculator)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
-* [Munstr](https://github.com/0xBEEFCAF3/munstr) - MuSig + Nostr
-* [Musig playground](https://supertestnet.github.io/musig-playground/)
 * [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
-* [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
 * [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
-* [PSBT-Toolkit](https://github.com/benthecarman/PSBT-Toolkit) - a nice gui that gives you functionality for PSBT interactions
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
 * [reserves](https://github.com/ElementsProject/reserves) - Proof-of-Reserves tool for Bitcoin
-* [Rusty-Paper-Wallet](https://github.com/RCasatta/rusty-paper-wallet) - Generates descriptor-based bitcoin paper wallet offline
 * [Seed Tool](https://bitcoiner.guide/seed/) - experiment and learn how bitcoin wallets are generated using different sources of entropy
-* [The Sapio Language](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
+* [Sapio](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
   * [Designing Bitcoin Contracts with Sapio](https://learn.sapio-lang.org/)
 * [Swan's Address Derivation Tool](https://github.com/swan-bitcoin/xpub-tool) - JavaScript library to derive bitcoin addresses from extended public keys
-* [Tapsim](https://github.com/halseth/tapsim) - Bitcoin Tapscript Debugger
 * [Transaction Size Calculator (jlopp)](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 * [Transaction size calculator | Bitcoin Optech](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
-* [UTXOracle](https://github.com/Unbesteveable/UTXOracle)
-* [vbc-desktop](https://github.com/fidelity/vbc-desktop) - vaulted bitcoin custody project
-* [Vortex](https://lnvortex.com) - Lightning and Taproot enabled collaborative transactions
-* [Wireshark Bitcoin Dissector](https://github.com/lbotsch/wireshark-bitcoin)
-* [ZeroSync](https://zerosync.org/)
+* [UTXOracle](https://github.com/Unbesteveable/UTXOracle) - estimates the daily USD price of bitcoin using only your bitcoin Core full node
+* [ZeroSync](https://zerosync.org/) - Succinct zero-knowledge proofs
 
 ## Training
 
-* [Base58](https://www.base58.info) - developer-oriented bitcoin fundamentals courses
+* [Base58](https://www.base58.info) - bitcoin protocol school
 * [Bitcoin Classes](https://www.lopp.net/bitcoin-information/online-offline-classes.html)
 * [The Bitcoin Dev Project](https://bitcoindevs.xyz)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Learning @ Chaincode](https://learning.chaincode.com)
-* [Onboarding to Bitcoin Core](https://bitcoincore.wtf)
-* [Mooniversity](https://mooniversity.io)
 * [Saving Satoshi](https://savingsatoshi.com) - Code your way through the mysteries of bitcoin
 
 ## Wallets
 
-* [Aqua](https://blockstream.com/aqua/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
-* [Chaincase](https://chaincase.app) - only privacy preserving bitcoin wallet for iOS
-* [Coinstr](https://coinstr.io) - uses the Nostr protocol to orchestrate signature requests and approvals
-* [current](https://app.getcurrent.io) - The power of nostr + bitcoin at your hands
-* [Dux Reserve](https://beta.duxreserve.com) - watch-only wallets and multisig vaults
-* [Emoji Bitcoin Wallet](https://stepansnigirev.github.io/emoji-wallet/)
-* [Go Up Number](https://gun.fun) - command line wallet
-* [GordianWallet](https://github.com/BlockchainCommons/GordianWallet-iOS)
-* [GreenAddress](https://greenaddress.it/en/)
-* [Hexa Wallet](https://github.com/bithyve/hexa)
-* [Keeper](https://bitcoinkeeper.app)
+* [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) - iOS wallet linked by Torgap to your own full-node server
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
-* [Lily Wallet](http://lily.kevinmulcrone.com)
+* [Lily Wallet](https://lily-wallet.com/)
 * [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
 * [MyCitadel Desktop](https://github.com/mycitadel/mycitadel-desktop) - Bitcoin, Lightning and RGB wallet
 * [nakamoto](https://github.com/cloudhead/nakamoto) - light-client implementation in Rust
@@ -346,10 +312,9 @@ title: Bitcoin
 * [Nunchuk](https://nunchuk.io) - Multisig
 * [Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet) - A testnet-only bitcoin wallet full of tutorials on how to use bitcoin wallets
 * [Samourai](https://samouraiwallet.com)
-* [Simple Bitcoin Wallet](https://sbw.app)
+* [Simple Bitcoin Wallet](https://sbw.app) - open-source, reproducible, non-custodial, autonomous wallet for Android
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
-* [Unstoppable Wallet](https://unstoppable.money)
 * [Void](https://brilliancebitcoin.github.io/void/) - only sends and receives coinjoins
 * [Wallby](https://wallby.app) - the only place where you can access Bitcoin and all its layer 2 networks and side-chain protocols
 * [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
@@ -360,10 +325,3 @@ title: Bitcoin
 * [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin
 * [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host
 * [SeedSigner](https://github.com/SeedSigner/seedsigner) - air-gapped Raspberry Pi Zero to sign for Bitcoin transactions
-* [Trezor](https://wiki.trezor.io/Welcome)
-  * [FIDO2](https://wiki.trezor.io/FIDO2)
-  * [Monero](https://wiki.trezor.io/Monero_(XMR))
-  * [Passphrase](https://wiki.trezor.io/Passphrase)
-  * [Password Manager](https://trezor.io/passwords/)
-  * [trezorctl](https://wiki.trezor.io/Using_trezorctl_commands_with_Trezor)
-  * [U2F](https://wiki.trezor.io/U2F)
