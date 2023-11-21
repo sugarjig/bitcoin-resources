@@ -3,8 +3,6 @@ layout: single
 title: Bitcoin
 ---
 
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-
 ## Books
 
 * [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
@@ -16,24 +14,19 @@ title: Bitcoin
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin network graphs](http://bitcoin.sipa.be)
+* [Bitcoin Stats and Data](https://charts.bitbo.io/)
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
+* [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
 * [Glassnode Studio](https://studio.glassnode.com)
-* [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) - Bitcoin Mempool Statistics
-* [OP_RETURN](https://opreturn.org)
 * [UTXO.live](https://utxo.live) - current UTXO set
 
 ## Community
 
 * [Delving Bitcoin](https://delvingbitcoin.org)
-* [PLEBNET.DEV](https://plebnet.dev)
 
 ## Cryptography
 
 * [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
-
-## Development
-
-* [GitHub Metadata Backup and Mirror](https://b10c.me/projects/021-github-backups-mirror/)
 
 ## Essays
 
@@ -77,14 +70,10 @@ title: Bitcoin
 ## Explorers
 
 * [Bitfeed](https://bitfeed.live)
-* [Blockchair](https://blockchair.com)
 * [Blockstream](https://blockstream.info)
 * [Chaingraph](https://chaingraph.cash)
 * [mempool](https://mempool.space)
-  * [clock](https://mempool.space/clock/mempool/0)
 * [OXT](https://oxt.me)
-* [SpiralBTC](https://btc.usespiral.com) - Look up any BTC address balance, without revealing the address to anyone – not even us
-* [TxStreet](https://txstreet.com) - blockchain transaction visualizer
 
 ## Investing
 
@@ -97,62 +86,34 @@ title: Bitcoin
 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
 * [cashu](https://cashu.space) - Chaumian ecash system built for Bitcoin
-* [CoinPool](https://coinpool.dev/v0.1.pdf)
-* [Counterparty](https://counterparty.io)
-* [Discreet Log Contract](https://github.com/discreetlogcontracts/dlcspecs)
-* [Drivechain](https://www.drivechain.info)
 * [Elements](https://elementsproject.org)
 * [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
-* [Factom](https://www.factom.com)
 * [FediMint](https://fedimint.org) - federated chaumian mints
 * [ION](https://github.com/decentralized-identity/ion)
 * [Mercury Wallet](https://mercurywallet.com) - send and swap Bitcoin privately
-* [Minimint](https://github.com/fedimint/minimint) - federated mint prototype
 * [nutstash](https://nutstash.app) - Cashu wallet for your browser
-* [Omni Layer](https://www.omnilayer.org)
 * [OpenTimestamps](https://opentimestamps.org)
 * [Ordinals](https://ordinals.com)
-* [OriginStamp](https://originstamp.com)
-* [P2PDerivatives](https://github.com/p2pderivatives/p2pderivatives-client) - Discreet Log Contracts
-* [Proof of Existence](https://proofofexistence.com)
-* [rsk](https://www.rsk.co)
-* [nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-* [Stacks](https://docs.blockstack.org)
-* [Storm](https://github.com/storm-org/storm-spec)
-* [Taproot Assets](https://github.com/lightninglabs/taproot-assets) - A layer 1 daemon, for the Taproot Assets Protocol specification
+* [Rootstock](https://rootstock.io/)
 * [Web5](https://developer.tbd.website/projects/web5/) - an extra decentralized web platform
-* [ZeroNet](https://zeronet.io)
 
 ## Libraries
 
-* [BIP-329 Python Library](https://github.com/Labelbase/python-bip329) - a set of tools for working with BIP-329 compliant label files
-* [Bitcoin Descriptors Library](https://github.com/bitcoinerlab/descriptors) - A JavaScript library for parsing and signing Bitcoin descriptors, including those based on the Miniscript language
 * [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
-* [bitcoinj](https://bitcoinj.github.io)
-* [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
+* [bitcoinj](https://bitcoinj.github.io) - Java implementation of the Bitcoin protocol
+* [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
 * [descriptor-wallet](https://github.com/BP-WG/descriptor-wallet) - Library for building descriptor-based bitcoin wallets using rust-bitcoin
-* [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk)
+* [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk) - cross-platform, cross-language library for Blockstream Green wallets
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
-* [libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
+* [libwally-core](https://github.com/ElementsProject/libwally-core) - cross-platform, cross-language collection of useful primitives for cryptocurrency wallets
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Bitcoin library for the .NET framework
 * [Payjoin Dev Kit](https://payjoindevkit.org) - Scale Bitcoin, save fees, and preserve privacy with one tiny library
-* [pycoin](https://github.com/richardkiss/pycoin)
-* [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib)
-* [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin)
-* [secp256kfun](https://github.com/LLFourn/secp256kfun) - pure-rust secp256k1 library optimised for fun
+* [pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library
+* [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - Python3 library providing an easy interface to the Bitcoin data structures and protocol
+* [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data-structures and network messages related to Bitcoin
+* [secp256kFUN!](https://github.com/LLFourn/secp256kfun) - pure-rust secp256k1 library optimised for fun
 * [Unchained Capital Bitcoin Utilities](https://github.com/unchained-capital/unchained-bitcoin) - Javascript library for working with bitcoin, esp. validation & multisig
-
-## Markets
-
-* [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
-* [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
-* [CoinMarketBook](https://coinmarketbook.cc)
-* [CoinMarketCap](https://coinmarketcap.com)
-* [Sats Converter](https://satsconverter.io)
-* [McAfee Tracker](https://fnordprefekt.de)
-* [USDSat](https://usdsat.com)
-* [WhatTheFee.io](https://whatthefee.io) - Bitcoin feerate estimation
 
 ## Mining
 
@@ -192,6 +153,7 @@ title: Bitcoin
 * [Myths](https://en.bitcoin.it/wiki/Myths)
 * [The Nakamoto Repository](https://repository.spiritofsatoshi.ai) - collective knowledge-base of the Bitcoin community
 * [SatoshisPerPerson.com](https://satoshisperperson.com) - How many satoshis are there per person in the world?
+* [Sats Converter](https://satsconverter.io)
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai) - Bitcoin LLM
 * [stacker news](https://stacker.news)
@@ -210,6 +172,7 @@ title: Bitcoin
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 * [Fork Monitor](https://forkmonitor.info)
 * [fork-observer](https://fork.observer)
+* [mempool clock](https://mempool.space/clock)
 * [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
 * [peer-observer](https://demo.peer.observer)
 * [Statoshi](https://statoshi.info)
@@ -242,8 +205,9 @@ title: Bitcoin
 
 ## Papers
 
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+  * [bitcoin-paper-errata-and-details.md](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) - A description of known problems in Satoshi Nakamoto's paper
 * [Bitcoin: Cryptopayments Energy Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499)
-* [bitcoin-paper-errata-and-details.md](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) - A description of known problems in Satoshi Nakamoto's paper
 
 ## Payments
 
