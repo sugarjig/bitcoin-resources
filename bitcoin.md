@@ -118,15 +118,11 @@ title: Bitcoin
 ## Mining
 
 * [bitaxe](https://github.com/skot/bitaxe) - Open source Bitcoin miner hardware using BM1397 ASICs
-* [Bitcoin Block Reward Halving Countdown](https://www.bitcoinblockhalf.com)
 * [HashrateIndex](https://hashrateindex.com)
-* [Honeyminer](https://honeyminer.com)
 * [Mining Insights](https://insights.braiins.com/en/)
 * [NiceHash Miner](https://www.nicehash.com)
-* [PoW 51% Attack Cost](https://www.crypto51.app)
 * [Profitibility Calculator](https://insights.braiins.com/en/profitability-calculator/)
 * [Stratum](https://www.stratumprotocol.org)
-* [Templates and Blocks](https://miningpool.observer/template-and-block) - Comparing Block Templates to Mining Pool Blocks
 
 ## Miscellaneous
 
@@ -137,18 +133,10 @@ title: Bitcoin
 * [Bitcoin Events and Conferences](https://river.com/learn/bitcoin-events-and-conferences/)
 * [Bitcoin Holidays](https://bitcoin.holiday)
 * [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org) - interactive timeline
-* [Bitcoin Problems](https://bitcoinproblems.org)
-* [Bitcoin Product Community](https://bitcoin-product.org)
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
-  * [Countries](https://bitcointreasuries.net/countries)
-* [bitcoin.sucks](https://bitcoin.sucks)
-* [BitcoinsPerPerson](http://bitcoinsperperson.com)
 * [BitcoinTV.com](https://bitcointv.com)
 * [Blockstream Research](https://research.blockstream.com) - A Bitcoin-focused cryptography team
-* [blocktime.site](https://blocktime.site)
 * [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
-* [The Little HODLer](https://thelittlehodler.com) - comics
-* [How Man Confs?](https://howmanyconfs.com)
 * [Keys.lol](https://keys.lol) - list of all private keys
 * [Myths](https://en.bitcoin.it/wiki/Myths)
 * [The Nakamoto Repository](https://repository.spiritofsatoshi.ai) - collective knowledge-base of the Bitcoin community
@@ -156,8 +144,6 @@ title: Bitcoin
 * [Sats Converter](https://satsconverter.io)
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai) - Bitcoin LLM
-* [stacker news](https://stacker.news)
-* [Store of Time](https://storeoftime.com)
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
 
