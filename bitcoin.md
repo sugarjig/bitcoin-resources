@@ -10,7 +10,23 @@ title: Bitcoin
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 
-## Charts
+## Data
+
+* [Bitbo](https://bitbo.io)
+* [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
+* [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
+* [Bitcoin Uptime](https://bitcoinuptime.org)
+* [Bitnodes](https://bitnodes.io) - Reachable Bitcoin Nodes
+* [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+* [Fork Monitor](https://forkmonitor.info)
+* [fork-observer](https://fork.observer)
+* [mempool clock](https://mempool.space/clock)
+* [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
+* [Statoshi](https://statoshi.info)
+* [Timechain Calendar](https://timechaincalendar.com)
+* [txstats](https://txstats.com)
+
+### Charts
 
 * [Bitcoin Monetary Inflation](https://bashco.github.io/Bitcoin_Monetary_Inflation/)
 * [Bitcoin network graphs](http://bitcoin.sipa.be)
@@ -147,24 +163,6 @@ title: Bitcoin
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
 
-## Network
-
-* [Bitbo](https://bitbo.io)
-* [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
-* [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
-* [Bitcoin Uptime](https://bitcoinuptime.org)
-* [Bitnodes](https://bitnodes.io)
-* [Coin Dance](https://coin.dance)
-* [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
-* [Fork Monitor](https://forkmonitor.info)
-* [fork-observer](https://fork.observer)
-* [mempool clock](https://mempool.space/clock)
-* [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
-* [peer-observer](https://demo.peer.observer)
-* [Statoshi](https://statoshi.info)
-* [Timechain Calendar](https://timechaincalendar.com)
-* [txstats](https://txstats.com)
-
 ## News
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
@@ -172,33 +170,22 @@ title: Bitcoin
 
 ## Nodes
 
-* [bcoin](https://bitcore.io)
 * [Bitcore](https://bitcore.io)
-* [btcd](https://github.com/btcsuite/btcd)
-* [Floresta](https://github.com/Davidson-Souza/Floresta) - fully-validating Bitcoin node powered by Utreexo
+* [btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
+* [Floresta](https://github.com/Davidson-Souza/Floresta) - A fully-validating Bitcoin node powered by Utreexo, with an integrated Electrum Server
 * [Fully Noded](https://fullynoded.app)
-* [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS)
-* [Ledget SatStack](https://github.com/LedgerHQ/satstack) - Bitcoin full node with Ledger Live
+* [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS) - Tor-protected full-node GordianServer for macOS
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [myNode](https://mynodebtc.com)
 * [Nigiri Bitcoin](https://nigiri.vulpem.com) - A delicious docker box for special Bitcoin and Liquid cookings
-* [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
-* [nodl one](https://www.nodl.it)
-* [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Raspberry Pi node
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
-* [Umbrel](https://getumbrel.com)
 
 ## Papers
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
   * [bitcoin-paper-errata-and-details.md](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) - A description of known problems in Satoshi Nakamoto's paper
 * [Bitcoin: Cryptopayments Energy Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499)
-
-## Payments
-
-* [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
-* [OpenNode](https://www.opennode.com)
 
 ## Reference
 
@@ -298,6 +285,7 @@ title: Bitcoin
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer)
+* [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
 * [Caravan](https://unchained-capital.github.io/caravan/) - coordination software for multisig addresses
 * [Codex](https://secretcodex32.com/index.html) - error-correcting code designed to be computable without the use of electronic computers
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
@@ -320,6 +308,7 @@ title: Bitcoin
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [Munstr](https://github.com/0xBEEFCAF3/munstr) - MuSig + Nostr
 * [Musig playground](https://supertestnet.github.io/musig-playground/)
+* [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [Preturnio](https://preturnio.com) - Full-text search for Bitcoin
 * [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
