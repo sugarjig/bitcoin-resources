@@ -3,24 +3,11 @@ layout: single
 title: Lightning
 ---
 
-## APIs
-
-* [LNPay](https://lnpay.co)
-
 ## Apps
 
-* [Explore Lightning Products](https://makers.bolt.fun/products)
-* [Juggernaut](https://www.getjuggernaut.com)
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
-* [Lightning Service Authentication Token](https://lsat.tech)
-  * [LSAT Playground](https://lsat-playground.vercel.app)
-  * [lsat-js](https://github.com/Tierion/lsat-js)
 * [LN VPN]( https://lnvpn.com)
   * [LN SMS](https://lnvpn.com/phone-numbers) - Bitcoin Lightning-powered disposable phone numbers
-* [Market](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/market) - A movable market stand
-* [Scrib](https://scribsat.com) - Independent payments for your Ghost site
-* [Sphinx](https://sphinx.chat) - chat and podcasting
-* [Whatsat](https://github.com/joostjager/whatsat)
 
 ## Books
 
@@ -28,22 +15,12 @@ title: Lightning
 
 ## Community
 
-* [LND PR Review Club](https://lnd.reviews)
-
-## Layer 3
-
-* [c13n](https://c13n.io) - Transfer and manage payloads & data over Lightning payments
-* [Impervious](https://www.impervious.ai)
-* [OmniBOLT Daemon](https://omnilaboratory.github.io/obd/)
-* [RGB](https://rgb.tech)
-* [Taro](https://github.com/lightninglabs/taro)
+* [BOLT.FUN](https://bolt.fun/)
 
 ## Libraries
 
 * [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
-* [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
-* [Lightning Multiplexer](https://github.com/bottlepay/lnmux)
 
 ## Network
 
@@ -51,60 +28,44 @@ title: Lightning
 * [Amboss](https://amboss.space)
 * [bolt.observer](https://bolt.observer/explorer)
 * [Lighthouse](https://lnlighthouse.online) - Lightning network explorer
-* [Lightning Network Explorer](https://explorer.acinq.co)
-* [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
 * [mempool](https://mempool.space/lightning)
 * [Penalty Transactions](https://forkmonitor.info/lightning)
-* [Zero Base Fee graph](https://lnrouter.app/graph/zero-base-fee) - Visualize all nodes with their channels that support #zeroBaseFee
 
 ## Nodes
 
-* [c-lightning](https://github.com/ElementsProject/lightning)
+* [Core Lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation focusing on spec compliance and performance
   * [Plugins](https://github.com/lightningd/plugins/)
-* [Eclair](https://github.com/ACINQ/eclair)
+* [Eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
-* [LNP Node](https://github.com/LNP-WG/lnp-node)
+* [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK
+* [LNP Node](https://github.com/LNP-WG/lnp-node) - Lightning network protocol daemon (suitable for generalized Lightning Network)
 * [rn-ldk](https://github.com/BlueWallet/rn-ldk) - Lightweight lightning node for React Native
-* [Sensei](https://l2.technology/sensei)
-
-### All-In-One
-
-* [Lightning In A Box](https://lightninginabox.co/product/lightning-in-a-box/)
-* [RaspiBolt](https://stadicus.github.io/RaspiBolt/)
 
 ## Papers
 
+* [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf)
 * [eltoo: A Simple Layer2 Protocol for Bitcoin](https://blockstream.com/eltoo.pdf)
 * [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
-
-## Payments
-
-* [Lightning Charge](https://github.com/ElementsProject/lightning-charge)
-* [Strike](https://strike.acinq.co)
-* [Strike by Zap](https://beta.strike.me)
+* [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
 
 ## Protocol
 
 * [Bitcoin Lightning Improvement Proposal](https://github.com/lightning/blips)
-* [BOLT12](https://bolt12.org)
 * [Lightning Address](https://lightningaddress.com) - like an email address, but for your Bitcoin!
-* [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc)
-* [LNP/BP Specifications](https://github.com/LNP-BP/LNPBPs)
+* [Lightning Network Specifications](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
+* [LNP/BP Specifications](https://github.com/LNP-BP/LNPBPs) - LNP/BP standards for bitcoin layer 2 & 3 protocols
 
 ## Reference
 
-* [Builder's Guide to the LND Galaxy](https://docs.lightning.engineering)
+* [Builder's Guide](https://docs.lightning.engineering)
 * [lightning wiki](https://lightningwiki.net)
-* [Lightning Network Developers](https://dev.lightning.community)
 * [Lightning Service Provider Spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp) - API specifications for Lightning Service Providers
 
 ## Resources
 
-* [BOLT.FUN](https://bolt.fun)
 * [Lightning Guide](https://bitcoiner.guide/lightning/) - A beginners guide to the Lightning Network
 * [Lightning Landscape](https://www.lightning-landscape.net/) - Everything lightning network in one place
 * [Lightning Network Resources](https://www.lopp.net/lightning-information.html) - Jameson Lopp
-* [Lightning Privacy Research](https://lightningprivacy.com/en/introduction)
 
 ## Services
 
@@ -113,24 +74,18 @@ title: Lightning
 * [Encrypted Energy](https://encryptedenergy.com) - Automate Your Lightning Node Operations
 * [Greenlight](https://blockstream.com/lightning/greenlight/) - Your personal Core Lightning node, without the technical fuss
 * [Hydro](https://amboss.space/hydro/intro) - liquidity automation
-* [Lightspark](https://www.lightspark.com)
+* [Lightspark](https://www.lightspark.com) - 
 * [LightningNetwork+](https://lightningnetwork.plus) - liquidity swaps
-* [Lightning Conductor](https://lightningconductor.net/channels) - liquidity provider
-* [Lightning Loops](https://lightning.engineering/loop/)
-* [Lightning Pool](https://lightning.engineering/lightning-pool-whitepaper.pdf) - A Non-Custodial Channel Lease Marketplace
+* [Lightning Loops](https://lightning.engineering/loop/) - The easiest way to manage inbound and outbound liquidity on the Lightning Network
 * [LN Markets](https://lnmarkets.com)
-* [LN Uptime](https://www.lnuptime.com)
-* [LNBig](https://lnbig.com/) - liquidity provider
 * [ln2me.com](https://lightningto.me) - liquidity provider
+* [LNPay](https://lnpay.co) - Lightning Network solutions, software, and implementation partner
+* [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
 * [Magma](https://amboss.space/magma) - Lightning channel marketplace
 * [Nodeless](https://nodeless.io) - Accept Bitcoin payments
-* [PeerSwap](https://www.peerswap.dev) - P2P BTC LN Balancing Protocol
 * [River Lightning Services](https://www.rls.dev)
-* [Submarine Swaps](https://submarineswaps.org)
-* [Thor Channels](https://www.bitrefill.com/thor-lightning-network-channels/?hl=en) - liquidity provider
+* [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [ZEBEDEE](https://zebedee.io) - lets developers make financial transactions a native part of their apps and games
-* [zero fee routing](https://zerofeerouting.com)
-* [zero fee routing private channel](https://zerofeerouting.com/mobile-wallets/)
 
 ## Tools
 
@@ -142,16 +97,15 @@ title: Lightning
 * [Clams](http://clams.tech) - Browser UI for Core Lightning nodes
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated Core Lightning Node Manager
 * [doppler](https://github.com/tee8z/doppler) - tool for building out a local regtest environment
-* [Faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
-* [L402: Lightning HTTP 402 Protocol](https://docs.lightning.engineering/the-lightning-network/l402) - Lightning API keys cleverly combine the capabilities of macaroons with that of a Lightning payment
+* [faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
+* [Lightning Charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments
 * [Lightning Loop](https://github.com/lightninglabs/loop) - A Non-Custodial Off/On Chain Bridge
-* [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet)
+* [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network!
 * [Lightning Node Connect](https://github.com/lightninglabs/lightning-node-connect) - Secure, private access to a Lightning node over an untrusted web server
-* [Lightning RPC Explorer](https://github.com/janoside/lightning-rpc-explorer)
-* [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal)
+* [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal) - browser-based interface for managing channel liquidity
 * [Lightning Watch](https://lightning.watch) - node monitor
-* [lightning-dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze communication between Lightning Network nodes
+* [LNbits](https://lnbits.com/) - Free Open-Source Bitcoin Lightning Accounts System with Extensions
 * [lnc-web](https://github.com/lightninglabs/lnc-web) - Lightning Node Connect npm module for web
 * [LNDg](https://github.com/cryptosharks131/lndg) - Lite GUI web interface to analyze lnd data and manage your node with automation
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
@@ -159,20 +113,16 @@ title: Lightning
 * [LNLink for iOS](https://lnlink.app) - allows you to control a c-lightning node over the lightning network itself
 * [lnprototest](https://github.com/rustyrussell/lnprototest) - Lightning BOLT Protocol Test Framework
 * [lnproxy](https://github.com/lnproxy/lnproxy) - takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
-* [LnRouter](https://lnrouter.app) - provides Lightning Network insights for router node operators and more
-* [LNsploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit) - A Lightning Network exploit toolkit built with LDK
-* [Node Launcher](https://github.com/lightning-power-users/node-launcher)
+* [Node Launcher](https://github.com/lightning-power-users/node-launcher) - Easiest Bitcoin Lightning desktop app, for Windows, macOS, and Linux
 * [Payment Widgets](https://widgets.twentyuno.net) - Start accepting bitcoin payments on your website in minutes
 * [PeerSwap](https://github.com/ElementsProject/peerswap) - enables Lightning Network nodes to balance their channels by facilitating atomic swaps with direct peers
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
 * [Polar](https://lightningpolar.com) - One-click Bitcoin Lightning networks for local app development & testing
 * [preimage-stealer](https://github.com/dark-ln/preimage-stealer) - A utility to automatically claim Lightning Network HTLCs with revealed preimages
-* [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL) - full function web browser app for LND, C-Lightning and Eclair
+* [Ride the Lightning (RTL)](https://github.com/Ride-The-Lightning/RTL) - full function web browser app for LND, C-Lightning and Eclair
 * [Satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning Address Server
 * [Scaling Lightning](https://github.com/scaling-lightning/scaling-lightning) - A Testing Toolkit for the Lightning Network
 * [SimLN](https://github.com/bitcoin-dev-project/sim-ln) - Payment activity generator for the lightning network
-* [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
-* [The Eye of Satoshi](https://github.com/talaia-labs/python-teos)
 * [The Eye of Satoshi (rust-teos)](https://github.com/talaia-labs/rust-teos) - Lightning watchtower compliant with BOLT13, written in Rust
 * [ThunderHub](https://thunderhub.io) - Monitor and manage your node from any browser and any device
 * [Torq](https://github.com/lncapital/torq) - capital management tool for routing nodes
@@ -189,15 +139,9 @@ title: Lightning
 * [Blixt Wallet](https://blixtwallet.github.io)
 * [BlueWallet](https://bluewallet.io)
 * [Breez](https://breez.technology)
-* [Eclair Mobile](https://github.com/ACINQ/eclair-mobile)
 * [Etta](https://github.com/EttaWallet/EttaWallet) - Simple open-source non-custodial bitcoin/lightning wallet with a strong bias towards usability, accessibility and good UX
-* [Joule](https://lightningjoule.com)
-* [Lightning](https://github.com/lightninglabs/lightning-app)
-* [LNbits](https://lnbits.org) - wallet/accounts system
 * [Mutiny Wallet](https://app.mutinywallet.com)
 * [Muun](https://muun.com)
 * [Phoenix Wallet](https://phoenix.acinq.co)
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)
-* [Striga](https://gl.striga.com/login) - Built on Blockstream's Greenlight
-* [Zap](https://github.com/LN-Zap/zap-desktop)
 * [Zeus](https://github.com/ZeusLN/zeus) - mobile Bitcoin/Lightning app for lnd, c-lightning, and Eclair node operators
