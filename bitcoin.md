@@ -246,6 +246,7 @@ title: Bitcoin
 
 * [Strike API](https://developer.strike.me)
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
+* [Zaprite](https://zaprite.com/) - Bitcoin payments made easy
 
 ## Tools
 
@@ -258,6 +259,7 @@ title: Bitcoin
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
+* [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons) - Gordian Reference Code & CLI Utilities
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
 * [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Modular Bitcoin full-node microservices API server architecture and utilities toolkit
 * [electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
