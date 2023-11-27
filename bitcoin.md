@@ -235,6 +235,7 @@ title: Bitcoin
 * [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
+* [Opcode Explained](https://opcodeexplained.com) - Documenting bitcoin opcodes, one at a time
 * [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
 * [Script](https://en.bitcoin.it/wiki/Script)
 * [Script Wiz](https://ide.scriptwiz.app)
@@ -301,6 +302,7 @@ title: Bitcoin
 
 ## Wallets
 
+* [Bitkit](https://bitkit.to) - mobile wallet
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
