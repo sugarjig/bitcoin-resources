@@ -231,8 +231,6 @@ title: Bitcoin
 * [Bitcoin Script IDE](https://github.com/siminchen/bitcoinIDE)
 * [bitcoin-scriptexec](https://github.com/BitVM/rust-bitcoin-scriptexec) - A work-in-progress Bitcoin Script execution utility
 * [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
-* [Ivy](https://github.com/ivy-lang/ivy-bitcoin)
-* [Ivy Playground for Bitcoin](https://ivylang.org/bitcoin)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
 * [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
 * [Opcode Explained](https://opcodeexplained.com) - Documenting bitcoin opcodes, one at a time
