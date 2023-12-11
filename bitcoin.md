@@ -286,6 +286,7 @@ title: Bitcoin
 * [Transaction size calculator | Bitcoin Optech](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
 * [UTXOracle](https://github.com/Unbesteveable/UTXOracle) - estimates the daily USD price of bitcoin using only your bitcoin Core full node
+* [Warnet](https://warnet.dev/) - Monitor and analyze the emergent behaviors of P2P networks
 * [ZeroSync](https://zerosync.org/) - Succinct zero-knowledge proofs
 
 ## Training
