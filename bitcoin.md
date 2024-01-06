@@ -200,6 +200,7 @@ title: Bitcoin
 * [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
+* [BTC Lexicon](https://btclexicon.com)
 * [Liquid developer documentation](https://docs.liquid.net/)
 * [Protocol documentation](https://en.bitcoin.it/wiki/Protocol_documentation)
 
@@ -256,6 +257,7 @@ title: Bitcoin
 * [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
+* [BTC Price Tool](https://www.btcpricetool.com/) - Explore various platforms to buy Bitcoin and compare their pricing
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
 * [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons) - Gordian Reference Code & CLI Utilities
