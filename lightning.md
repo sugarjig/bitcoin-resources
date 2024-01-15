@@ -58,8 +58,10 @@ title: Lightning
 ## Reference
 
 * [Builder's Guide](https://docs.lightning.engineering)
+* [FiatLink](https://github.com/breez/fiatlink) - API specification for bitcoin on and off ramps
 * [lightning wiki](https://lightningwiki.net)
 * [Lightning Service Provider Spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp) - API specifications for Lightning Service Providers
+* [LNURL Documents](https://github.com/lnurl/luds)
 
 ## Resources
 

@@ -111,6 +111,9 @@ title: Bitcoin
 * [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
 * [FediMint](https://fedimint.org) - federated chaumian mints
 * [ION](https://github.com/decentralized-identity/ion)
+* [Liquid Network](https://liquid.net)
+  * [Developer Documentation Portal](https://docs.liquid.net/)
+  * [Liquid Developer Portal](https://liquid.net/devs)
 * [Mercury Wallet](https://mercurywallet.com) - send and swap Bitcoin privately
 * [nutstash](https://nutstash.app) - Cashu wallet for your browser
 * [OpenTimestamps](https://opentimestamps.org)
