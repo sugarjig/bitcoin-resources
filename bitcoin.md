@@ -87,6 +87,7 @@ title: Bitcoin
 * [P2P-Trading-Exchanges](https://cointastical.github.io/P2P-Trading-Exchanges/)
 * [Peach App](https://peachbitcoin.com)
 * [RoboSats](https://github.com/Reckless-Satoshi/robosats) - simple and private bitcoin exchange
+* [SideSwap](https://sideswap.io/) - Settlement infrastructure of the Liquid Network
 
 ## Explorers
 
