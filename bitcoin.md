@@ -19,6 +19,7 @@ title: Bitcoin
 * [Bitcoin Uptime](https://bitcoinuptime.org)
 * [Bitnodes](https://bitnodes.io) - Reachable Bitcoin Nodes
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+  * [v2](https://dashboard.clarkmoody.com)
 * [Fork Monitor](https://forkmonitor.info)
 * [fork-observer](https://fork.observer)
 * [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
@@ -173,29 +174,6 @@ title: Bitcoin
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
 
-## Network
-
-* [Bitbo](https://bitbo.io)
-* [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
-* [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
-* [Bitcoin Uptime](https://bitcoinuptime.org)
-* [Bitnodes](https://bitnodes.io)
-* [Coin Dance](https://coin.dance)
-* [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
-  * [v2](https://dashboard.clarkmoody.com)
-* [Fork Monitor](https://forkmonitor.info)
-* [fork-observer](https://fork.observer)
-* [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
-* [peer-observer](https://demo.peer.observer)
-* [Statoshi](https://statoshi.info)
-* [Timechain Calendar](https://timechaincalendar.com)
-* [txstats](https://txstats.com)
-
-## News
-
-* [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
-* [Bitcoin Optech](https://bitcoinops.org)
-
 ## Nodes
 
 * [Bitcore](https://bitcore.io)
@@ -224,8 +202,8 @@ title: Bitcoin
   * [Compatibility Matrix](https://bitcoinops.org/en/compatibility/)
   * [Topics](https://bitcoinops.org/en/topics/)
 * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
-* [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
 * [Bitcoin Inquisition Numbers And Names Authority](https://github.com/bitcoin-inquisition/binana)
+* [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [BTC Lexicon](https://btclexicon.com)
@@ -333,9 +311,11 @@ title: Bitcoin
 ## Wallets
 
 * [Aqua](https://aquawallet.io)
+* [Bitkit](https://bitkit.to) - mobile wallet
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
+* [Envoy](https://github.com/Foundation-Devices/envoy) - The perfect companion app for your Passport
 * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) - iOS wallet linked by Torgap to your own full-node server
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
 * [Lily Wallet](https://lily-wallet.com/)
