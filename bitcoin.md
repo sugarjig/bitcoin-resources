@@ -115,7 +115,7 @@ title: Bitcoin
 * [Liquid Network](https://liquid.net)
   * [Developer Documentation Portal](https://docs.liquid.net/)
   * [Liquid Developer Portal](https://liquid.net/devs)
-* [Mercury Wallet](https://mercurywallet.com) - send and swap Bitcoin privately
+* [Mercury Layer](https://mercurylayer.com) - Bitcoin Layer-2 scaling technology based on the concept of statechains. Blinded co-signing and key-cycling technology.
 * [nutstash](https://nutstash.app) - Cashu wallet for your browser
 * [OpenTimestamps](https://opentimestamps.org)
 * [Ordinals](https://ordinals.com)
@@ -173,6 +173,29 @@ title: Bitcoin
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
 
+## Network
+
+* [Bitbo](https://bitbo.io)
+* [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
+* [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
+* [Bitcoin Uptime](https://bitcoinuptime.org)
+* [Bitnodes](https://bitnodes.io)
+* [Coin Dance](https://coin.dance)
+* [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+  * [v2](https://dashboard.clarkmoody.com)
+* [Fork Monitor](https://forkmonitor.info)
+* [fork-observer](https://fork.observer)
+* [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
+* [peer-observer](https://demo.peer.observer)
+* [Statoshi](https://statoshi.info)
+* [Timechain Calendar](https://timechaincalendar.com)
+* [txstats](https://txstats.com)
+
+## News
+
+* [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
+* [Bitcoin Optech](https://bitcoinops.org)
+
 ## Nodes
 
 * [Bitcore](https://bitcore.io)
@@ -202,6 +225,7 @@ title: Bitcoin
   * [Topics](https://bitcoinops.org/en/topics/)
 * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
 * [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
+* [Bitcoin Inquisition Numbers And Names Authority](https://github.com/bitcoin-inquisition/binana)
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
 * [BTC Lexicon](https://btclexicon.com)
@@ -248,6 +272,7 @@ title: Bitcoin
 
 ## Services
 
+* [Bitcoin Headers over DNS](https://www.bitcoinheaders.net)
 * [Strike API](https://developer.strike.me)
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
 * [Zaprite](https://zaprite.com/) - Bitcoin payments made easy
@@ -307,7 +332,7 @@ title: Bitcoin
 
 ## Wallets
 
-* [Bitkit](https://bitkit.to) - mobile wallet
+* [Aqua](https://aquawallet.io)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
