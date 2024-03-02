@@ -219,7 +219,7 @@ title: Bitcoin
 * [Bitcoin Canon](https://www.swanbitcoin.com/canon/) - Swan
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
-* [BitcoinDev.org](https://bitcoindev.org) - Grab the latest Libraries, SDKs, and APIs in your favorite programming languages
+* [BitcoinDev.org](https://bitcoindev.org) - Bitcoin & Lightning Development Resources
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
 * [Bitcoiner.Guide](https://bitcoiner.guide)
   * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
@@ -262,6 +262,7 @@ title: Bitcoin
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 * [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
+* [BitScript](https://www.bitscript.app) - Bitcoin Development Environment
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [BTC Price Tool](https://www.btcpricetool.com/) - Explore various platforms to buy Bitcoin and compare their pricing
