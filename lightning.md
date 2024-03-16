@@ -17,6 +17,10 @@ title: Lightning
 
 * [BOLT.FUN](https://bolt.fun/)
 
+## Exchanges
+
+* [Mostro.network](https://mostro.network) - NO-KYC P2P Lightning exchange on top of nostr
+
 ## Libraries
 
 * [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
