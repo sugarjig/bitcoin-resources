@@ -104,6 +104,7 @@ title: Bitcoin
 * [Bitcoin First](bitcoin-first.pdf) - Fidelity Digital Assets
 * [Bitcoin First Revisited](bitcoin-first-revisited.pdf) - Fidelity Digital Assets
 * [Bitcoin Investment Thesis: An Aspirational Store of Value](bitinvthessisstoreofvalue.pdf) - Fidelity Digital Assets
+* [Hoseki Verified](https://www.hoseki.app/verified) - Bitcoin ETF Authentication
 
 ## Layer 2
 
