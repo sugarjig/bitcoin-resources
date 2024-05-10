@@ -269,6 +269,7 @@ title: Bitcoin
 * [BTC Price Tool](https://www.btcpricetool.com/) - Explore various platforms to buy Bitcoin and compare their pricing
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
+* [Caravan](https://www.caravanmultisig.com) - coordination software for multisig addresses and wallets
 * [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons) - Gordian Reference Code & CLI Utilities
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
 * [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Modular Bitcoin full-node microservices API server architecture and utilities toolkit

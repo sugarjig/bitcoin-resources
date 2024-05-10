@@ -120,6 +120,7 @@ title: Lightning
 * [lnprototest](https://github.com/rustyrussell/lnprototest) - Lightning BOLT Protocol Test Framework
 * [lnproxy](https://github.com/lnproxy/lnproxy) - takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
 * [Node Launcher](https://github.com/lightning-power-users/node-launcher) - Easiest Bitcoin Lightning desktop app, for Windows, macOS, and Linux
+* [Nostr Wallet Connect](https://nwc.dev) - an open protocol to connect lightning wallets to apps
 * [Payment Widgets](https://widgets.twentyuno.net) - Start accepting bitcoin payments on your website in minutes
 * [PeerSwap](https://github.com/ElementsProject/peerswap) - enables Lightning Network nodes to balance their channels by facilitating atomic swaps with direct peers
 * [PlebPay](https://www.plebpay.com) - Lightning paywall and get paid directly to your Strike account
