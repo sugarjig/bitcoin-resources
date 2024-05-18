@@ -110,6 +110,7 @@ title: Bitcoin
 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
 * [cashu](https://cashu.space) - Chaumian ecash system built for Bitcoin
+* [did:btc Method Specifiction](https://github.com/MicroStrategy/did-btc-spec) - Microstrategy
 * [Elements](https://elementsproject.org)
 * [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
 * [FediMint](https://fedimint.org) - federated chaumian mints
@@ -117,6 +118,7 @@ title: Bitcoin
 * [Liquid Network](https://liquid.net)
   * [Developer Documentation Portal](https://docs.liquid.net/)
   * [Liquid Developer Portal](https://liquid.net/devs)
+  * [Liquid Wallet Kit](https://github.com/Blockstream/lwk)
 * [Mercury Layer](https://mercurylayer.com) - Bitcoin Layer-2 scaling technology based on the concept of statechains. Blinded co-signing and key-cycling technology.
 * [nutstash](https://nutstash.app) - Cashu wallet for your browser
 * [OpenTimestamps](https://opentimestamps.org)
@@ -144,7 +146,7 @@ title: Bitcoin
 
 ## Mining
 
-* [bitaxe](https://github.com/skot/bitaxe) - Open source Bitcoin miner hardware using BM1397 ASICs
+* [bitaxe](https://github.com/skot/bitaxe) - Open source ASIC Bitcoin miner hardware
 * [HashrateIndex](https://hashrateindex.com)
 * [Mining Insights](https://insights.braiins.com/en/)
 * [NiceHash Miner](https://www.nicehash.com)
@@ -252,6 +254,7 @@ title: Bitcoin
 ## Services
 
 * [Bitcoin Headers over DNS](https://www.bitcoinheaders.net)
+* [BitEscrow](https://www.bitescrow.app)
 * [Strike API](https://developer.strike.me)
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
 * [Zaprite](https://zaprite.com/) - Bitcoin payments made easy
@@ -309,6 +312,7 @@ title: Bitcoin
 * [The Bitcoin Dev Project](https://bitcoindevs.xyz)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+* [LARP](https://github.com/base58btc/LARP) - Base58⛓️🔓's World Famous Bitcoin LARP
 * [Learning @ Chaincode](https://learning.chaincode.com)
 * [Saving Satoshi](https://savingsatoshi.com) - Code your way through the mysteries of bitcoin
 
@@ -330,6 +334,7 @@ title: Bitcoin
 * [Nunchuk](https://nunchuk.io) - Multisig
 * [Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet) - A testnet-only bitcoin wallet full of tutorials on how to use bitcoin wallets
 * [Samourai](https://samouraiwallet.com)
+* [Satsigner](https://github.com/satsigner/satsigner) - UTXO Manager and Message Signer
 * [Simple Bitcoin Wallet](https://sbw.app) - open-source, reproducible, non-custodial, autonomous wallet for Android
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets

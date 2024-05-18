@@ -43,6 +43,7 @@ title: Lightning
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 * [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK
 * [LNP Node](https://github.com/LNP-WG/lnp-node) - Lightning network protocol daemon (suitable for generalized Lightning Network)
+* [phoenixd](https://phoenix.acinq.co/server)
 * [rn-ldk](https://github.com/BlueWallet/rn-ldk) - Lightweight lightning node for React Native
 
 ## Papers
