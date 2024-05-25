@@ -228,6 +228,7 @@ title: Bitcoin
   * [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
 * [End the FUD](https://endthefud.org) - The best links to articles debunking Bitcoin FUD
 * [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
+  * [Technical Resources](https://www.lopp.net/bitcoin-information/technical-resources.html)
 * [learn me a bitcoin](https://learnmeabitcoin.com)
 * [River Learn](https://river.com/learn/)
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
@@ -292,6 +293,7 @@ title: Bitcoin
 * [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
+* [pushtx](https://github.com/alfred-hodler/pushtx) - Privacy-focused Bitcoin Transaction Broadcast Tool
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
 * [reserves](https://github.com/ElementsProject/reserves) - Proof-of-Reserves tool for Bitcoin
 * [Seed Tool](https://bitcoiner.guide/seed/) - experiment and learn how bitcoin wallets are generated using different sources of entropy
