@@ -167,6 +167,7 @@ title: Bitcoin
 * [BitcoinTV.com](https://bitcointv.com)
 * [Blockstream Research](https://research.blockstream.com) - A Bitcoin-focused cryptography team
 * [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
+* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 * [Keys.lol](https://keys.lol) - list of all private keys
 * [Myths](https://en.bitcoin.it/wiki/Myths)
 * [The Nakamoto Repository](https://repository.spiritofsatoshi.ai) - collective knowledge-base of the Bitcoin community
