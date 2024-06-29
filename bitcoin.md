@@ -236,6 +236,7 @@ title: Bitcoin
   * [The Complete Satoshi](https://satoshi.nakamotoinstitute.org)
 * [Technical Bitcoin Search](https://bitcoinsearch.xyz)
 * [Try Bitcoin](https://trybitcoin.satsie.dev) - by satsie
+* [Wallets Supporting Output Descriptors](https://outputdescriptors.org)
 
 ## Script
 
@@ -305,6 +306,7 @@ title: Bitcoin
 * [Transaction size calculator | Bitcoin Optech](https://bitcoinops.org/en/tools/calc-size/)
 * [txTenna](https://github.com/MuleTools/txTenna)
 * [UTXOracle](https://github.com/Unbesteveable/UTXOracle) - estimates the daily USD price of bitcoin using only your bitcoin Core full node
+* [Wallets Recovery](https://walletsrecovery.org)
 * [Warnet](https://warnet.dev/) - Monitor and analyze the emergent behaviors of P2P networks
 * [ZeroSync](https://zerosync.org/) - Succinct zero-knowledge proofs
 
