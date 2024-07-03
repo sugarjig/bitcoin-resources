@@ -18,6 +18,7 @@ title: Bitcoin
 * [Bitcoin Protocol Layer Statistics](https://transactionfee.info)
 * [Bitcoin Uptime](https://bitcoinuptime.org)
 * [Bitnodes](https://bitnodes.io) - Reachable Bitcoin Nodes
+* [Bull Bitcoin Fee Multiple](https://feemultiple.bullbitcoin.com/chart/index)
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
   * [v2](https://dashboard.clarkmoody.com)
 * [Fork Monitor](https://forkmonitor.info)
