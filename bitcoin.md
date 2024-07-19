@@ -41,6 +41,7 @@ title: Bitcoin
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
 * [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
 * [Glassnode Studio](https://studio.glassnode.com)
+* [Satonomics](https://codeberg.org/satonomics/satonomics) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 * [UTXO.live](https://utxo.live) - current UTXO set
 
 ## Community
