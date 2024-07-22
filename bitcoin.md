@@ -323,6 +323,10 @@ title: Bitcoin
 * [Learning @ Chaincode](https://learning.chaincode.com)
 * [Saving Satoshi](https://savingsatoshi.com) - Code your way through the mysteries of bitcoin
 
+## Videos
+
+* [Introduction to Bitcoin: what is bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0) - Andreas Antonopoulos
+
 ## Wallets
 
 * [Aqua](https://aquawallet.io)
