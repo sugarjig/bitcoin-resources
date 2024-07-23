@@ -28,6 +28,7 @@ title: Bitcoin
   * [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
 * [mempool clock](https://mempool.space/clock)
 * [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
+* [PricedInBitcoin21](https://www.pricedinbitcoin21.com)
 * [Statoshi](https://statoshi.info)
 * [TimechainStats](https://timechainstats.com)
 * [Timechain Calendar](https://timechaincalendar.com)
