@@ -111,12 +111,14 @@ title: Bitcoin
 
 ## Layer 2
 
+* [Bitcoin Mints](https://bitcoinmints.com) - 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
-* [cashu](https://cashu.space) - Chaumian ecash system built for Bitcoin
+* [cashu](https://cashu.space) - Chaumian ecash protocol built for Bitcoin
 * [did:btc Method Specifiction](https://github.com/MicroStrategy/did-btc-spec) - Microstrategy
 * [Elements](https://elementsproject.org)
 * [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
 * [FediMint](https://fedimint.org) - federated chaumian mints
+* [Harbot](https://harbor.cash) - ecash desktop wallet for better bitcoin privacy
 * [ION](https://github.com/decentralized-identity/ion)
 * [Liquid Network](https://liquid.net)
   * [Developer Documentation Portal](https://docs.liquid.net/)
