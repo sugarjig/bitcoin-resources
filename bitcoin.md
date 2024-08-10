@@ -294,6 +294,7 @@ title: Bitcoin
 * [Jam](https://jamapp.org) - a modern interface for JoinMarket
 * [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
 * [joinmarket-clientserver](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Bitcoin CoinJoin implementation with incentive structure to convince people to take part
+* [Labelbase](https://labelbase.space/ann-v2/)
 * [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [Next Block](https://nextblock.is/) - What fee rate will get your transaction confirmed into the next block?
@@ -360,5 +361,7 @@ title: Bitcoin
 
 * [Coldcard](https://coldcardwallet.com)
 * [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin
+* [Passport](https://foundation.xyz/passport/)
 * [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host
 * [SeedSigner](https://github.com/SeedSigner/seedsigner) - air-gapped Raspberry Pi Zero to sign for Bitcoin transactions
+* [TwentyTwo](https://twenty-two.xyz) - the hardware wallet for mobile users

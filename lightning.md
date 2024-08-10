@@ -154,4 +154,5 @@ title: Lightning
 * [Muun](https://muun.com)
 * [Phoenix Wallet](https://phoenix.acinq.co)
 * [Spark Lightning Wallet](https://github.com/shesek/spark-wallet)
+* [Speed Wallet](https://www.speed.app)
 * [Zeus](https://github.com/ZeusLN/zeus) - mobile Bitcoin/Lightning app for lnd, c-lightning, and Eclair node operators
