@@ -111,6 +111,7 @@ title: Bitcoin
 
 ## Layer 2
 
+* [Ark](https://arkdev.info) - layer-two protocol for cheap and fast bitcoin transactions
 * [Bitcoin Mints](https://bitcoinmints.com) - 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
 * [cashu](https://cashu.space) - Chaumian ecash protocol built for Bitcoin
@@ -155,8 +156,10 @@ title: Bitcoin
 * [HashrateIndex](https://hashrateindex.com)
 * [Mining Insights](https://insights.braiins.com/en/)
 * [NiceHash Miner](https://www.nicehash.com)
+* [OCEAN](https://ocean.xyz)
 * [Profitibility Calculator](https://insights.braiins.com/en/profitability-calculator/)
 * [Stratum](https://www.stratumprotocol.org)
+* [Stratum Work](https://stratum.work) - Websocket-based web app that streams realtime mining pool stratum messages to a table for analysis
 
 ## Miscellaneous
 
@@ -185,6 +188,7 @@ title: Bitcoin
 
 ## Nodes
 
+* [Bitcoin Core App](https://bitcoincore.app) - QML-based Bitcoin Core application
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
 * [Floresta](https://github.com/Davidson-Souza/Floresta) - A fully-validating Bitcoin node powered by Utreexo, with an integrated Electrum Server
@@ -338,6 +342,7 @@ title: Bitcoin
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
+* [Cake Wallet](https://cakewallet.com)
 * [Envoy](https://github.com/Foundation-Devices/envoy) - The perfect companion app for your Passport
 * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) - iOS wallet linked by Torgap to your own full-node server
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
@@ -353,7 +358,9 @@ title: Bitcoin
 * [Simple Bitcoin Wallet](https://sbw.app) - open-source, reproducible, non-custodial, autonomous wallet for Android
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
+* [Stack Wallet](https://stackwallet.com)
 * [Void](https://brilliancebitcoin.github.io/void/) - only sends and receives coinjoins
+* [Volt Wallet](https://github.com/Zero-1729/volt)
 * [Wallby](https://wallby.app) - the only place where you can access Bitcoin and all its layer 2 networks and side-chain protocols
 * [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
 
