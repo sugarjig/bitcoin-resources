@@ -191,7 +191,7 @@ title: Bitcoin
 * [Bitcoin Core App](https://bitcoincore.app) - QML-based Bitcoin Core application
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
-* [Floresta](https://github.com/Davidson-Souza/Floresta) - A fully-validating Bitcoin node powered by Utreexo, with an integrated Electrum Server
+* [Floresta](https://github.com/vinteumorg/Floresta) - A fully-validating Bitcoin node powered by Utreexo, with an integrated Electrum Server
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS) - Tor-protected full-node GordianServer for macOS
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
@@ -353,6 +353,7 @@ title: Bitcoin
 * [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client
 * [Nunchuk](https://nunchuk.io) - Multisig
 * [Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet) - A testnet-only bitcoin wallet full of tutorials on how to use bitcoin wallets
+* [ProtonWallet](https://github.com/protonwallet/)
 * [Samourai](https://samouraiwallet.com)
 * [Satsigner](https://github.com/satsigner/satsigner) - UTXO Manager and Message Signer
 * [Simple Bitcoin Wallet](https://sbw.app) - open-source, reproducible, non-custodial, autonomous wallet for Android
