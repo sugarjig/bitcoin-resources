@@ -42,7 +42,7 @@ title: Bitcoin
 * [Bitcoin Visuals](https://bitcoinvisuals.com)
 * [Clark Moody Ticker](https://bitcoin.clarkmoody.com/tickers/)
 * [Glassnode Studio](https://studio.glassnode.com)
-* [Satonomics](https://codeberg.org/satonomics/satonomics) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
+* [kibō](https://kibo.money/) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 * [UTXO.live](https://utxo.live) - current UTXO set
 
 ## Community
@@ -268,6 +268,7 @@ title: Bitcoin
 * [Bitcoin Headers over DNS](https://www.bitcoinheaders.net)
 * [BitEscrow](https://www.bitescrow.app)
 * [Strike API](https://developer.strike.me)
+* [Nodana](https://nodana.io) - 1-click deployments for Bitcoin & Lightning Apps
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
 * [Zaprite](https://zaprite.com/) - Bitcoin payments made easy
 
