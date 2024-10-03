@@ -126,6 +126,7 @@ title: Bitcoin
   * [Liquid Developer Portal](https://liquid.net/devs)
   * [Liquid Wallet Kit](https://github.com/Blockstream/lwk)
 * [Mercury Layer](https://mercurylayer.com) - Bitcoin Layer-2 scaling technology based on the concept of statechains. Blinded co-signing and key-cycling technology.
+* [Minibits](https://github.com/minibits-cash/minibits_wallet) - ecash and lightning wallet with a focus on ease of use and security
 * [nutstash](https://nutstash.app) - Cashu wallet for your browser
 * [OpenTimestamps](https://opentimestamps.org)
 * [Ordinals](https://ordinals.com)
