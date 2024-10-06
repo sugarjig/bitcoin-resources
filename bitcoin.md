@@ -329,6 +329,7 @@ title: Bitcoin
 * [The Bitcoin Dev Project](https://bitcoindevs.xyz)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+* [Decoding Bitcoin](https://bitcoindevs.xyz/decoding) - The interactive learning experience designed to help you become confident in Bitcoin development
 * [LARP](https://github.com/base58btc/LARP) - Base58⛓️🔓's World Famous Bitcoin LARP
 * [Learning @ Chaincode](https://learning.chaincode.com)
 * [Saving Satoshi](https://savingsatoshi.com) - Code your way through the mysteries of bitcoin
