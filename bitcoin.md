@@ -119,11 +119,13 @@ title: Bitcoin
 * [Elements](https://elementsproject.org)
 * [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
 * [FediMint](https://fedimint.org) - federated chaumian mints
+  * [Fedimint Web SDK](https://github.com/fedimint/fedimint-web-sdk) - Tools for developing Fedimint web clients
 * [Harbot](https://harbor.cash) - ecash desktop wallet for better bitcoin privacy
 * [ION](https://github.com/decentralized-identity/ion)
 * [Liquid Network](https://liquid.net)
   * [Developer Documentation Portal](https://docs.liquid.net/)
   * [Liquid Developer Portal](https://liquid.net/devs)
+  * [Liquid testnet](https://liquidtestnet.com)
   * [Liquid Wallet Kit](https://github.com/Blockstream/lwk)
 * [Mercury Layer](https://mercurylayer.com) - Bitcoin Layer-2 scaling technology based on the concept of statechains. Blinded co-signing and key-cycling technology.
 * [Minibits](https://github.com/minibits-cash/minibits_wallet) - ecash and lightning wallet with a focus on ease of use and security
@@ -260,6 +262,8 @@ title: Bitcoin
 * [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
 * [Script](https://en.bitcoin.it/wiki/Script)
 * [Script Wiz](https://ide.scriptwiz.app)
+* [simfony](https://github.com/BlockstreamResearch/simfony) - Rust-like high-level language that compiles down to Simplicity bytecode
+  * [Simfony IDE](https://simfony.dev)
 * [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
 * [Simplicity Playground](https://simplicity.scriptwiz.app)
 * [Tapsim](https://github.com/halseth/tapsim) - Bitcoin Tapscript Debugger
