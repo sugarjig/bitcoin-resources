@@ -121,6 +121,7 @@ title: Lightning
 * [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon
 * [lndmon](https://github.com/lightninglabs/lndmon) - drop-in monitoring solution for your lnd node
 * [LNLink for iOS](https://lnlink.app) - allows you to control a c-lightning node over the lightning network itself
+* [LNPlay](https://www.lnplay.guide) - Create private lightning networks. Built with Bitcoin Core, Core Lightning, and Clams Remote
 * [lnprototest](https://github.com/rustyrussell/lnprototest) - Lightning BOLT Protocol Test Framework
 * [lnproxy](https://github.com/lnproxy/lnproxy) - takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
 * [Node Launcher](https://github.com/lightning-power-users/node-launcher) - Easiest Bitcoin Lightning desktop app, for Windows, macOS, and Linux
