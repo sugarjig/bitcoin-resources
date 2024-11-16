@@ -148,6 +148,7 @@ title: Lightning
 ## Wallets
 
 * [Alby](https://getalby.com) - in-browser wallet
+* [Alby Hub](https://albyhub.com) - self-custodial, open source lightning wallet that connects to apps
 * [Blixt Wallet](https://blixtwallet.github.io)
 * [BlueWallet](https://bluewallet.io)
 * [Breez](https://breez.technology)
