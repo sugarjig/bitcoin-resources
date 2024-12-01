@@ -81,6 +81,7 @@ title: Bitcoin
   * [Sovereignism Part 2: Bitcoin, The Ultimate Offshore Bank](https://www.swanbitcoin.com/sovereignism-part-2-bitcoin-the-ultimate-offshore-bank/)
   * [Sovereignism Part 3: Mega-Politics, The History and Logic of Violence](https://breedlove22.medium.com/sovereignism-part-3-mega-politics-the-history-and-logic-of-violence-6a96b4282b91)
   * [Sovereignism Part 4: The Rise of Property and Organized Crime](https://breedlove22.medium.com/sovereignism-part-4-the-rise-of-property-and-organized-crime-a825c31f931a)
+* [Toward a Node World Order](https://nakamotoinstitute.org/mempool/toward-a-node-world-order/)
 * [Who Controls Bitcoin Core?](https://medium.com/@lopp/who-controls-bitcoin-core-c55c0af91b8a)
 
 ## Exchanges
@@ -112,6 +113,7 @@ title: Bitcoin
 ## Layer 2
 
 * [Ark](https://arkdev.info) - layer-two protocol for cheap and fast bitcoin transactions
+  * [bark](https://codeberg.org/ark-bitcoin/bark) - A Rust implementation of the Ark protocol on bitcoin
 * [Bitcoin Mints](https://bitcoinmints.com) - 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
 * [cashu](https://cashu.space) - Chaumian ecash protocol built for Bitcoin
@@ -345,6 +347,7 @@ title: Bitcoin
 ## Wallets
 
 * [Aqua](https://aquawallet.io)
+* [Ashigaru](https://ashigaru.rs) - Samourai replacement
 * [Bitkit](https://bitkit.to) - mobile wallet
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
