@@ -41,6 +41,7 @@ title: Lightning
 * [Core Lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation focusing on spec compliance and performance
   * [Plugins](https://github.com/lightningd/plugins/)
 * [Eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network
+* [Lampo](https://github.com/vincenzopalazzo/lampo.rs) - experimental implementation of a tiny lightning node
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 * [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK
 * [LNP Node](https://github.com/LNP-WG/lnp-node) - Lightning network protocol daemon (suitable for generalized Lightning Network)

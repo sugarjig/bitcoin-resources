@@ -24,6 +24,7 @@ title: Bitcoin
 * [Fork Monitor](https://forkmonitor.info)
 * [fork-observer](https://fork.observer)
 * [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
+* [inquisition.observer](https://inquisition.observer) - every transaction made on the Bitcoin signet that spends a UTXO created using one of the deployed soft forks
 * [mempool.observer](https://mempool.observer)
   * [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
 * [mempool clock](https://mempool.space/clock)
@@ -284,6 +285,7 @@ title: Bitcoin
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
+* [Bitcoin Utils](https://bitcoinutils.dev)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 * [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
 * [BitScript](https://www.bitscript.app) - Bitcoin Development Environment
@@ -332,7 +334,9 @@ title: Bitcoin
 
 * [Base58](https://www.base58.info) - bitcoin protocol school
 * [Bitcoin Classes](https://www.lopp.net/bitcoin-information/online-offline-classes.html)
+* [Bitcoin Core Onboarding](https://bitcoincore.academy)
 * [The Bitcoin Dev Project](https://bitcoindevs.xyz)
+  * [Good First Issues](https://bitcoindevs.xyz/good-first-issues)
 * [Bitcoin Optech Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
 * [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Decoding Bitcoin](https://bitcoindevs.xyz/decoding) - The interactive learning experience designed to help you become confident in Bitcoin development
