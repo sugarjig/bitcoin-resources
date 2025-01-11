@@ -19,6 +19,7 @@ title: Bitcoin
 * [Bitcoin Uptime](https://bitcoinuptime.org)
 * [Bitnodes](https://bitnodes.io) - Reachable Bitcoin Nodes
 * [Bull Bitcoin Fee Multiple](https://feemultiple.bullbitcoin.com/chart/index)
+* [The Case for Bitcoin](https://casebitcoin.com)
 * [Clark Moody Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
   * [v2](https://dashboard.clarkmoody.com)
 * [Fork Monitor](https://forkmonitor.info)
@@ -225,6 +226,7 @@ title: Bitcoin
 * [Bitcoin Transcripts](https://btctranscripts.com) - A treasure trove of transcripts associated with Bitcoin and Lightning Network
 * [Bitcoin Wiki](https://en.bitcoin.it)
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
+  * [Weaknesses](https://en.bitcoin.it/wiki/Weaknesses)
 * [BTC Lexicon](https://btclexicon.com)
 * [Liquid developer documentation](https://docs.liquid.net/)
 * [Protocol documentation](https://en.bitcoin.it/wiki/Protocol_documentation)
@@ -295,6 +297,8 @@ title: Bitcoin
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
 * [Caravan](https://www.caravanmultisig.com) - coordination software for multisig addresses and wallets
+* [Coinswap](https://github.com/citadel-tech/coinswap) - Functioning, minimal-viable binaries and libraries to perform a trustless, p2p Maxwell-Belcher Coinswap Protocol
+  * [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions) (original repo)
 * [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons) - Gordian Reference Code & CLI Utilities
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/#!/)
 * [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Modular Bitcoin full-node microservices API server architecture and utilities toolkit
