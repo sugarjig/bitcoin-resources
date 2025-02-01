@@ -58,6 +58,7 @@ title: Lightning
 ## Protocol
 
 * [Bitcoin Lightning Improvement Proposal](https://github.com/lightning/blips)
+* [L402](https://l402.org) - open protocol that implements internet-native paywalls by building upon the HTTP 402 Payment Required status code and the Lightning Network
 * [Lightning Address](https://lightningaddress.com) - like an email address, but for your Bitcoin!
 * [Lightning Network Specifications](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 * [LNP/BP Specifications](https://github.com/LNP-BP/LNPBPs) - LNP/BP standards for bitcoin layer 2 & 3 protocols
