@@ -309,6 +309,7 @@ title: Bitcoin
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
 * [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
+* [InstaMouse environment](https://instamouse.com/kanzure/bitcoin) - Bitcoin Core development environment
 * [Jam](https://jamapp.org) - a modern interface for JoinMarket
 * [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
 * [joinmarket-clientserver](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Bitcoin CoinJoin implementation with incentive structure to convince people to take part
