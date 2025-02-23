@@ -5,6 +5,7 @@ title: Lightning
 
 ## Apps
 
+* [eltor](https://bitbucket.org/eltordev/eltor) - High bandwidth Tor network fork. Incentivized by the Bitcoin Lightning Network.
 * [Lightning App Directory](https://dev.lightning.community/lapps/)
 * [LN VPN]( https://lnvpn.com)
   * [LN SMS](https://lnvpn.com/phone-numbers) - Bitcoin Lightning-powered disposable phone numbers
