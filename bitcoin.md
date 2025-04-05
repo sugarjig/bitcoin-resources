@@ -34,6 +34,7 @@ title: Bitcoin
 * [Statoshi](https://statoshi.info)
 * [TimechainStats](https://timechainstats.com)
 * [Timechain Calendar](https://timechaincalendar.com)
+* [Timechain Index](https://timechainindex.com)
 * [txstats](https://txstats.com)
 
 ### Charts
