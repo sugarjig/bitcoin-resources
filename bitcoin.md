@@ -26,6 +26,7 @@ title: Bitcoin
 * [fork-observer](https://fork.observer)
 * [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
 * [inquisition.observer](https://inquisition.observer) - every transaction made on the Bitcoin signet that spends a UTXO created using one of the deployed soft forks
+* [mainnet-observer](https://mainnet.observer) - Bitcoin Blockchain Statistics
 * [mempool.observer](https://mempool.observer)
   * [Bitcoin Transaction Monitor](https://mempool.observer/monitor/)
 * [mempool clock](https://mempool.space/clock)
@@ -358,6 +359,7 @@ title: Bitcoin
 
 * [Aqua](https://aquawallet.io)
 * [Ashigaru](https://ashigaru.rs) - Samourai replacement
+* [Bitcoin Safe](https://bitcoin-safe.org) - A bitcoin savings wallet for the entire family
 * [Bitkit](https://bitkit.to) - mobile wallet
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
