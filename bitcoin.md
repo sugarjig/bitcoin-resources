@@ -279,6 +279,7 @@ title: Bitcoin
 
 * [Bitcoin Headers over DNS](https://www.bitcoinheaders.net)
 * [BitEscrow](https://www.bitescrow.app)
+* [Blockstream Explorer API](https://blockstream.info/explorer-api)
 * [Strike API](https://developer.strike.me)
 * [Nodana](https://nodana.io) - 1-click deployments for Bitcoin & Lightning Apps
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
@@ -361,6 +362,7 @@ title: Bitcoin
 * [Ashigaru](https://ashigaru.rs) - Samourai replacement
 * [Bitcoin Safe](https://bitcoin-safe.org) - A bitcoin savings wallet for the entire family
 * [Bitkit](https://bitkit.to) - mobile wallet
+* [Blockstream App](https://blockstream.com/app/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
