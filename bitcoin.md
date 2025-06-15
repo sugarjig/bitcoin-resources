@@ -371,6 +371,7 @@ title: Bitcoin
 * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) - iOS wallet linked by Torgap to your own full-node server
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
 * [Lily Wallet](https://lily-wallet.com/)
+* [Misty Breez](https://github.com/breez/misty-breez) - mobile app built with Flutter that serves as a reference implementation for the Breez SDK (Nodeless)
 * [Muun](https://muun.com) - self-custodial wallet for bitcoin and lightning
 * [MyCitadel Desktop](https://github.com/mycitadel/mycitadel-desktop) - Bitcoin, Lightning and RGB wallet
 * [nakamoto](https://github.com/cloudhead/nakamoto) - light-client implementation in Rust
