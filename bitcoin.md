@@ -157,6 +157,7 @@ title: Bitcoin
 * [pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library
 * [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - Python3 library providing an easy interface to the Bitcoin data structures and protocol
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data-structures and network messages related to Bitcoin
+* [Swift Bitcoin](https://swiftbitcoin.org) - Multiplatform Bitcoin SDK for Swift and beyond
 * [secp256kFUN!](https://github.com/LLFourn/secp256kfun) - pure-rust secp256k1 library optimised for fun
 * [Unchained Capital Bitcoin Utilities](https://github.com/unchained-capital/unchained-bitcoin) - Javascript library for working with bitcoin, esp. validation & multisig
 
@@ -270,7 +271,7 @@ title: Bitcoin
 * [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
 * [Script](https://en.bitcoin.it/wiki/Script)
 * [Script Wiz](https://ide.scriptwiz.app)
-* [simfony](https://github.com/BlockstreamResearch/simfony) - Rust-like high-level language that compiles down to Simplicity bytecode
+* [simfony](https://simfony-lang.com) - Rust-like high-level language that compiles down to Simplicity bytecode
   * [Simfony IDE](https://simfony.dev)
 * [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
 * [Simplicity Playground](https://simplicity.scriptwiz.app)
@@ -290,6 +291,7 @@ title: Bitcoin
 
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
+* [Bitcoin Research Kit](https://github.com/bitcoinresearchkit/brk) - A suite of tools designed to extract, compute and display data stored on a Bitcoin Core node
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
 * [Bitcoin Utils](https://bitcoinutils.dev)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
@@ -383,6 +385,7 @@ title: Bitcoin
 * [Samourai](https://samouraiwallet.com)
 * [Satsigner](https://github.com/satsigner/satsigner) - UTXO Manager and Message Signer
 * [Simple Bitcoin Wallet](https://sbw.app) - open-source, reproducible, non-custodial, autonomous wallet for Android
+* [Sovran](https://sovran.money) - a privacy-focused ecash & lightning wallet that prioritizes simplicity and rich social experiences
 * [Sparrow Wallet](https://www.sparrowwallet.com)
 * [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 * [Stack Wallet](https://stackwallet.com)
