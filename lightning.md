@@ -103,6 +103,7 @@ title: Lightning
 
 * [aperture](https://github.com/lightninglabs/aperture) - HTTP 402 LSAT reverse proxy
 * [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Tool for working with the balance of your satoshis on LND
+* [BLAST](https://github.com/bjohnson5/blast) - Big Lightning Automated Simulation Tool
 * [Bolt 12 Playground](https://github.com/LN-Zap/bolt12-playground)
 * [Boltwall](https://tierion.github.io/boltwall/) - Bitcoin Lightning paywall and authentication using LSATs
 * [Boltz Client](https://github.com/BoltzExchange/boltz-client) - Boltz Client for CLN & LND
