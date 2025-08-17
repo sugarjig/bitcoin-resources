@@ -169,6 +169,7 @@ title: Bitcoin
 * [NiceHash Miner](https://www.nicehash.com)
 * [OCEAN](https://ocean.xyz)
 * [Profitibility Calculator](https://insights.braiins.com/en/profitability-calculator/)
+* [Proto](https://proto.xyz) - Part of the Block financial ecosystem
 * [Stratum](https://www.stratumprotocol.org)
 * [Stratum Work](https://stratum.work) - Websocket-based web app that streams realtime mining pool stratum messages to a table for analysis
 
