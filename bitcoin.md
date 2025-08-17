@@ -275,7 +275,10 @@ title: Bitcoin
 * [Script Wiz](https://ide.scriptwiz.app)
 * [simfony](https://simfony-lang.com) - Rust-like high-level language that compiles down to Simplicity bytecode
   * [Simfony IDE](https://simfony.dev)
-* [Simplicity](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
+* [Simplicity](https://simplicity-lang.org) - Next-generation smart contracts for Bitcoin
+  * [IDE](https://ide.simplicity-lang.org)
+  * [Language](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
+  * [SimplicityHL](https://github.com/BlockstreamResearch/SimplicityHL) - Rust-like high-level language that compiles down to Simplicity bytecode
 * [Simplicity Playground](https://simplicity.scriptwiz.app)
 * [Tapsim](https://github.com/halseth/tapsim) - Bitcoin Tapscript Debugger
 
