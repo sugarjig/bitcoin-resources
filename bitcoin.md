@@ -175,6 +175,7 @@ title: Bitcoin
 ## Miscellaneous
 
 * [Bitcoin Bounties](https://bitcoinbounties.org)
+* [Bitcoin Calendar](https://bitbo.io/calendar/) - Bitbo
 * [Bitcoin Donation Portal](https://bitcoindevlist.com)
 * [Bitcoin Design](https://bitcoin.design) - Open-source design for bitcoin products
 * [Bitcoin Events](https://bitcoin.review/bitcoin-events/)
@@ -244,6 +245,7 @@ title: Bitcoin
 * [Bitcoin Canon](https://www.swanbitcoin.com/canon/) - Swan
 * [Bitcoin Only](https://bitcoin-only.com)
 * [Bitcoin Resources](https://bitcoin-resources.com)
+* [Bitcoin Tools](https://bitbo.io/tools/) - Bitbo
 * [BitcoinDev.org](https://bitcoindev.org) - Bitcoin & Lightning Development Resources
 * [Bitcoiner Books](https://www.bitcoinerbooks.com) - A collection of recommended books by Bitcoiners
 * [Bitcoiner.Guide](https://bitcoiner.guide)
