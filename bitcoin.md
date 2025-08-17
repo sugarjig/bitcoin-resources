@@ -12,6 +12,8 @@ title: Bitcoin
 
 ## Data
 
+* [addrman-observer](https://addrman.observer)
+  * [Repository](https://github.com/0xB10C/addrman-observer) - RPC-based Bitcoin Core IP address manager visulizatiion
 * [Bitbo](https://bitbo.io)
 * [Bitcoin Network Monitor - DSN Research Group](https://www.dsn.kastel.kit.edu/bitcoin/index.html)
 * [Bitcoin Optech Dashboards](https://dashboard.bitcoinops.org)
@@ -24,6 +26,7 @@ title: Bitcoin
   * [v2](https://dashboard.clarkmoody.com)
 * [Fork Monitor](https://forkmonitor.info)
 * [fork-observer](https://fork.observer)
+  * [Repository](https://github.com/0xB10C/fork-observer) - Observe forks on all Bitcoin networks
 * [HODL Waves](https://unchained-capital.com/hodlwaves/) - Bitcoin UTXO Age Distribution
 * [inquisition.observer](https://inquisition.observer) - every transaction made on the Bitcoin signet that spends a UTXO created using one of the deployed soft forks
 * [mainnet-observer](https://mainnet.observer) - Bitcoin Blockchain Statistics
@@ -32,6 +35,7 @@ title: Bitcoin
 * [mempool clock](https://mempool.space/clock)
 * [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
 * [peer-observer](https://public.peer.observer)
+  * [Repository](https://github.com/0xB10C/peer-observer)
 * [PricedInBitcoin21](https://www.pricedinbitcoin21.com)
 * [Statoshi](https://statoshi.info)
 * [TimechainStats](https://timechainstats.com)
@@ -278,7 +282,7 @@ title: Bitcoin
   * [Simfony IDE](https://simfony.dev)
 * [Simplicity](https://simplicity-lang.org) - Next-generation smart contracts for Bitcoin
   * [IDE](https://ide.simplicity-lang.org)
-  * [Language](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
+  * [Repository](https://github.com/BlockstreamResearch/simplicity) - blockchain programming language designed as an alternative to Bitcoin script
   * [SimplicityHL](https://github.com/BlockstreamResearch/SimplicityHL) - Rust-like high-level language that compiles down to Simplicity bytecode
 * [Simplicity Playground](https://simplicity.scriptwiz.app)
 * [Tapsim](https://github.com/halseth/tapsim) - Bitcoin Tapscript Debugger
@@ -305,6 +309,7 @@ title: Bitcoin
 * [BitScript](https://www.bitscript.app) - Bitcoin Development Environment
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
+* [bmon](https://github.com/chaincodelabs/bmon) - Bitcoin network monitor
 * [BTC Price Tool](https://www.btcpricetool.com/) - Explore various platforms to buy Bitcoin and compare their pricing
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
