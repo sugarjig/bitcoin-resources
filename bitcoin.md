@@ -188,7 +188,9 @@ title: Bitcoin
 * [Bitcoin Holidays](https://bitcoin.holiday)
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/)
 * [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org) - interactive timeline
+* [Bitcoin ROI (Bitbo)](https://bitcoinroi.com) - Calculator & tools for Bitcoin
 * [Bitcoin Treasuries](https://bitcointreasuries.net)
+* [Bitcoin Treasuries (Bitbo)](https://bitbo.io/treasuries/)
 * [BitcoinTV.com](https://bitcointv.com)
 * [Blockstream Research](https://research.blockstream.com) - A Bitcoin-focused cryptography team
 * [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
