@@ -53,6 +53,7 @@ title: Bitcoin
 * [Glassnode Studio](https://studio.glassnode.com)
 * [kibō](https://kibo.money/) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 * [UTXO.live](https://utxo.live) - current UTXO set
+* [Wicked Smart Bitcoin](https://wickedsmartbitcoin.com) - Bitcoin Visualizations Updated Hourly/Daily
 
 ## Community
 
@@ -153,6 +154,7 @@ title: Bitcoin
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
 * [descriptor-wallet](https://github.com/BP-WG/descriptor-wallet) - Library for building descriptor-based bitcoin wallets using rust-bitcoin
+* [embit](https://embit.rocks) - bitcoin library designed to run either with Python 3 on a PC or with MicroPython on embedded devices
 * [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk) - cross-platform, cross-language library for Blockstream Green wallets
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
 * [libwally-core](https://github.com/ElementsProject/libwally-core) - cross-platform, cross-language collection of useful primitives for cryptocurrency wallets
@@ -168,6 +170,7 @@ title: Bitcoin
 ## Mining
 
 * [bitaxe](https://github.com/skot/bitaxe) - Open source ASIC Bitcoin miner hardware
+* [Hashpool](https://github.com/vnprc/hashpool) - An accountless mining pool that represents mining shares as ecash tokens
 * [HashrateIndex](https://hashrateindex.com)
 * [Mining Insights](https://insights.braiins.com/en/)
 * [NiceHash Miner](https://www.nicehash.com)
@@ -301,6 +304,7 @@ title: Bitcoin
 
 ## Tools
 
+* [Bitcoin Core Config Generator](https://github.com/jurraca/core-config-tui) - A TUI for generating Bitcoin Core configuration
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
 * [Bitcoin Research Kit](https://github.com/bitcoinresearchkit/brk) - A suite of tools designed to extract, compute and display data stored on a Bitcoin Core node
@@ -326,6 +330,7 @@ title: Bitcoin
 * [ElectrumX](https://github.com/kyuupichan/electrumx) - Alternative implementation of spesmilo/electrum-server
 * [Elephant](https://elephant.bitcoindevkit.org) - wallet creator
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
+* [Explora](https://github.com/lontivero/explora) - A visual transaction explorer
 * [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [InstaMouse environment](https://instamouse.com/kanzure/bitcoin) - Bitcoin Core development environment
@@ -338,6 +343,7 @@ title: Bitcoin
 * [Next Block](https://nextblock.is/) - What fee rate will get your transaction confirmed into the next block?
 * [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
+* [Podman Regtest Infinity Pro](https://github.com/thunderbiscuit/podman-regtest-infinity-pro) - A robust regtest environment with electrum, esplora, CBF, a block explorer and more using Podman containers
 * [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
 * [pushtx](https://github.com/alfred-hodler/pushtx) - Privacy-focused Bitcoin Transaction Broadcast Tool
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
@@ -383,6 +389,7 @@ title: Bitcoin
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
 * [Cake Wallet](https://cakewallet.com)
+* [Cove](https://covebitcoinwallet.com) - The simple bitcoin wallet
 * [Envoy](https://github.com/Foundation-Devices/envoy) - The perfect companion app for your Passport
 * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) - iOS wallet linked by Torgap to your own full-node server
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
