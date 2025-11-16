@@ -113,6 +113,7 @@ title: Lightning
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated Core Lightning Node Manager
 * [doppler](https://github.com/tee8z/doppler) - tool for building out a local regtest environment
 * [faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
+* [hydrus](https://github.com/aftermath2/hydrus) - Lightning liquidity management agent
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments
 * [Lightning Loop](https://github.com/lightninglabs/loop) - A Non-Custodial Off/On Chain Bridge

@@ -196,6 +196,7 @@ title: Bitcoin
 * [Bitcoin Treasuries (Bitbo)](https://bitbo.io/treasuries/)
 * [BitcoinTV.com](https://bitcointv.com)
 * [Blockstream Research](https://research.blockstream.com) - A Bitcoin-focused cryptography team
+* [BTC Map](https://btcmap.org) - Find places to spend sats wherever you are.
 * [A complete history of Bitcoin’s consensus forks](https://blog.bitmex.com/bitcoins-consensus-forks/)
 * [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 * [Keys.lol](https://keys.lol) - list of all private keys
@@ -300,6 +301,7 @@ title: Bitcoin
 * [Strike API](https://developer.strike.me)
 * [Nodana](https://nodana.io) - 1-click deployments for Bitcoin & Lightning Apps
 * [Voltage](https://voltage.cloud) - Bitcoin infrastructure made easy
+  * [Voltage Payments](https://www.voltage.cloud/payments) - business line of credit designed for Lightning-fast Bitcoin and stablecoin transactions
 * [Zaprite](https://zaprite.com/) - Bitcoin payments made easy
 
 ## Tools
@@ -332,6 +334,7 @@ title: Bitcoin
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
 * [Explora](https://github.com/lontivero/explora) - A visual transaction explorer
 * [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
+* [Fuzzamoto](https://github.com/dergoegge/fuzzamoto) - Holistic Fuzzing for Bitcoin Protocol Implementations
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
 * [InstaMouse environment](https://instamouse.com/kanzure/bitcoin) - Bitcoin Core development environment
 * [Jam](https://jamapp.org) - a modern interface for JoinMarket
@@ -383,11 +386,13 @@ title: Bitcoin
 * [Aqua](https://aquawallet.io)
 * [Ashigaru](https://ashigaru.rs) - Samourai replacement
 * [Bitcoin Safe](https://bitcoin-safe.org) - A bitcoin savings wallet for the entire family
+* [Bitkey](https://github.com/proto-at-block/bitkey) - self-custody bitcoin wallet with an app, hardware, and recovery tools
 * [Bitkit](https://bitkit.to) - mobile wallet
 * [Blockstream App](https://blockstream.com/app/)
 * [Blockstream Green](https://blockstream.com/green/)
 * [Blue Wallet](https://bluewallet.io) - mobile wallet
 * [Border Wallets](https://www.borderwallets.com) - quickly and reliably memorise Bitcoin seed phrases
+* [Bull Bitcoin](https://wallet.bullbitcoin.com/en)
 * [Cake Wallet](https://cakewallet.com)
 * [Cove](https://covebitcoinwallet.com) - The simple bitcoin wallet
 * [Envoy](https://github.com/Foundation-Devices/envoy) - The perfect companion app for your Passport
