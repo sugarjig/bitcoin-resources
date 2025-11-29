@@ -123,7 +123,7 @@ title: Bitcoin
 ## Layer 2
 
 * [Ark](https://arkdev.info) - layer-two protocol for cheap and fast bitcoin transactions
-  * [bark](https://codeberg.org/ark-bitcoin/bark) - A Rust implementation of the Ark protocol on bitcoin
+  * [bark](https://gitlab.com/ark-bitcoin/bark) - A Rust implementation of the Ark protocol on bitcoin
 * [Bitcoin Mints](https://bitcoinmints.com) - 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
 * [cashu](https://cashu.space) - Chaumian ecash protocol built for Bitcoin
@@ -149,11 +149,13 @@ title: Bitcoin
 
 ## Libraries
 
+* [bitcoin-augur](https://github.com/block/bitcoin-augur) - Mempool-based bitcoin fee estimation library
 * [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
 * [bitcoinj](https://bitcoinj.github.io) - Java implementation of the Bitcoin protocol
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
 * [descriptor-wallet](https://github.com/BP-WG/descriptor-wallet) - Library for building descriptor-based bitcoin wallets using rust-bitcoin
+* [DLC Dev Kit](https://github.com/bennyhodl/dlcdevkit) - pplication tooling for dlc's
 * [embit](https://embit.rocks) - bitcoin library designed to run either with Python 3 on a PC or with MicroPython on embedded devices
 * [GreenAddress C/C++ SDK](https://github.com/blockstream/gdk) - cross-platform, cross-language library for Blockstream Green wallets
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
@@ -308,6 +310,7 @@ title: Bitcoin
 
 * [Bitcoin Core Config Generator](https://github.com/jurraca/core-config-tui) - A TUI for generating Bitcoin Core configuration
 * [Bitcoin Dev Kit](https://bitcoindevkit.org)
+  * [The Book of BDK](https://bookofbdk.com)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)
 * [Bitcoin Research Kit](https://github.com/bitcoinresearchkit/brk) - A suite of tools designed to extract, compute and display data stored on a Bitcoin Core node
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
@@ -318,6 +321,7 @@ title: Bitcoin
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
 * [Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [bmon](https://github.com/chaincodelabs/bmon) - Bitcoin network monitor
+* [bria](https://github.com/GaloyMoney/bria) - enables transaction batching and UTXO management providing the liquidity of on-chain UTXOs to multiple consumers
 * [BTC Price Tool](https://www.btcpricetool.com/) - Explore various platforms to buy Bitcoin and compare their pricing
 * [BTC RPC Explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core
 * [BTCPay Server](https://btcpayserver.org) - self-hosted, open-source payment processor
@@ -422,6 +426,7 @@ title: Bitcoin
 ### Hardware Wallets
 
 * [Coldcard](https://coldcardwallet.com)
+* [Frostsnap](https://frostsnap.com)
 * [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin
 * [Passport](https://foundation.xyz/passport/)
 * [Specter-DIY](https://github.com/cryptoadvance/specter-diy) - DIY airgapped hardware wallet that uses QR codes for communication with the host
