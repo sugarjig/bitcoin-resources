@@ -354,6 +354,7 @@ title: Bitcoin
 * [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
 * [pushtx](https://github.com/alfred-hodler/pushtx) - Privacy-focused Bitcoin Transaction Broadcast Tool
 * [pyblock](https://curly60e.github.io/pyblock/) - dashboard
+* [rawBit](https://rawbit.io) - visual, node-based editor for constructing and understanding Bitcoin transactions
 * [reserves](https://github.com/ElementsProject/reserves) - Proof-of-Reserves tool for Bitcoin
 * [Seed Tool](https://bitcoiner.guide/seed/) - experiment and learn how bitcoin wallets are generated using different sources of entropy
 * [Sapio](https://github.com/sapio-lang/sapio) - a framework for creating composable multi-transaction Bitcoin Smart Contracts
