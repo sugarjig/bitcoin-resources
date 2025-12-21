@@ -109,6 +109,7 @@ title: Bitcoin
 * [Bitfeed](https://bitfeed.live)
 * [Blockstream](https://blockstream.info)
 * [Chaingraph](https://chaingraph.cash)
+* [Explore Timechain](https://exploretimechain.com) - real-time 3D Bitcoin block visualization
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
 
