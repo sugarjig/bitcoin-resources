@@ -209,6 +209,7 @@ title: Bitcoin
 * [SatoshisPerPerson.com](https://satoshisperperson.com) - How many satoshis are there per person in the world?
 * [Sats Converter](https://satsconverter.io)
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
+* [Skeptics, The: A Tribute to Bold Assertions (Satoshi Nakamoto Institute)](https://nakamotoinstitute.org/the-skeptics/)
 * [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai) - Bitcoin LLM
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
