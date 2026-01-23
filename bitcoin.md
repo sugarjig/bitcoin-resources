@@ -10,6 +10,15 @@ title: Bitcoin
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 
+## Community
+
+* [Delving Bitcoin](https://delvingbitcoin.org)
+
+## Cryptography
+
+* [Crypto Workbook](https://github.com/cryptography-camp/workbook) - Cryptocamp 2025
+* [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
+
 ## Data
 
 * [addrman-observer](https://addrman.observer)
@@ -35,7 +44,7 @@ title: Bitcoin
 * [mempool clock](https://mempool.space/clock)
 * [Mining Pool Observer](https://miningpool.observer) - Transparency for Mining Pool Transaction Selection
 * [peer-observer](https://public.peer.observer)
-  * [Repository](https://github.com/0xB10C/peer-observer)
+  * [Repository](https://github.com/peer-observer/peer-observer)
 * [PricedInBitcoin21](https://www.pricedinbitcoin21.com)
 * [Statoshi](https://statoshi.info)
 * [TimechainStats](https://timechainstats.com)
@@ -54,14 +63,6 @@ title: Bitcoin
 * [kibō](https://kibo.money/) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 * [UTXO.live](https://utxo.live) - current UTXO set
 * [Wicked Smart Bitcoin](https://wickedsmartbitcoin.com) - Bitcoin Visualizations Updated Hourly/Daily
-
-## Community
-
-* [Delving Bitcoin](https://delvingbitcoin.org)
-
-## Cryptography
-
-* [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
 
 ## Essays
 
@@ -111,6 +112,7 @@ title: Bitcoin
 * [Chaingraph](https://chaingraph.cash)
 * [Explore Timechain](https://exploretimechain.com) - real-time 3D Bitcoin block visualization
 * [Fast Bitcoin Block Explorer](https://fbbe.info)
+* [Mempal](https://github.com/aeonBTC/Mempal) - Bitcoin mempool monitoring and notification app for Android
 * [mempool](https://mempool.space)
 * [OXT](https://oxt.me)
 
@@ -124,17 +126,10 @@ title: Bitcoin
 
 ## Layer 2
 
-* [Ark](https://arkdev.info) - layer-two protocol for cheap and fast bitcoin transactions
-  * [bark](https://gitlab.com/ark-bitcoin/bark) - A Rust implementation of the Ark protocol on bitcoin
-* [Bitcoin Mints](https://bitcoinmints.com) - 
 * [BitVM tapleaf-circuits](https://github.com/supertestnet/tapleaf-circuits) - A proof-of-concept implementation of BitVM for bristol circuits
-* [cashu](https://cashu.space) - Chaumian ecash protocol built for Bitcoin
 * [did:btc Method Specifiction](https://github.com/MicroStrategy/did-btc-spec) - Microstrategy
 * [Elements](https://elementsproject.org)
 * [Elements Project blockchain platform](https://github.com/ElementsProject/elements)
-* [FediMint](https://fedimint.org) - federated chaumian mints
-  * [Fedimint Web SDK](https://github.com/fedimint/fedimint-web-sdk) - Tools for developing Fedimint web clients
-* [Harbot](https://harbor.cash) - ecash desktop wallet for better bitcoin privacy
 * [ION](https://github.com/decentralized-identity/ion)
 * [Liquid Network](https://liquid.net)
   * [Developer Documentation Portal](https://docs.liquid.net/)
@@ -142,11 +137,10 @@ title: Bitcoin
   * [Liquid testnet](https://liquidtestnet.com)
   * [Liquid Wallet Kit](https://github.com/Blockstream/lwk)
 * [Mercury Layer](https://mercurylayer.com) - Bitcoin Layer-2 scaling technology based on the concept of statechains. Blinded co-signing and key-cycling technology.
-* [Minibits](https://github.com/minibits-cash/minibits_wallet) - ecash and lightning wallet with a focus on ease of use and security
-* [nutstash](https://nutstash.app) - Cashu wallet for your browser
 * [OpenTimestamps](https://opentimestamps.org)
 * [Ordinals](https://ordinals.com)
 * [Rootstock](https://rootstock.io/)
+* [Spark](https://docs.spark.money)
 * [Web5](https://developer.tbd.website/projects/web5/) - an extra decentralized web platform
 
 ## Libraries
@@ -170,6 +164,7 @@ title: Bitcoin
 * [Swift Bitcoin](https://swiftbitcoin.org) - Multiplatform Bitcoin SDK for Swift and beyond
 * [secp256kFUN!](https://github.com/LLFourn/secp256kfun) - pure-rust secp256k1 library optimised for fun
 * [Unchained Capital Bitcoin Utilities](https://github.com/unchained-capital/unchained-bitcoin) - Javascript library for working with bitcoin, esp. validation & multisig
+* [Utreexo Accumulator](https://rustreexo-playground.starkwarebitcoin.dev)
 
 ## Mining
 
@@ -223,6 +218,7 @@ title: Bitcoin
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS) - Tor-protected full-node GordianServer for macOS
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
+* [mako](https://github.com/chjj/mako) - written in C
 * [myNode](https://mynodebtc.com)
 * [Nigiri Bitcoin](https://nigiri.vulpem.com) - A delicious docker box for special Bitcoin and Liquid cookings
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
@@ -284,6 +280,7 @@ title: Bitcoin
 * [bitcoin-scriptexec](https://github.com/BitVM/rust-bitcoin-scriptexec) - A work-in-progress Bitcoin Script execution utility
 * [btcdeb](https://github.com/bitcoin-core/btcdeb) - Script debugger
 * [Miniscript](http://bitcoin.sipa.be/miniscript/)
+* [Miniscript Studio](https://adys.dev/miniscript)
 * [Minsc](https://min.sc) - A Miniscript-based scripting language for Bitcoin contracts
 * [Opcode Explained](https://opcodeexplained.com) - Documenting bitcoin opcodes, one at a time
 * [s-lang](https://github.com/BlockstreamResearch/s-lang) - WIP implementation of simplicity high level language
@@ -319,6 +316,7 @@ title: Bitcoin
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
 * [Bitcoin Utils](https://bitcoinutils.dev)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
+* [bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz) - Differential Fuzzing of Bitcoin protocol implementations and libraries
 * [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
 * [BitScript](https://www.bitscript.app) - Bitcoin Development Environment
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet

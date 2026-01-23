@@ -24,6 +24,7 @@ title: Lightning
 
 ## Libraries
 
+* [Blockstream Green Development Kit](https://github.com/Blockstream/gdk) - C/C++ SDK
 * [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Web SDK](https://github.com/getAlby/js-lightning-tools) - Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps
@@ -96,6 +97,7 @@ title: Lightning
 * [LnRouter](https://lnrouter.app) - helps node operators make informed decisions with data and tools that matter
 * [Magma](https://amboss.space/magma) - Lightning channel marketplace
 * [Nodeless](https://nodeless.io) - Accept Bitcoin payments
+* [npub.cash](https://npub.cash) - nostr native Lightning Address for everyone
 * [River Lightning Services](https://www.rls.dev)
 * [Terminal Web](https://terminal.lightning.engineering) - Gather actionable insights about your Lightning node
 * [ZEBEDEE](https://zebedee.io) - lets developers make financial transactions a native part of their apps and games
@@ -114,8 +116,10 @@ title: Lightning
 * [CLBOSS](https://github.com/ZmnSCPxj/clboss) - Automated Core Lightning Node Manager
 * [doppler](https://github.com/tee8z/doppler) - tool for building out a local regtest environment
 * [faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
+* [Gossip Observer](https://github.com/jharveyb/gossip_observer) - A project to collect LN gossip traffic and compute useful metrics to inform a set-reconciliation based protocol (Erlay-like) to replace message flooding
 * [hydrus](https://github.com/aftermath2/hydrus) - Lightning liquidity management agent
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
+* [Lightning Box](https://github.com/hsjoberg/lightning-box) - A trust-minimized payment inbox for Lightning Addresses
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments
 * [Lightning Loop](https://github.com/lightninglabs/loop) - A Non-Custodial Off/On Chain Bridge
 * [Lightning Network Faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network!
@@ -157,9 +161,12 @@ title: Lightning
 * [Alby](https://getalby.com) - in-browser wallet
 * [Alby Hub](https://albyhub.com) - self-custodial, open source lightning wallet that connects to apps
 * [Blixt Wallet](https://blixtwallet.github.io)
+* [Blitz Wallet](https://blitzwalletapp.com)
+* [Blitz Wallet Web](https://github.com/BlitzWallet/blitz-web-app)
 * [BlueWallet](https://bluewallet.io)
 * [Breez](https://breez.technology)
 * [Etta](https://github.com/EttaWallet/EttaWallet) - Simple open-source non-custodial bitcoin/lightning wallet with a strong bias towards usability, accessibility and good UX
+* [Misty Breez](https://github.com/breez/misty-breez) - mobile app built with Flutter that serves as a reference implementation for the Breez SDK (Liquid)
 * [Mutiny Wallet](https://app.mutinywallet.com)
 * [Muun](https://muun.com)
 * [Phoenix Wallet](https://phoenix.acinq.co)
