@@ -26,6 +26,7 @@ title: Lightning
 
 * [Blockstream Green Development Kit](https://github.com/Blockstream/gdk) - C/C++ SDK
 * [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
+* [Lightning Agent Tools](https://github.com/lightninglabs/lightning-agent-tools) - AI agent toolkit (skills+MCP server) for Lightning Network payments. Run nodes, pay for APIs (L402), host paid endpoints, and manage credentials.
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Web SDK](https://github.com/getAlby/js-lightning-tools) - Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps
 
