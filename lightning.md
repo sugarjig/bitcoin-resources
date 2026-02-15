@@ -26,7 +26,6 @@ title: Lightning
 
 * [Blockstream Green Development Kit](https://github.com/Blockstream/gdk) - C/C++ SDK
 * [Breez SDK](https://github.com/breez/breez-sdk) - enables mobile developers to integrate Lightning and bitcoin payments into their apps with a very shallow learning curve
-* [Lightning Agent Tools](https://github.com/lightninglabs/lightning-agent-tools) - AI agent toolkit (skills+MCP server) for Lightning Network payments. Run nodes, pay for APIs (L402), host paid endpoints, and manage credentials.
 * [Lightning Dev Kit](https://lightningdevkit.org) - flexible lightning implementation and supporting batteries
 * [Lightning Web SDK](https://github.com/getAlby/js-lightning-tools) - Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps
 
@@ -119,6 +118,7 @@ title: Lightning
 * [faraday](https://github.com/lightninglabs/faraday) - channel management and optimization tool
 * [Gossip Observer](https://github.com/jharveyb/gossip_observer) - A project to collect LN gossip traffic and compute useful metrics to inform a set-reconciliation based protocol (Erlay-like) to replace message flooding
 * [hydrus](https://github.com/aftermath2/hydrus) - Lightning liquidity management agent
+* [Lightning Agent Tools](https://github.com/lightninglabs/lightning-agent-tools) - AI agent toolkit (skills+MCP server) for Lightning Network payments. Run nodes, pay for APIs (L402), host paid endpoints, and manage credentials.
 * [Lightning App Template](https://github.com/reneaaron/lapp-template) - A simple project template to build your ⚡ Lightning Apps on. Authentication, WebLN, QR-Code fallbacks and more!
 * [Lightning Box](https://github.com/hsjoberg/lightning-box) - A trust-minimized payment inbox for Lightning Addresses
 * [Lightning Charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments
