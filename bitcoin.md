@@ -8,6 +8,7 @@ title: Bitcoin
 * [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
 * [Learning Bitcoin (and Lightning) from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+* [Mastering Taproot](https://github.com/aaron-recompile/mastering-taproot)
 * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
 
 ## Community
@@ -147,6 +148,7 @@ title: Bitcoin
 
 * [bitcoin-augur](https://github.com/block/bitcoin-augur) - Mempool-based bitcoin fee estimation library
 * [bitcoinex](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir
+* [BitcoinerLab](https://bitcoinerlab.com) - set of TypeScript modules that enable the creation of Bitcoin applications
 * [bitcoinj](https://bitcoinj.github.io) - Java implementation of the Bitcoin protocol
 * [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers
 * [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - Bitcoin toolkit for ObjC and Swift
@@ -163,6 +165,7 @@ title: Bitcoin
 * [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data-structures and network messages related to Bitcoin
 * [Swift Bitcoin](https://swiftbitcoin.org) - Multiplatform Bitcoin SDK for Swift and beyond
 * [secp256kFUN!](https://github.com/LLFourn/secp256kfun) - pure-rust secp256k1 library optimised for fun
+* [SV2 Libraries](https://github.com/stratum-mining/stratum) - Stratum V2 protocol libraries
 * [Unchained Capital Bitcoin Utilities](https://github.com/unchained-capital/unchained-bitcoin) - Javascript library for working with bitcoin, esp. validation & multisig
 * [Utreexo Accumulator](https://rustreexo-playground.starkwarebitcoin.dev)
 
@@ -413,6 +416,7 @@ title: Bitcoin
 * [Nunchuk](https://nunchuk.io) - Multisig
 * [Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet) - A testnet-only bitcoin wallet full of tutorials on how to use bitcoin wallets
 * [ProtonWallet](https://github.com/protonwallet/)
+* [Rewind Bitcoin](https://rewindbitcoin.com)
 * [Samourai](https://samouraiwallet.com)
 * [Satsigner](https://github.com/satsigner/satsigner) - UTXO Manager and Message Signer
 * [Simple Bitcoin Wallet](https://sbw.app) - open-source, reproducible, non-custodial, autonomous wallet for Android

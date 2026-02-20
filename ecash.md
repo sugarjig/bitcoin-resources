@@ -6,8 +6,10 @@ title: Ecash
 ## Libraries
 
 - [Cashu Dev Kit](https://cashudevkit.org)
+- [Cashu TS](https://github.com/cashubtc/cashu-ts) - A TypeScript library for building Cashu wallets
 - [CDK Kotlin](https://github.com/cashubtc/cdk-kotlin) - Kotlin/Android bindings for the Cashu Development Kit (CDK)
 - [CDK Swift](https://github.com/cashubtc/cdk-swift) - Swift language bindings for the Cashu Development Kit
+- [coco-cashu](https://github.com/cashubtc/coco) - A modular, TypeScript-first toolkit for building Cashu wallets and applications
 - [Fedimint SDK](https://github.com/fedimint/fedimint-sdk)
 
 ## Mints

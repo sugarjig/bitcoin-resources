@@ -12,3 +12,7 @@ title: Ark
 
 - [Ark Protocol Explainer | Docs - Ark Labs](https://docs.arklabs.xyz/ark/)
 - [Ark protocol guides and API Reference | Second Docs](https://docs.second.tech)
+
+## Wallets
+
+- [Noah](https://github.com/BlixtWallet/noah) - A trust-minimized Ark Wallet
