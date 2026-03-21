@@ -319,6 +319,7 @@ title: Bitcoin
 * [Bitcoin UI Kit](https://www.bitcoinuikit.com) - A design system and UI kit for Bitcoin wallet applications
 * [Bitcoin Utils](https://bitcoinutils.dev)
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
+* [bitcoin-tui](https://github.com/janb84/bitcoin-tui) - A terminal UI for bitcoin
 * [bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz) - Differential Fuzzing of Bitcoin protocol implementations and libraries
 * [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
 * [BitScript](https://www.bitscript.app) - Bitcoin Development Environment
