@@ -171,10 +171,14 @@ title: Bitcoin
 
 ## Mining
 
-* [bitaxe](https://github.com/skot/bitaxe) - Open source ASIC Bitcoin miner hardware
+* [bitaxe](https://www.bitaxe.org) - Open source ASIC Bitcoin miner hardware
+* [Ember One](https://emberone.org) - open source bitcoin mining hardware
 * [Hashpool](https://github.com/vnprc/hashpool) - An accountless mining pool that represents mining shares as ecash tokens
 * [HashrateIndex](https://hashrateindex.com)
+* [Hydra Pool](https://hydrapool.org) - open source bitcoin mining pool
+* [Libre Board](https://libreboard.org) - open source bitcoin mining control board
 * [Mining Insights](https://insights.braiins.com/en/)
+* [Mujina](https://mujina.org) - open source Bitcoin mining firmware
 * [NiceHash Miner](https://www.nicehash.com)
 * [OCEAN](https://ocean.xyz)
 * [Profitibility Calculator](https://insights.braiins.com/en/profitability-calculator/)
@@ -214,6 +218,7 @@ title: Bitcoin
 
 ## Nodes
 
+* [Bitcoin Backbone](https://bitcoinbackbone.org) - experimental bitcoin full node released under open source license (GPLv2)
 * [Bitcoin Core App](https://bitcoincore.app) - QML-based Bitcoin Core application
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
@@ -226,6 +231,7 @@ title: Bitcoin
 * [Nigiri Bitcoin](https://nigiri.vulpem.com) - A delicious docker box for special Bitcoin and Liquid cookings
 * [Samourai Dojo](https://code.samourai.io/dojo/samourai-dojo)
 * [Statoshi](https://jlopp.github.io/statoshi/)
+* [utreexod](https://github.com/utreexo/utreexod) - full node bitcoin implementation with support for utreexo accumulators
 
 ## Papers
 
@@ -342,6 +348,7 @@ title: Bitcoin
 * [Elephant](https://elephant.bitcoindevkit.org) - wallet creator
 * [Esplora Block Explorer](https://github.com/blockstream/esplora)
 * [Explora](https://github.com/lontivero/explora) - A visual transaction explorer
+* [Frigate Electrum Server](https://github.com/sparrowwallet/frigate) - Electrum server for Silent Payments (BIP352)
 * [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server
 * [Fuzzamoto](https://github.com/dergoegge/fuzzamoto) - Holistic Fuzzing for Bitcoin Protocol Implementations
 * [Hardware Wallet Interface](https://github.com/bitcoin-core/HWI)
