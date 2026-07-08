@@ -225,6 +225,7 @@ title: Bitcoin
 * [Floresta](https://github.com/vinteumorg/Floresta) - A fully-validating Bitcoin node powered by Utreexo, with an integrated Electrum Server
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS) - Tor-protected full-node GordianServer for macOS
+* [Hornet](https://hornetnode.org/overview.html) - minimal, executable specification of Bitcoin's consensus rules, expressed both in declarative C++ and in a purpose-built domain-specific language
 * [Libbitcoin Server](https://github.com/libbitcoin/libbitcoin-server)
 * [mako](https://github.com/chjj/mako) - written in C
 * [myNode](https://mynodebtc.com)
@@ -254,6 +255,7 @@ title: Bitcoin
   * [Privacy](https://en.bitcoin.it/wiki/Privacy)
   * [Weaknesses](https://en.bitcoin.it/wiki/Weaknesses)
 * [BTC Lexicon](https://btclexicon.com)
+* [Hornet: Bitcoin Consensus Specification](https://hornetnode.org/spec.html)
 * [Liquid developer documentation](https://docs.liquid.net/)
 * [Protocol documentation](https://en.bitcoin.it/wiki/Protocol_documentation)
 
