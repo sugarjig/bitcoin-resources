@@ -5,6 +5,7 @@ title: Bitcoin
 
 ## Books
 
+* [Every Byte Tells a Story](https://txbook.magicinternetmath.com) - A Complete Guide to Bitcoin Transaction Anatomy
 * [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
 * [Learning Bitcoin (and Lightning) from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
