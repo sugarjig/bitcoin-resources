@@ -418,6 +418,7 @@ title: Bitcoin
 * [Cove](https://covebitcoinwallet.com) - The simple bitcoin wallet
 * [Envoy](https://github.com/Foundation-Devices/envoy) - The perfect companion app for your Passport
 * [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) - iOS wallet linked by Torgap to your own full-node server
+* [Ibis Wallet](https://github.com/aeonBTC/IbisWallet) - A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy
 * [Liana](https://github.com/wizardsardine/liana) - simple Bitcoin wallet that features a timelocked recovery path for all your coins
 * [Lily Wallet](https://lily-wallet.com/)
 * [Misty Breez](https://github.com/breez/misty-breez) - mobile app built with Flutter that serves as a reference implementation for the Breez SDK (Nodeless)

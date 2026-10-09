@@ -46,6 +46,7 @@ title: Lightning
 * [Lampo](https://github.com/vincenzopalazzo/lampo.rs) - experimental implementation of a tiny lightning node
 * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
 * [LDK Node](https://github.com/lightningdevkit/ldk-node) - A ready-to-go node implementation built using LDK
+* [LDK Server](https://github.com/lightningdevkit/ldk-server) - LDK Server is a fully-functional Lightning node in daemon form.
 * [LNP Node](https://github.com/LNP-WG/lnp-node) - Lightning network protocol daemon (suitable for generalized Lightning Network)
 * [NLightning](https://nlightning.ipms.io) - A C# dotNet Lightning Implementation
 * [phoenixd](https://phoenix.acinq.co/server)
