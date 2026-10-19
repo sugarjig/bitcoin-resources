@@ -213,6 +213,7 @@ title: Bitcoin
 * [Sats Converter](https://satsconverter.io)
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 * [Skeptics, The: A Tribute to Bold Assertions (Satoshi Nakamoto Institute)](https://nakamotoinstitute.org/the-skeptics/)
+* [Spaces Protocol](https://spacesprotocol.org) - sovereign naming on Bitcoin
 * [Spirit of Satoshi](https://www.app.spiritofsatoshi.ai) - Bitcoin LLM
 * [Time in Blocks](https://timeinblocks.com) - convert normal time into Bitcoin block time
 * [Who Funds Bitcoin Development](https://whofundsbitcoin.com)
@@ -244,6 +245,7 @@ title: Bitcoin
 ## Reference
 
 * [BIPs](https://bips.xyz)
+* [BIP Explorer](https://bipexplorer.com) - 
 * [Bitcoin Core RPC](https://bitcoincore.org/en/doc/)
 * [Bitcoin Developer](https://developer.bitcoin.org)
 * Bitcoin Optech
@@ -330,6 +332,7 @@ title: Bitcoin
 * [Bitcoin Wallet Tracker](https://github.com/shesek/bwt) - A lightweight wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 * [bitcoin-tui](https://github.com/janb84/bitcoin-tui) - A terminal UI for bitcoin
 * [bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz) - Differential Fuzzing of Bitcoin protocol implementations and libraries
+* [bitcoinix](https://github.com/bitcoinix/bitcoinix) - collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [bitcointools](https://github.com/jnewbery/bitcointools) - Tools for bitcoind data files
 * [BitScript](https://www.bitscript.app) - Bitcoin Development Environment
 * [Blockbook](https://github.com/trezor/blockbook) - back-end service for Trezor wallet
@@ -363,7 +366,6 @@ title: Bitcoin
 * [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
 * [Next Block](https://nextblock.is/) - What fee rate will get your transaction confirmed into the next block?
-* [nix-bitcoin](https://nixbitcoin.org) - Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security
 * [Nodeyez](https://github.com/vicariousdrama/nodeyez) - Display panels to get the most from your node
 * [Podman Regtest Infinity Pro](https://github.com/thunderbiscuit/podman-regtest-infinity-pro) - A robust regtest environment with electrum, esplora, CBF, a block explorer and more using Podman containers
 * [PROXNUT](https://proxnut.com) - seamless integration with any Cashu ecash wallet for effortless API data transactions
