@@ -443,6 +443,7 @@ title: Bitcoin
 * [Volt Wallet](https://github.com/Zero-1729/volt)
 * [Wallby](https://wallby.app) - the only place where you can access Bitcoin and all its layer 2 networks and side-chain protocols
 * [Wasabi](https://www.wasabiwallet.io) - non-custodial, privacy-focused wallet
+* [Wavelength](https://wavelength.money) - Instant, high-volume, low-fee payments for your app, your users, and your agents
 
 ### Hardware Wallets
 
