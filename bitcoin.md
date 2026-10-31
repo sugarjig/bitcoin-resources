@@ -362,6 +362,7 @@ title: Bitcoin
 * [Jam](https://jamapp.org) - a modern interface for JoinMarket
 * [JoininBox](https://github.com/openoms/joininbox) - terminal based graphical menu for JoinMarket
 * [joinmarket-clientserver](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Bitcoin CoinJoin implementation with incentive structure to convince people to take part
+* [Keylay](https://keylay.org) - Coordinate multisig across distance without exposing participants.
 * [Labelbase](https://labelbase.space/ann-v2/)
 * [Mempool](https://github.com/mempool/mempool)
 * [Mule Tools](https://github.com/MuleTools/MuleTools)
