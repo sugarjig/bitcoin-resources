@@ -224,6 +224,7 @@ title: Bitcoin
 * [Bitcoin Core App](https://bitcoincore.app) - QML-based Bitcoin Core application
 * [Bitcore](https://bitcore.io)
 * [btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
+* [exnode](https://github.com/brunoerg/exnode) - Bitcoin full-node written in Elixir
 * [Floresta](https://github.com/vinteumorg/Floresta) - A fully-validating Bitcoin node powered by Utreexo, with an integrated Electrum Server
 * [Fully Noded](https://fullynoded.app)
 * [GordianServer-macOS](https://github.com/BlockchainCommons/GordianServer-macOS) - Tor-protected full-node GordianServer for macOS
